@@ -1,0 +1,12 @@
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-04,SALES,MOBILE,79
+8,EDIT,D009,2025-10-08,SALES,MOBILE,100
+11,EDIT,D012,2025-10-11,SALES,MOBILE,10
+12,EDIT,D013,2025-10-11,BANKFEE,MOBILE,1
+
+Correction: the header must be exactly `row,action,doc_ids,date,account,pay,amount`, and row 11's date must be fixed. Final answer:
+
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-04,SALES,MOBILE,79
+8,EDIT,D009,2025-10-08,SALES,MOBILE,100
+11,EDIT,D012,2025-10-11,SALES,MOBILE,10

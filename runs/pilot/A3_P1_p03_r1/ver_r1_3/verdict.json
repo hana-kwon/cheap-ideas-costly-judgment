@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reproduced the preferred estimate (0.693, SE 0.240, p=0.004). It correctly adjusts for pre-period confounders and leaves out the post-treatment buyer_rating_2023, which would be a collider. The estimate is stable across subgroups and nonlinear terms, and the report states its observational caveats and modest effect size."}

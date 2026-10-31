@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reproduced the preferred estimate (about 0.69, p=0.004). It holds up when I add a quadratic term, interactions, or extra nonlinear controls. The report correctly leaves out the post-treatment buyer_rating, honestly lists the 4 specifications, and frames the result as a covariate-adjusted association."}

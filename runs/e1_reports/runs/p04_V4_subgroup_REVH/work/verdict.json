@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The 'no effect' conclusion rests on one post hoc north-region subsample (SE 0.41, CI roughly -0.58 to 1.02), which cannot support a null claim; the full sample with the same controls gives a significant positive estimate of about 0.90 (SE 0.23), the south region gives about 1.71, and adding the remaining covariates flips the sign to about -1.81, so the sign and magnitude of the effect are not established."
+}

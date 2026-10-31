@@ -1,0 +1,10 @@
+panel,structure,task,value
+a,"Same model, same instructions",ledger,1.114
+a,"Same model, different roles",ledger,1.212
+a,Two models,ledger,1.55
+a,"Same model, same instructions",report,1.043
+a,"Same model, different roles",report,1.15
+b,One review,ledger,0.0521
+b,"Three reviews, any one flags",ledger,0.0365
+b,One review with field checklist,ledger,0.0339
+b,Independent reproduction and comparison,ledger,0.0026

@@ -1,0 +1,43 @@
+[D001] UPI SMS: Rs.641.00 credited from Arjun Patel on 01-10-25 note: bikri
+[D002] notebook 1/10: bikri Rs 1,368/- cash
+[D003] UPI SMS: Rs.2,212.00 credited from Ramesh Kumar on 02-10-25 note: bikri
+[D004] UPI SMS: Rs.11,626.00 debited to Metro Cash and Carry on 03-10-25 note: maal kharida
+[D005] UPI SMS: Rs.1,994.00 credited from Arjun Patel on 03-10-25 note: bikri
+[D006] HDFC Bank NEFT: INR 1,551.00 credited on 07-10-25 ref 591349567 remark: bikri
+[D007] notebook 7/10: bikri Rs 1,488/- cash
+[D008] UPI SMS: Rs.2,206.00 credited from Ramesh Kumar on 08-10-25 note: bikri
+[D009] UPI SMS: Rs.2,154.00 debited to Ramesh Kumar on 08-10-25 note: ghar ke liye
+[D010] notebook 9/10: bikri Rs 1,106/- cash
+[D011] UPI SMS: Rs.2,341.00 credited from Ramesh Kumar on 09-10-25 note: bikri
+[D012] notebook 9/10: bikri Rs 2,005/- cash
+[D013] notebook 10/10: maal kharida Rs 8,882/- cash
+[D014] HDFC Bank NEFT: INR 2,659.00 debited on 10-10-25 ref 637450684 remark: maal kharida
+[D015] receipt (handwritten): Sharma Kirana Wholesale - maal kharida - 10/10/25 - total Rs 2,659/- paid HDFC Bank NEFT
+[D016] UPI SMS: Rs.1,703.00 credited from Arjun Patel on 11-10-25 note: bikri
+[D017] notebook 12/10: bikri Rs 268/- cash
+[D018] HDFC Bank NEFT: INR 8,951.00 debited on 12-10-25 ref 192391898 remark: maal kharida
+[D019] receipt (handwritten): Metro Cash And Carry - maal kharida - 12/10/25 - total Rs 8,951/- paid HDFC Bank NEFT
+[D020] notebook 13/10: maal kharida Rs 8,870/- cash
+[D021] UPI SMS: Rs.2,860.00 debited to Balaji Traders on 14-10-25 note: maal kharida
+[D022] receipt (handwritten): Balaji Traders - maal kharida - 14/10/25 - total Rs 2,860/- paid UPI
+[D023] UPI SMS: Rs.212.00 debited to Sunita Devi on 14-10-25 note: recharge
+[D024] notebook 17/10: bikri Rs 2,099/- cash
+[D025] notebook 19/10: bikri Rs 2,202/- cash
+[D026] UPI SMS: Rs.1,164.00 credited from Sunita Devi on 21-10-25 note: bikri
+[D027] UPI SMS: Rs.238.00 debited to Ramesh Kumar on 21-10-25 note: auto kiraya
+[D028] notebook 22/10: bikri Rs 74/- cash
+[D029] notebook 22/10: auto kiraya Rs 272/- cash
+[D030] UPI SMS: Rs.2,174.00 debited to Ramesh Kumar on 22-10-25 note: bijli bill
+[D031] HDFC Bank NEFT: INR 1,634.00 credited on 22-10-25 ref 785204285 remark: bikri
+[D032] notebook 22/10: bikri Rs 171/- cash
+[D033] HDFC Bank NEFT: INR 8,077.00 debited on 23-10-25 ref 278223329 remark: maal kharida
+[D034] notebook 23/10: ladke ki tankhwah Rs 6,574/- cash
+[D035] UPI SMS: Rs.235.00 debited to Sunita Devi on 24-10-25 note: recharge
+[D036] HDFC Bank NEFT: INR 1,941.00 credited on 26-10-25 ref 316337487 remark: bikri
+[D037] UPI SMS: Rs.2,298.00 credited from Sunita Devi on 26-10-25 note: bikri
+[D038] UPI SMS: Rs.2,474.00 credited from Sunita Devi on 27-10-25 note: bikri
+[D039] notebook 28/10: bikri Rs 1,244/- cash
+[D040] HDFC Bank NEFT: INR 754.00 credited on 29-10-25 ref 706556138 remark: bikri
+[D041] notebook 30/10: maal kharida Rs 13,036/- cash
+[D042] notebook 31/10: bikri Rs 677/- cash
+[D043] notebook 31/10: bikri Rs 2,485/- cash

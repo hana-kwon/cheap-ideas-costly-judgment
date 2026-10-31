@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The analyst controls for mgmt_rating_2023, a post-treatment variable, which flips the sign to -2.14. They also trim the sample on the outcome and omit most pre-period controls. My pre-period-only specification gives a modest positive effect of about +0.58 (p=0.013), so the 'negative effect' conclusion is not supported."}

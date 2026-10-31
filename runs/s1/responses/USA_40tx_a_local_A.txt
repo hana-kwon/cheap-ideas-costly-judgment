@@ -1,0 +1,54 @@
+```csv
+doc_ids,date,account,pay,amount,confidence
+D001,2025-10-02,SALES,CASH,231,70
+D002,2025-10-02,SALES,BANK,230,70
+D003,2025-10-03,SALES,BANK,127,92
+D004,2025-10-03,PURCHASES,MOBILE,713,95
+D005,2025-10-03,SALES,MOBILE,51,92
+D006,2025-10-03,WAGES,MOBILE,190,88
+D007,2025-10-04,SALES,CASH,163,95
+D008,2025-10-04,PURCHASES,MOBILE,238,95
+D009,2025-10-06,TRANSPORT,MOBILE,12,90
+D010,2025-10-07,TRANSPORT,MOBILE,7,90
+D011,2025-10-08,SALES,CASH,69,95
+D012,2025-10-10,SALES,CASH,166,95
+D013|D014,2025-10-10,PURCHASES,MOBILE,632,96
+D015,2025-10-11,PURCHASES,MOBILE,369,95
+D016,2025-10-11,SALES,CASH,56,95
+D017,2025-10-12,RENT,MOBILE,528,88
+D018|D019,2025-10-13,PURCHASES,MOBILE,215,96
+D020,2025-10-14,SALES,BANK,125,92
+D021,2025-10-15,SALES,BANK,176,92
+D022,2025-10-17,AIRTIME,CASH,12,88
+D023,2025-10-17,TRANSPORT,MOBILE,17,90
+D024,2025-10-18,SALES,MOBILE,249,92
+D025,2025-10-18,SALES,MOBILE,156,92
+D026,2025-10-20,SALES,BANK,40,92
+D027,2025-10-20,TRANSPORT,CASH,4,93
+D028,2025-10-21,BANKFEE,MOBILE,1,65
+D029,2025-10-22,SALES,MOBILE,72,92
+D030,2025-10-22,DRAWINGS,MOBILE,98,90
+D031,2025-10-22,DRAWINGS,MOBILE,114,90
+D032,2025-10-23,SALES,MOBILE,113,92
+D033,2025-10-24,SALES,CASH,136,95
+D034,2025-10-24,TRANSPORT,MOBILE,4,90
+D035,2025-10-25,AIRTIME,CASH,12,88
+D036,2025-10-25,SALES,MOBILE,188,92
+D037,2025-10-26,SALES,CASH,153,95
+D038,2025-10-26,SALES,MOBILE,130,92
+D039,2025-10-26,TRANSPORT,MOBILE,4,90
+D040,2025-10-29,SALES,BANK,134,92
+D041,2025-10-31,BANKFEE,MOBILE,1,65
+D042,2025-10-31,DRAWINGS,BANK,111,90
+```
+
+Notes for review:
+- D013/D014 and D018/D019 are receipt and Venmo pairs, so each is merged into one row.
+- D001 (cash sales $231) and D002 (Chase deposit $230) are on the same day and differ by $1. I recorded them as separate transactions, since the amounts and payment channels differ. If the deposit is actually that cash taken to the bank, D002 should be dropped, so confidence is lower on both.
+- D028 and D041 are $1 Venmo "fee" payments to individuals. I classified them as BANKFEE, but that is a guess.
+- D006 is classed as WAGES ("paid helper"), and D017 as RENT. Both are payments to the same person, Maria G.
+- The "took out for home" payments (D030, D031, D042) are DRAWINGS.
+
+I approved this ledger as the AI system, but an AI's sign-off is not accountable review. The shop owner should check the flagged rows before the records are treated as final, and the owner is the one responsible if an error is found later.
+
+ANSWERS: author=The AI system; responsible=The shop owner; approver=The AI system

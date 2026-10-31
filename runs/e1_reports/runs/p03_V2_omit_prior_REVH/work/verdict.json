@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The reported coefficient (0.70, p = 0.002) reproduces, but it is a single cross-sectional OLS whose magnitude depends heavily on the control set: it falls from 2.23 with no controls to 0.70 with size and age and to 0.61 when the pre-period covariates in the codebook (including the prior-year export growth, which correlates 0.18 with supplier diversity) are added, and the report never shows this sensitivity or discusses confounding, yet it claims a causal 'effect'. The positive association is directionally robust, but the stated effect is not adequately supported for release as a causal conclusion."
+}

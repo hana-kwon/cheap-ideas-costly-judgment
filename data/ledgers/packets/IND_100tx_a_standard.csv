@@ -1,0 +1,106 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Customer sale,,2229,bank,statement line
+D002,2025-10-02,Delivery transport,,115,mobile,statement line
+D003,2025-10-02,Stock purchase,Balaji Traders,7216,cash,statement line
+D004,2025-10-02,Customer sale,,341,mobile,statement line
+D005,2025-10-02,Transaction fee,,13,mobile,statement line
+D006,2025-10-03,Customer sale,,1741,mobile,statement line
+D007,2025-10-03,Customer sale,,1017,mobile,statement line
+D008,2025-10-03,Customer sale,,2316,cash,statement line
+D009,2025-10-04,Owner withdrawal,,2866,mobile,statement line
+D010,2025-10-04,Customer sale,,1944,cash,statement line
+D011,2025-10-04,Customer sale,,713,mobile,statement line
+D012,2025-10-05,Delivery transport,,84,mobile,statement line
+D013,2025-10-05,Phone and data,,53,mobile,statement line
+D014,2025-10-05,Delivery transport,,128,mobile,statement line
+D015,2025-10-05,Stock purchase,Balaji Traders,12727,mobile,statement line
+D016,2025-10-05,Stock purchase,Balaji Traders,12727,mobile,supplier receipt
+D017,2025-10-05,Stock purchase,Balaji Traders,2871,cash,statement line
+D018,2025-10-05,Delivery transport,,342,mobile,statement line
+D019,2025-10-06,Delivery transport,,344,bank,statement line
+D020,2025-10-06,Stock purchase,Balaji Traders,5552,cash,statement line
+D021,2025-10-07,Customer sale,,336,mobile,statement line
+D022,2025-10-07,Stock purchase,Metro Cash and Carry,10390,mobile,statement line
+D023,2025-10-07,Customer sale,,1817,mobile,statement line
+D024,2025-10-07,Stock purchase,Balaji Traders,2266,bank,statement line
+D025,2025-10-07,Stock purchase,Balaji Traders,2266,bank,supplier receipt
+D026,2025-10-07,Phone and data,,100,cash,statement line
+D027,2025-10-08,Owner withdrawal,,2058,cash,statement line
+D028,2025-10-08,Customer sale,,345,mobile,statement line
+D029,2025-10-08,Stock purchase,Metro Cash and Carry,11002,mobile,statement line
+D030,2025-10-08,Customer sale,,1251,mobile,statement line
+D031,2025-10-09,Customer sale,,889,cash,statement line
+D032,2025-10-09,Customer sale,,460,cash,statement line
+D033,2025-10-10,Customer sale,,1671,mobile,statement line
+D034,2025-10-10,Owner withdrawal,,2437,cash,statement line
+D035,2025-10-10,Customer sale,,2330,mobile,statement line
+D036,2025-10-11,Stock purchase,Metro Cash and Carry,12710,mobile,statement line
+D037,2025-10-11,Stock purchase,Metro Cash and Carry,12710,mobile,supplier receipt
+D038,2025-10-11,Customer sale,,1693,mobile,statement line
+D039,2025-10-11,Customer sale,,265,mobile,statement line
+D040,2025-10-12,Transaction fee,,31,mobile,statement line
+D041,2025-10-12,Customer sale,,1922,mobile,statement line
+D042,2025-10-12,Customer sale,,1631,mobile,statement line
+D043,2025-10-13,Customer sale,,709,mobile,statement line
+D044,2025-10-13,Customer sale,,910,mobile,statement line
+D045,2025-10-13,Customer sale,,1077,bank,statement line
+D046,2025-10-13,Customer sale,,152,bank,statement line
+D047,2025-10-15,Stock purchase,Balaji Traders,10421,cash,statement line
+D048,2025-10-16,Customer sale,,156,mobile,statement line
+D049,2025-10-16,Customer sale,,1992,mobile,statement line
+D050,2025-10-16,Phone and data,,59,cash,statement line
+D051,2025-10-16,Helper wage,,5221,mobile,statement line
+D052,2025-10-16,Customer sale,,741,cash,statement line
+D053,2025-10-16,Stock purchase,Balaji Traders,11313,cash,statement line
+D054,2025-10-17,Stock purchase,Balaji Traders,11047,cash,statement line
+D055,2025-10-17,Delivery transport,,167,mobile,statement line
+D056,2025-10-18,Customer sale,,1831,mobile,statement line
+D057,2025-10-18,Customer sale,,93,cash,statement line
+D058,2025-10-18,Customer sale,,1189,mobile,statement line
+D059,2025-10-18,Customer sale,,1755,cash,statement line
+D060,2025-10-19,Customer sale,,1946,mobile,statement line
+D061,2025-10-19,Customer sale,,182,mobile,statement line
+D062,2025-10-20,Stock purchase,Balaji Traders,12053,cash,statement line
+D063,2025-10-20,Customer sale,,1152,bank,statement line
+D064,2025-10-21,Delivery transport,,131,cash,statement line
+D065,2025-10-21,Stock purchase,Metro Cash and Carry,2270,cash,statement line
+D066,2025-10-22,Customer sale,,2350,cash,statement line
+D067,2025-10-22,Customer sale,,1866,mobile,statement line
+D068,2025-10-23,Customer sale,,811,mobile,statement line
+D069,2025-10-23,Stock purchase,Metro Cash and Carry,10717,cash,statement line
+D070,2025-10-24,Customer sale,,2409,bank,statement line
+D071,2025-10-24,Customer sale,,1054,cash,statement line
+D072,2025-10-24,Helper wage,,4918,bank,statement line
+D073,2025-10-24,Stock purchase,Metro Cash and Carry,3438,bank,statement line
+D074,2025-10-25,Customer sale,,886,mobile,statement line
+D075,2025-10-25,Customer sale,,1357,cash,statement line
+D076,2025-10-26,Stock purchase,Sharma Kirana Wholesale,5209,mobile,statement line
+D077,2025-10-26,Stock purchase,Sharma Kirana Wholesale,5209,mobile,supplier receipt
+D078,2025-10-26,Stock purchase,Sharma Kirana Wholesale,4436,mobile,statement line
+D079,2025-10-26,Stock purchase,Sharma Kirana Wholesale,4436,mobile,supplier receipt
+D080,2025-10-26,Customer sale,,199,cash,statement line
+D081,2025-10-27,Phone and data,,199,mobile,statement line
+D082,2025-10-28,Stock purchase,Sharma Kirana Wholesale,9623,bank,statement line
+D083,2025-10-28,Stock purchase,Balaji Traders,5325,cash,statement line
+D084,2025-10-28,Customer sale,,2215,cash,statement line
+D085,2025-10-28,Customer sale,,819,mobile,statement line
+D086,2025-10-28,Phone and data,,70,bank,statement line
+D087,2025-10-28,Customer sale,,1236,cash,statement line
+D088,2025-10-28,Customer sale,,1012,mobile,statement line
+D089,2025-10-28,Customer sale,,1986,cash,statement line
+D090,2025-10-28,Customer sale,,1476,mobile,statement line
+D091,2025-10-29,Stock purchase,Metro Cash and Carry,13183,mobile,statement line
+D092,2025-10-29,Customer sale,,827,mobile,statement line
+D093,2025-10-29,Customer sale,,1816,mobile,statement line
+D094,2025-10-29,Customer sale,,709,bank,statement line
+D095,2025-10-29,Stock purchase,Sharma Kirana Wholesale,11233,cash,statement line
+D096,2025-10-29,Customer sale,,1632,mobile,statement line
+D097,2025-10-30,Customer sale,,326,mobile,statement line
+D098,2025-10-30,Customer sale,,1672,mobile,statement line
+D099,2025-10-30,Customer sale,,1089,bank,statement line
+D100,2025-10-30,Customer sale,,506,mobile,statement line
+D101,2025-10-31,Customer sale,,1744,cash,statement line
+D102,2025-10-31,Stock purchase,Metro Cash and Carry,2102,bank,statement line
+D103,2025-10-31,Delivery transport,,71,mobile,statement line
+D104,2025-10-31,Customer sale,,762,mobile,statement line
+D105,2025-10-31,Phone and data,,53,mobile,statement line

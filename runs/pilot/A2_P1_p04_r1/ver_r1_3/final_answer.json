@@ -1,0 +1,1 @@
+{"conclusion":"positive effect","estimate":0.841,"std_error":0.2412,"p_value":0.000489,"n_specifications_estimated":8,"preferred_specification":"OLS of productivity_2023 on training_hours with all pre-2020 controls (incl. lagged productivity, region, sector), HC1 SE; excludes post-treatment mgmt_rating_2023"}

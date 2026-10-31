@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The report controls for mgmt_rating_2023, a 2023 post-treatment variable that training strongly affects (it is a mediator or collider). This flips the training coefficient from about +0.8 (pre-period controls only, SE 0.24) to -1.8. The negative effect is an artifact of that bad control, so the conclusion is not supported."}

@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The reported negative effect (-2.73, p<0.001) depends entirely on controlling for collab_index_2023, a 2023 survey measure that is itself strongly driven by remote_share (coef 0.71, p<1e-100) and so is a post-treatment mediator/collider; without it the estimate is -0.31 (p=0.17), and with no controls it is +1.32 (p<0.001), so the sign and existence of an effect are not robustly supported."
+}

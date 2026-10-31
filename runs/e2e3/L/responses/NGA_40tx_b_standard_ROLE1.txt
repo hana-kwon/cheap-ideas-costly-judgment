@@ -1,0 +1,13 @@
+Checking each row against its document turned up four errors.
+
+- Row 5: the draft amount is 2454 but D005 says 2544.
+- Row 8: D009 is delivery transport, so the account should be TRANSPORT, not PURCHASES.
+- Row 40: D041 is dated 2025-10-31, not 2025-10-30.
+- Rows 1 and 9 (AIRTIME) are correct because "Phone and data" maps to AIRTIME.
+
+```
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-05,TRANSPORT,CASH,2544
+8,EDIT,D009,2025-10-08,TRANSPORT,CASH,1920
+40,EDIT,D041,2025-10-31,UTILITIES,MOBILE,43464
+```

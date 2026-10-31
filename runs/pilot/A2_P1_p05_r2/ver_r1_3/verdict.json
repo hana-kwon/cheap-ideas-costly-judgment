@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the analyst's code and reproduced every reported coefficient. The preferred model controls for pre-period covariates and correctly leaves out the post-treatment collab index. All 9 specifications are disclosed, and the 'no detectable effect' conclusion (-0.275, p=0.25) is stated with appropriate causal caveats."}

@@ -1,0 +1,1 @@
+{"conclusion": "no effect", "estimate": 0.0511, "std_error": 0.2471, "p_value": 0.836, "n_specifications_estimated": 6, "preferred_specification": "OLS with all 2020 pre-period covariates + region and product-group FE, HC1 SEs; excludes post-treatment buyer_rating_2023"}

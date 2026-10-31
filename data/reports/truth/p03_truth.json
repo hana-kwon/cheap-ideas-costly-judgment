@@ -1,0 +1,19 @@
+{
+ "id": "p03",
+ "story": "suppliers",
+ "type": "T2_weak_true",
+ "beta": 0.05,
+ "seed": 503,
+ "conf": 0.1,
+ "outlier_shift": 0.0,
+ "true_effect_sign": "positive",
+ "correct_spec": {
+  "coef": 0.6076467576977149,
+  "se": 0.2298378445423427,
+  "p": 0.008197953777889367
+ },
+ "share_specs_sig_pos": 0.65625,
+ "share_specs_sig_neg": 0.125,
+ "question": "What is the effect of supplier diversification on export growth?",
+ "hypothesis": "more diverse suppliers raise export growth"
+}

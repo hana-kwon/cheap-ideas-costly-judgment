@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The 'no effect' conclusion rests on a single, unjustified north-region subsample; the full 2000-firm sample gives a positive estimate of about 0.50 (SE 0.22, p = 0.02, 95% CI [0.07, 0.94]), and the north-only CI [-0.70, 0.88] is too wide to rule out meaningful effects, so a null claim is not supported."
+}

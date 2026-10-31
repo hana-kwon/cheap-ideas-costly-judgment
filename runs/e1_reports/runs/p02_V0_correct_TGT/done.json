@@ -1,0 +1,1 @@
+{"id": "p02_V0_correct_TGT", "kind": "review", "dataset": "p02", "variant": "V0_correct", "arm": "TGT", "model": "claude-sonnet-5-5", "outcome": "approve", "cost": 0.0762986, "seconds": 29.7, "finished": "2026-10-29T00:48:28-0400"}

@@ -1,0 +1,13 @@
+Checking each document against the draft:
+
+- D001: "Phone and data" is AIRTIME and matches.
+- D005: the draft has 2454 but the document says 2544, so row 5 needs an edit.
+- D006 and D007 are the same transaction and are correctly merged in row 6.
+- D009: "Delivery transport" is recorded as PURCHASES, so it should be TRANSPORT.
+- D041: the document is dated 2025-10-31 but the draft has 2025-10-30.
+- The remaining rows match their documents.
+
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-05,TRANSPORT,CASH,2544
+8,EDIT,D009,2025-10-08,TRANSPORT,CASH,1920
+40,EDIT,D041,2025-10-31,UTILITIES,MOBILE,43464

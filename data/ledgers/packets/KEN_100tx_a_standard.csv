@@ -1,0 +1,102 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Stock purchase,WHOLESALE HUB EASTLEIGH,16580,cash,statement line
+D002,2025-10-01,Customer sale,,3005,cash,statement line
+D003,2025-10-01,Customer sale,,2373,cash,statement line
+D004,2025-10-01,Customer sale,,1863,mobile,statement line
+D005,2025-10-02,Stock purchase,NAIVAS DISTRIBUTORS,8950,cash,statement line
+D006,2025-10-02,Customer sale,,2329,mobile,statement line
+D007,2025-10-03,Customer sale,,2362,bank,statement line
+D008,2025-10-04,Customer sale,,2992,cash,statement line
+D009,2025-10-05,Customer sale,,3107,bank,statement line
+D010,2025-10-05,Customer sale,,3167,cash,statement line
+D011,2025-10-05,Stock purchase,NAIVAS DISTRIBUTORS,3817,mobile,statement line
+D012,2025-10-06,Shop rent,,17296,mobile,statement line
+D013,2025-10-06,Customer sale,,797,cash,statement line
+D014,2025-10-07,Customer sale,,1047,bank,statement line
+D015,2025-10-07,Delivery transport,,570,mobile,statement line
+D016,2025-10-07,Stock purchase,MAMA MBOGA STORES,10918,mobile,statement line
+D017,2025-10-07,Phone and data,,413,mobile,statement line
+D018,2025-10-08,Customer sale,,2092,cash,statement line
+D019,2025-10-08,Customer sale,,2413,bank,statement line
+D020,2025-10-08,Customer sale,,1122,cash,statement line
+D021,2025-10-08,Customer sale,,2051,mobile,statement line
+D022,2025-10-08,Helper wage,,10969,bank,statement line
+D023,2025-10-09,Customer sale,,1617,cash,statement line
+D024,2025-10-10,Customer sale,,2653,bank,statement line
+D025,2025-10-10,Customer sale,,2836,cash,statement line
+D026,2025-10-10,Customer sale,,736,mobile,statement line
+D027,2025-10-10,Customer sale,,1849,bank,statement line
+D028,2025-10-10,Delivery transport,,487,cash,statement line
+D029,2025-10-11,Customer sale,,639,cash,statement line
+D030,2025-10-11,Owner withdrawal,,4219,cash,statement line
+D031,2025-10-11,Phone and data,,392,cash,statement line
+D032,2025-10-11,Customer sale,,2992,cash,statement line
+D033,2025-10-12,Customer sale,,2719,cash,statement line
+D034,2025-10-12,Stock purchase,WHOLESALE HUB EASTLEIGH,9646,cash,statement line
+D035,2025-10-12,Customer sale,,2334,mobile,statement line
+D036,2025-10-13,Customer sale,,3244,mobile,statement line
+D037,2025-10-13,Customer sale,,2433,bank,statement line
+D038,2025-10-13,Customer sale,,2084,bank,statement line
+D039,2025-10-14,Customer sale,,1390,cash,statement line
+D040,2025-10-15,Customer sale,,2796,mobile,statement line
+D041,2025-10-15,Customer sale,,1123,bank,statement line
+D042,2025-10-16,Customer sale,,241,cash,statement line
+D043,2025-10-16,Customer sale,,1393,mobile,statement line
+D044,2025-10-16,Customer sale,,1767,mobile,statement line
+D045,2025-10-16,Phone and data,,115,mobile,statement line
+D046,2025-10-17,Customer sale,,2502,bank,statement line
+D047,2025-10-17,Customer sale,,3219,mobile,statement line
+D048,2025-10-17,Customer sale,,657,cash,statement line
+D049,2025-10-18,Customer sale,,892,mobile,statement line
+D050,2025-10-18,Delivery transport,,315,bank,statement line
+D051,2025-10-18,Customer sale,,408,cash,statement line
+D052,2025-10-19,Transaction fee,,47,mobile,statement line
+D053,2025-10-19,Customer sale,,1313,mobile,statement line
+D054,2025-10-19,Stock purchase,MAMA MBOGA STORES,12978,cash,statement line
+D055,2025-10-20,Stock purchase,NAIVAS DISTRIBUTORS,21263,bank,statement line
+D056,2025-10-20,Transaction fee,,15,mobile,statement line
+D057,2025-10-20,Customer sale,,1303,cash,statement line
+D058,2025-10-21,Transaction fee,,42,mobile,statement line
+D059,2025-10-21,Transaction fee,,26,mobile,statement line
+D060,2025-10-21,Stock purchase,NAIVAS DISTRIBUTORS,6620,bank,statement line
+D061,2025-10-21,Helper wage,,11963,cash,statement line
+D062,2025-10-21,Stock purchase,WHOLESALE HUB EASTLEIGH,7458,mobile,statement line
+D063,2025-10-21,Customer sale,,1530,mobile,statement line
+D064,2025-10-21,Owner withdrawal,,1855,cash,statement line
+D065,2025-10-21,Customer sale,,3237,cash,statement line
+D066,2025-10-21,Stock purchase,WHOLESALE HUB EASTLEIGH,16000,cash,statement line
+D067,2025-10-21,Customer sale,,2028,mobile,statement line
+D068,2025-10-21,Customer sale,,1407,cash,statement line
+D069,2025-10-21,Delivery transport,,118,mobile,statement line
+D070,2025-10-22,Customer sale,,2201,cash,statement line
+D071,2025-10-22,Stock purchase,WHOLESALE HUB EASTLEIGH,18504,cash,statement line
+D072,2025-10-22,Shop rent,,14013,cash,statement line
+D073,2025-10-22,Shop rent,,12393,cash,statement line
+D074,2025-10-22,Customer sale,,1671,mobile,statement line
+D075,2025-10-23,Stock purchase,MAMA MBOGA STORES,4867,cash,statement line
+D076,2025-10-24,Customer sale,,2994,mobile,statement line
+D077,2025-10-24,Customer sale,,2617,bank,statement line
+D078,2025-10-24,Customer sale,,264,cash,statement line
+D079,2025-10-24,Customer sale,,1519,bank,statement line
+D080,2025-10-25,Customer sale,,2258,cash,statement line
+D081,2025-10-25,Transaction fee,,35,mobile,statement line
+D082,2025-10-26,Stock purchase,WHOLESALE HUB EASTLEIGH,18819,mobile,statement line
+D083,2025-10-27,Helper wage,,7290,cash,statement line
+D084,2025-10-27,Customer sale,,1071,mobile,statement line
+D085,2025-10-27,Stock purchase,NAIVAS DISTRIBUTORS,16551,bank,statement line
+D086,2025-10-27,Customer sale,,428,cash,statement line
+D087,2025-10-28,Customer sale,,2631,mobile,statement line
+D088,2025-10-28,Stock purchase,WHOLESALE HUB EASTLEIGH,4469,bank,statement line
+D089,2025-10-28,Customer sale,,2257,bank,statement line
+D090,2025-10-28,Customer sale,,3034,mobile,statement line
+D091,2025-10-30,Customer sale,,2255,cash,statement line
+D092,2025-10-30,Customer sale,,1939,bank,statement line
+D093,2025-10-30,Transaction fee,,54,mobile,statement line
+D094,2025-10-31,Owner withdrawal,,1344,cash,statement line
+D095,2025-10-31,Stock purchase,MAMA MBOGA STORES,12073,mobile,statement line
+D096,2025-10-31,Stock purchase,MAMA MBOGA STORES,12073,mobile,supplier receipt
+D097,2025-10-31,Customer sale,,2569,mobile,statement line
+D098,2025-10-31,Customer sale,,506,cash,statement line
+D099,2025-10-31,Customer sale,,2559,cash,statement line
+D100,2025-10-31,Customer sale,,1760,mobile,statement line
+D101,2025-10-31,Phone and data,,269,cash,statement line

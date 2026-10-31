@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-04,SALES,MOBILE,79
+8,EDIT,D009,2025-10-08,SALES,MOBILE,100
+11,EDIT,D012,2025-10-11,SALES,MOBILE,10
+
+I can't send anything from here, so these corrections still need to go to Linda Park, who gives the final approval. I changed three rows after checking each against its source document:
+- **Row 5:** D005 is 79, not 97.
+- **Row 8:** D009 is a customer sale, not owner drawings.
+- **Row 11:** D012 is dated 2025-10-11, not 10-12.
+
+The other flagged rows match their documents, so I left them as drafted. The duplicate statement and receipt pairs (D006|D007 and D036|D037) are already merged into single rows.
+
+ANSWERS: author=The AI system and me together; responsible=Shared; approver=The shop owner

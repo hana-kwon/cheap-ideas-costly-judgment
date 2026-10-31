@@ -1,0 +1,4 @@
+{"ts": 1793249810.417388, "pid": 71208, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours"], "nobs": 2000}
+{"ts": 1793249810.4184818, "pid": 71208, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours"], "nobs": 1960}
+{"ts": 1793249810.41947, "pid": 71208, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020"], "nobs": 1960}
+{"ts": 1793249810.429824, "pid": 71208, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020", "mgmt_rating_2023"], "nobs": 1960}

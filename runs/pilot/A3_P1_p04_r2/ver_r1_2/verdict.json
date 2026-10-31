@@ -1,0 +1,1 @@
+{"decision": "approve", "reason": "I reproduced the preferred estimate (0.841, SE 0.241) with all pre-period controls. Excluding the post-period mgmt_rating_2023 is justified, because it is a collider or mediator affected by both training and productivity. The report shows all six specifications, including the sign-flipped one, and hedges its causal claim appropriately."}

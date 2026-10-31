@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The analyst ran only an unadjusted bivariate regression (1.54, 'positive effect'), which is confounded by firm size, experience and past growth. With pre-period controls, which I re-ran, the estimate falls to about 0.05 (SE 0.25, p=0.84), so the 'positive effect' conclusion is not supported."}

@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reproduced the preferred estimate (0.750, SE 0.231) with full pre-period controls including lagged patents. Excluding the 2023 collab index is justified, because remote_share raises it by about 0.68 SD and so it is post-treatment. The report discloses all 8 specifications and states the selection-on-observables caveat."}

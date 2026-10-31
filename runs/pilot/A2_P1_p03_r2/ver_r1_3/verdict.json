@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the specifications and got the reported estimate (about +0.69 per SD, p about 0.004). It holds across product groups and regions and with a quadratic term. Excluding the post-treatment buyer_rating_2023 is justified, since it is a collider/mediator. The report discloses all 5 specifications and states the observational-data caveat."}

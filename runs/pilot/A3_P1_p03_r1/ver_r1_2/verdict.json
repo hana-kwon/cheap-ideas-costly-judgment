@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the preferred OLS and got 0.693 (SE 0.240, p=0.004), matching the report. It correctly controls for pre-period covariates and excludes the post-treatment buyer_rating_2023, and it states the observational caveat and that the effect is modest."}

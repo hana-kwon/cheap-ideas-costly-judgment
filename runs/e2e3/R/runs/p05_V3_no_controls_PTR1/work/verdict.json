@@ -1,0 +1,1 @@
+{"decision": "reject", "reason": "The analyst reports only an unadjusted regression (1.32, 'positive effect') with no controls and one specification. I reproduced that the positive association vanishes (about -0.28, p=0.24) once pre-treatment size, age and 2020 patenting are controlled, so the causal 'positive effect' conclusion is confounded and unsupported."}

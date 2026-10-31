@@ -1,0 +1,19 @@
+{
+ "id": "p05",
+ "story": "remote",
+ "type": "T3_trap_null",
+ "beta": 0.0,
+ "seed": 505,
+ "conf": 0.1,
+ "outlier_shift": 0.0,
+ "true_effect_sign": "none",
+ "correct_spec": {
+  "coef": -0.30582207225049496,
+  "se": 0.2254112142382734,
+  "p": 0.17486713562229106
+ },
+ "share_specs_sig_pos": 0.265625,
+ "share_specs_sig_neg": 0.1875,
+ "question": "What is the effect of remote work on engineering innovation?",
+ "hypothesis": "more remote work raises innovation"
+}

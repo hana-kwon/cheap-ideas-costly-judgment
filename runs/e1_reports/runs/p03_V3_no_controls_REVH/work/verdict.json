@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The headline estimate (2.23, no controls, one specification) is confounded: pre-period firm characteristics such as log sales, years exporting, and prior export growth are strongly related to supplier diversity, and adding the pre-period controls shrinks the coefficient by about 73% to 0.60 (SE 0.23, p=0.009). The report presents only the unadjusted regression and a 'positive effect' conclusion without acknowledging this sensitivity, so the causal claim is not supported as stated."
+}

@@ -1,0 +1,1 @@
+{"decision": "approve", "reason": "I reproduced the preferred estimate (0.750, SE 0.233, p=0.001). It holds up with a quadratic term and with interactions by segment, region and listing. Leaving out the post-treatment collab_index_2023 is justified, and the report states plainly that this is an observational, adjusted association that unobserved confounding could still affect."}

@@ -1,0 +1,2 @@
+{"ts": 1793316283.479425, "pid": 72301, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share"], "nobs": 2000}
+{"ts": 1793316283.484232, "pid": 72301, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 2000}

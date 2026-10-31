@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The negative estimate depends on controlling for mgmt_rating_2023, a 2023 post-treatment variable (a mediator or collider) that correlates 0.52 with training. Without it, or with only the pre-period controls, the training coefficient is positive (about +0.8, SE 0.24). The sign flips, so the 'negative effect' conclusion is not supported."}

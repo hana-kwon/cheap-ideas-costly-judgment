@@ -1,0 +1,4 @@
+{
+ "decision": "reject",
+ "reason": "The reported positive effect (2.07, one unadjusted specification) is not robust: adding the 2020 pre-period controls cuts the coefficient to about 0.67 (SE 0.22, p about 0.003), and the lagged-outcome control reduces it to 1.82, so confounding by pre-existing firm characteristics (notably the 2020 patent rate and engineer headcount) is not addressed. The analysis is also a single cross-sectional regression with no causal design, and the report misreports remote_share, which is standardized (SD about 1, range -3 to 3.6), so the stated per-share interpretation is unsupported."
+}

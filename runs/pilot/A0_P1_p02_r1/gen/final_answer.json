@@ -1,0 +1,1 @@
+{"conclusion":"positive effect","estimate":0.750,"std_error":0.231,"p_value":0.0012,"n_specifications_estimated":8,"preferred_specification":"OLS, HC1 SE, patents_per_100_eng_2023 on remote_share with all pre-period controls (no post-treatment collab index)"}

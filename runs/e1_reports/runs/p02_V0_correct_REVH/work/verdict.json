@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The positive partial association between remote_share and 2023 patents is robust across my control sets (coef about 0.67 to 0.83, p < 0.01), but the report calls it an 'effect' from a single cross-sectional OLS even though remote_share is not a share: it ranges from -3.0 to 3.6 with mean 0 and SD 1, so it is standardized and the units are undocumented, and the report never acknowledges this. Pre-period size, age and patents are strongly correlated with remote_share, and the raw slope of 2.32 shrinks by about 70% after adjustment, so the causal conclusion and the 'positive effect' wording are not supported as released."
+}

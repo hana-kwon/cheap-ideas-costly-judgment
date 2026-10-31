@@ -1,0 +1,6 @@
+action,doc_ids,date,account,pay,amount
+EDIT,D005,2025-10-04,SALES,MOBILE,79
+EDIT,D009,2025-10-08,SALES,MOBILE,100
+EDIT,D012,2025-10-11,SALES,MOBILE,10
+
+ANSWERS: author=The AI system and me together; responsible=Me; approver=Me

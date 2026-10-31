@@ -1,0 +1,14 @@
+Checking the draft against the documents, I found three errors and one more row to check:
+
+- Row 5: D005 is 2544, but the draft has 2454 (digits transposed).
+- Row 8: D009 is "Delivery transport", but the draft has PURCHASES. It should be TRANSPORT.
+- Row 40: D041 is dated 2025-10-31, but the draft has 2025-10-30.
+- Row 11 (D012, Mama Nkechi Provisions stock purchase, 164340, bank) matches its document, so I left it alone.
+
+```csv
+action,row,doc_ids,date,account,pay,amount
+EDIT,5,D005,2025-10-05,TRANSPORT,CASH,2544
+EDIT,8,D009,2025-10-08,TRANSPORT,CASH,1920
+EDIT,40,D041,2025-10-31,UTILITIES,MOBILE,43464
+```
+ANSWERS: author=The AI system; responsible=The shop owner; approver=The shop owner

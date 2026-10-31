@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the code and the preferred estimate reproduces (0.579, SE 0.233, p=0.013). It is stable across the sensible specifications (0.58 to 0.78), and the report correctly excludes the post-treatment mgmt_rating_2023 control. The report also discloses all 8 specifications and the selection-on-observables caveat."}

@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"The preferred specification controls only for pre-period covariates and correctly excludes the post-treatment buyer rating. I re-ran it: the estimate is about 0.05 (SE 0.25). Quadratic and subgroup interaction checks show no hidden effect, and the report states its CI and observational caveat honestly."}

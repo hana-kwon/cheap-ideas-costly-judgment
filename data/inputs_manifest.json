@@ -1,0 +1,2088 @@
+{
+ "description": "Every input file of the test bed. All data are synthetic or model outputs on synthetic inputs; nothing comes from a licensed or restricted source and no person is described.",
+ "n_files": 347,
+ "files": [
+  {
+   "path": "data/ledgers/drafts/IND_100tx_a_local_r0.csv",
+   "bytes": 3785,
+   "sha256": "62ee0db2dbfbc0995949b7cf29e052b5c6c27c88e088fd1e804071018e440049",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_100tx_a_standard_r0.csv",
+   "bytes": 3785,
+   "sha256": "55195bb56260748491e17dae678e346867d64fa79a63a488d909dcf1bc489288",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_100tx_b_local_r0.csv",
+   "bytes": 3770,
+   "sha256": "acb6e4de1c1124875ac3b2c9d1611d389eca9714325cead8d67c5b4126b3e3d8",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_100tx_b_standard_r0.csv",
+   "bytes": 3770,
+   "sha256": "1e3b3947a914aa7cd81cb5053000ebee94c6b912338a9da5cec98cef944a3fc4",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_160tx_a_local_r0.csv",
+   "bytes": 5969,
+   "sha256": "d5e1c1f0412eb0e1c84ded40339acf2bcd2d3599f9bd967c707ef7bfeb9ba44b",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_160tx_a_standard_r0.csv",
+   "bytes": 5969,
+   "sha256": "d22b8f3f353a1b922eeb0d72296f6d4284a6bf33f4657fb36ccca2c840eb2e44",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_160tx_b_local_r0.csv",
+   "bytes": 5989,
+   "sha256": "0f7acee57bbd01560685307d2ac389bc8ddea122e1413232847694ea8ccfe40a",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_160tx_b_standard_r0.csv",
+   "bytes": 5989,
+   "sha256": "160d989758da452895b13e8e07e6c9efa193e7c22983a90e0f627d2dda14daeb",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_40tx_a_local_r0.csv",
+   "bytes": 1505,
+   "sha256": "e686ef2d870ff6ec165ad979315ff370ffefbb9a1909de5c0b02bcd95cfdffcd",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_40tx_a_standard_r0.csv",
+   "bytes": 1516,
+   "sha256": "e3d17797676340ba9bcc290e2eee9b84836b0984ebdba1b83f1a7c83e8e93b9b",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_40tx_b_local_r0.csv",
+   "bytes": 1531,
+   "sha256": "2d91b5cec3ce3e4a2ac5eada7b7bf26ac348c3044791a0d713f101dc4de6df75",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/IND_40tx_b_standard_r0.csv",
+   "bytes": 1531,
+   "sha256": "71733f8468f42f3922cd7a273454a2cf4533e4c0299abe1ac5281ffd45134263",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_100tx_a_local_r0.csv",
+   "bytes": 3711,
+   "sha256": "b5655cf63b56bda38ea16181fad3087ea2c1eb1611786d9f0e85166585797c25",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_100tx_a_standard_r0.csv",
+   "bytes": 3711,
+   "sha256": "83b8c8f1181a90d84620ba4ddb5719fd4b111b8d6e80e6191a60a07449d4e992",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_100tx_b_local_r0.csv",
+   "bytes": 3781,
+   "sha256": "38f1955ce109802b7e31e8afcbb8c9e9b5e7594a06f64660ba0340d7b8c867d1",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_100tx_b_standard_r0.csv",
+   "bytes": 3781,
+   "sha256": "8cfb959726436ac22f02703e09401c0beaa1a99321e93c1f936c5616b0e682e0",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_160tx_a_local_r0.csv",
+   "bytes": 6022,
+   "sha256": "69fa4ed6b907e676043295cbd2bf602c72c48bbc523eee243540dc817b8a8c72",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_160tx_a_standard_r0.csv",
+   "bytes": 6022,
+   "sha256": "10bd50d070a202703c838f63c28f0f1ec195cc73b58088c7ad7d7783b6cea08d",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_160tx_b_local_r0.csv",
+   "bytes": 5983,
+   "sha256": "e2ad9cf928798981e2731c950c1badc8738f34e627e590954f4bf3f5d81d8d6b",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_160tx_b_standard_r0.csv",
+   "bytes": 5983,
+   "sha256": "fb55f3e250e461f8a6f704ba8eafe736454f16aab33014088713da27ba2b36e0",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_40tx_a_local_r0.csv",
+   "bytes": 1531,
+   "sha256": "d87ec9b4cb0fa7fea69331cefab7260c902001b2d9c725fc2dd44765e46ad749",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_40tx_a_standard_r0.csv",
+   "bytes": 1531,
+   "sha256": "63ce266fc343b9b273775b49f1a56371945bea7181bd1e817dca67cbdabe9df0",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_40tx_b_local_r0.csv",
+   "bytes": 1516,
+   "sha256": "e43678fff8ac6ea379b680a558be99688f9b86b88a4e6ae26ce3e2d8aaeb6d95",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/KEN_40tx_b_standard_r0.csv",
+   "bytes": 1516,
+   "sha256": "41dc9cb4aea1b2097655f7cb466f3a5c1ee3af259f396ee08c1adf278305321f",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_100tx_a_local_r0.csv",
+   "bytes": 3925,
+   "sha256": "667d93da778d92281d83cf764248613842d19d1cf4e6793c8a649aebda9be1db",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_100tx_a_standard_r0.csv",
+   "bytes": 3925,
+   "sha256": "4b95817a281be8a31a8e935b5c59b3a5ff186b29415c115988e64fa4ff1fb88f",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_100tx_b_local_r0.csv",
+   "bytes": 3846,
+   "sha256": "598bda55024cf2c3f4b06ce4b045ca1cf9f41fc5fc3a831fae09d9edb007fe64",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_100tx_b_standard_r0.csv",
+   "bytes": 3846,
+   "sha256": "149af34ecc3990c36fc18c070c6579947aff633c7a1f344a5c4a406cdca5331c",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_160tx_a_local_r0.csv",
+   "bytes": 6162,
+   "sha256": "3a50ef119e80e4680b14052bb7c358a5c11797682b153fd6f16a0934a34e3df7",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_160tx_a_standard_r0.csv",
+   "bytes": 6162,
+   "sha256": "c512829f590ed22d0119022f04fc76e7baff9e7a071826a5d54df1fcd8d77174",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_160tx_b_local_r0.csv",
+   "bytes": 6195,
+   "sha256": "2b3a16e9320492a36778b03aa2168794891b31ef3f118acd94e7e2c8528afb9a",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_160tx_b_standard_r0.csv",
+   "bytes": 6195,
+   "sha256": "98359f5b16655c90fc20e2288e9b4f1d5b7e5b9d0d743ba9ffe202087f1c5313",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_40tx_a_local_r0.csv",
+   "bytes": 1561,
+   "sha256": "81b26c11bfcafee40d5907fd1785ccdc1decdae8fdf8add6b7220bade6a2933f",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_40tx_a_standard_r0.csv",
+   "bytes": 1561,
+   "sha256": "6784b3235c5d08bba134d052769a06ebb10b00bd83e12390a613b00ce16f8b3e",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_40tx_b_local_r0.csv",
+   "bytes": 1578,
+   "sha256": "a1feaf638c17fba6093cefdf52a80dd468a1a0e7894bb9be6f8b68886752da63",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/NGA_40tx_b_standard_r0.csv",
+   "bytes": 1578,
+   "sha256": "ef3b0a5413f526fa2dcf6d409119a83a8cd5f1db7b55e27f01d197b4478444cb",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_100tx_a_local_r0.csv",
+   "bytes": 3637,
+   "sha256": "4c5ec1d161af1fddd2bb63412d72424d7daf6212ef151e8fe6d0e1a578d299c1",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_100tx_a_standard_r0.csv",
+   "bytes": 3637,
+   "sha256": "28b10637ad6b91896a3e7c82b95e649e8ea5e10cd53f05be33a55f187218167d",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_100tx_b_local_r0.csv",
+   "bytes": 3640,
+   "sha256": "c1d8b383f0344a1f7ea7a9689875017963bf29dd9517655ce50f69d54e3b9e0a",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_100tx_b_standard_r0.csv",
+   "bytes": 3640,
+   "sha256": "05d098f3d064ff8d1fafa16834a92f942c400b2a49b2b0f0f73336bc7271399a",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_160tx_a_local_r0.csv",
+   "bytes": 5806,
+   "sha256": "4a573ac14636052181c3f56b6cfb5c75d7eb5c2142f41fa594b64b7b4a829de1",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_160tx_a_standard_r0.csv",
+   "bytes": 5806,
+   "sha256": "a408cd5c5e20d9cc09670466532ed3fe973fa9f205a782d3c3b3469d4f91e3d1",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_160tx_b_local_r0.csv",
+   "bytes": 5817,
+   "sha256": "0e4d3930f9fcaa26df6ea31df76efa0a0b4613c2c0cc92942a421b2dabb30fbf",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_160tx_b_standard_r0.csv",
+   "bytes": 5817,
+   "sha256": "b96e938714304f3a9808a7fa64832af7e6237a815bd079dd1e940b7e796115ea",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_40tx_a_local_r0.csv",
+   "bytes": 1496,
+   "sha256": "9789ee057eb850b8b17449617b96983f86e25079c0e0ac1b487f4cc9a5a88bab",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_40tx_a_standard_r0.csv",
+   "bytes": 1496,
+   "sha256": "1b00684919d7090ed804c8132a56911e8bee69c2f925bb55930c2238f2813a3f",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_40tx_b_local_r0.csv",
+   "bytes": 1488,
+   "sha256": "0dbd8b62a92f6a8705094e27e001ade7e6ea6bf34ffbff293d727bf84d012099",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/USA_40tx_b_standard_r0.csv",
+   "bytes": 1488,
+   "sha256": "d919196222968503d49e1de29cf9c6cfbf538b9deb20e6003df83331977ffdfe",
+   "source": "model output: AI draft ledger by claude-sonnet-5-5 from the synthetic documents (src/04_draft_ledgers.py)"
+  },
+  {
+   "path": "data/ledgers/drafts/drafting_calls.jsonl",
+   "bytes": 25141,
+   "sha256": "bc993cca199c9cef7e44879ffe0c0b7736c834d00d71853f3f3d5dd717bf3ae6",
+   "source": "call records of the drafting step (src/04_draft_ledgers.py), claude-sonnet-5-5, 2026-10-25"
+  },
+  {
+   "path": "data/ledgers/packets/IND_100tx_a_answer_key.csv",
+   "bytes": 4083,
+   "sha256": "9a60ab0694a75821c8450fa6712992dd960c14bd5508c67f5d1c17fbb874d5dd",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_100tx_a_local.txt",
+   "bytes": 7596,
+   "sha256": "d1bf94a8ed5d1758487c3f6a82c08ff2158005892e8c4e9a6e1e29e76c47fdc6",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_100tx_a_standard.csv",
+   "bytes": 6721,
+   "sha256": "a767a5a6e93aa9b8034c301112e5de421bc658ad9237b645d27cdb1242e7ada8",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_100tx_b_answer_key.csv",
+   "bytes": 4068,
+   "sha256": "a03da65d8746cb271823092a01eb6a6861bc4692cfbb78af8e73e919b2d49493",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_100tx_b_local.txt",
+   "bytes": 7207,
+   "sha256": "aca7ef203d077182bdbf4086f033c5e2c15bb04af30a74f777950c6d4a92bf9e",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_100tx_b_standard.csv",
+   "bytes": 6510,
+   "sha256": "d69809fa76554a394d5ab938c025f3d86565b15298d9095f1f4aa478aa9c8591",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_160tx_a_answer_key.csv",
+   "bytes": 6447,
+   "sha256": "56906fb4638784f49b952d67737e5c56cfa08ba446a4b14dcac9b5320b73ba06",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_160tx_a_local.txt",
+   "bytes": 11021,
+   "sha256": "ef62557d5a9121f9636386b2c03d5160898eeccf559dfada5dbe8f1066c45253",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_160tx_a_standard.csv",
+   "bytes": 10178,
+   "sha256": "e984be7085954d743e8c27053ab88753949f435ef6243fcbf5bb700aac98445d",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_160tx_b_answer_key.csv",
+   "bytes": 6467,
+   "sha256": "63a4a3980eef996740300e053a412b2e0175f133a935ce16ac89f8f88dfea4bf",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_160tx_b_local.txt",
+   "bytes": 11862,
+   "sha256": "aa503f6db4ca35effacd48c739ff2d2e8130c94c38eecdfb8614e5383f799f3e",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_160tx_b_standard.csv",
+   "bytes": 10542,
+   "sha256": "be142029baa16f2b7ba0ec732716ea0fed2cafcb201fd77489960f06a54c9b5a",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_40tx_a_answer_key.csv",
+   "bytes": 1623,
+   "sha256": "bf47a455206127efcc3674bb093fcee774b68abd280ed4d77c27e1db50fd29ce",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_40tx_a_local.txt",
+   "bytes": 2689,
+   "sha256": "3631adfdabbe214f462b3f3afa957845c69295e983426d9f9f86eacc91ff8fbe",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_40tx_a_standard.csv",
+   "bytes": 2604,
+   "sha256": "6e9e99e0a7dff90a7ca153250aa5890c6a242890a05358b57aa44df448568f4b",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_40tx_b_answer_key.csv",
+   "bytes": 1649,
+   "sha256": "d7b58ef968ff9a6066495556dbfaf4087525d4f4df15bc328d07811572f4b7f2",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_40tx_b_local.txt",
+   "bytes": 3011,
+   "sha256": "97a3c2b0dbc205c3de8349b4dad002b879161824ec526f300feaa999c8ea9933",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/IND_40tx_b_standard.csv",
+   "bytes": 2804,
+   "sha256": "47fcaf0b78fdcd40efd85b4950b90fa3ab472a253ca5831877fd4d92e803d53e",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_100tx_a_answer_key.csv",
+   "bytes": 4009,
+   "sha256": "7fbe05d6f40898c303e8596e7f722277c6b132ec111b9ceb79e373e73dfb85be",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_100tx_a_local.txt",
+   "bytes": 8594,
+   "sha256": "496b96add383d9ca33d1c635eac352da5bd0b67d3d60b3cd0fd05b249d16db9f",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_100tx_a_standard.csv",
+   "bytes": 6280,
+   "sha256": "f217d3e8bbe697a30f9c8e292cfefed331ab1845626859acf6535e84ec814a64",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_100tx_b_answer_key.csv",
+   "bytes": 4079,
+   "sha256": "d05440a706c3fda8003a4eb3002767b9c53b54d77948caf5f55a00b9a89860d3",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_100tx_b_local.txt",
+   "bytes": 8886,
+   "sha256": "e7981a90e0959af100406d922a9ccf80a0fcf0e6fc29e545fbbbdfffa32700c1",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_100tx_b_standard.csv",
+   "bytes": 6607,
+   "sha256": "4cf68a3acf39a587411e22e9d0ba9f77f7cfba9540558fa6422f51afbfe073d5",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_160tx_a_answer_key.csv",
+   "bytes": 6500,
+   "sha256": "bb448cb51904a143d0c57845647d1ed71d1f486997ecfb8b93c693b6ded61265",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_160tx_a_local.txt",
+   "bytes": 14945,
+   "sha256": "8d71edb8db08caf24fa8e0cf1ab86f64a8746a4a6685bb2982a2d469be923e51",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_160tx_a_standard.csv",
+   "bytes": 10913,
+   "sha256": "cad178580c3b8f035d818888b3659de8e0ba90e998fff4e94dce79fe47e7c99d",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_160tx_b_answer_key.csv",
+   "bytes": 6461,
+   "sha256": "62df97960d9854bda6d0767736e1be04a917b5d169ff5210829d75f3a94cd5ad",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_160tx_b_local.txt",
+   "bytes": 14098,
+   "sha256": "1ac07542d6742e10ec20fea5f9f6024982ec826c4c49afdfe8b15c9b0b15e275",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_160tx_b_standard.csv",
+   "bytes": 10304,
+   "sha256": "c1dc3227bab8dfb5737b67d881cbcb1399b32957f336cee0ad31276e938d57e9",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_40tx_a_answer_key.csv",
+   "bytes": 1649,
+   "sha256": "045f87ee348b6b743ca6b828f1d84be63d2bc28639c432053e22467d6897f202",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_40tx_a_local.txt",
+   "bytes": 3552,
+   "sha256": "588b77555711193f20373d702321687189e6faa790ec5bb6427136fbcf4768a5",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_40tx_a_standard.csv",
+   "bytes": 2591,
+   "sha256": "0d9c210f914154aa72a09d52509a0e84ed9086529e4c8fe3a6ac3034ca9a3584",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_40tx_b_answer_key.csv",
+   "bytes": 1634,
+   "sha256": "c0b97266ad89c8c9e753fe640cb894b0662516369ed9223c417ec9be347b2a02",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_40tx_b_local.txt",
+   "bytes": 3698,
+   "sha256": "ac8e3e5c88dd414a537a378fc089a800bd68015f85bee1aba266ba1731671e35",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/KEN_40tx_b_standard.csv",
+   "bytes": 2494,
+   "sha256": "f1ec249a53c858b61142d9a6c17a9c5cfd4764a958a34a660e5b5804827c0120",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_100tx_a_answer_key.csv",
+   "bytes": 4223,
+   "sha256": "f2fbde55487612aae3008ee384069bb977fccd66fcc02a924c335eba39da5369",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_100tx_a_local.txt",
+   "bytes": 8063,
+   "sha256": "24b80832dd93e7ea2b1dd20ded85153b0ac4ae0197037ddedbf9ae0a5ca9f315",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_100tx_a_standard.csv",
+   "bytes": 7193,
+   "sha256": "f4856ec8a60ac10a46518cbdac40060a7a410f5f7c118968ba25b6e401a6d0a4",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_100tx_b_answer_key.csv",
+   "bytes": 4144,
+   "sha256": "ea2e84112a0f16d9f0f93713979a6db2867fbda34ab31a5332c6f847107d3144",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_100tx_b_local.txt",
+   "bytes": 7320,
+   "sha256": "7afa89d80d3624db35db125b82f4d0df26713d0c85fecba6d2040d76d7028bf2",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_100tx_b_standard.csv",
+   "bytes": 6605,
+   "sha256": "8d674afc43fc56cc74d5192e9c0a63669a990bf785f0451864be99df9a9b6ed7",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_160tx_a_answer_key.csv",
+   "bytes": 6640,
+   "sha256": "144f06f2e7d105626ac045681233da87d39828b13f8967a4c2d94ccb25d329c3",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_160tx_a_local.txt",
+   "bytes": 11956,
+   "sha256": "95131ab5c06dc05d4b24f60ef2cf8928c4187ba9bda69d2d99b65b98380324d4",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_160tx_a_standard.csv",
+   "bytes": 10619,
+   "sha256": "e4e90f58bdaeb0fee3cc45c4fbc8168769b510709b2bba296d48a1d1a4928f0b",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_160tx_b_answer_key.csv",
+   "bytes": 6673,
+   "sha256": "5fdcec870ec8f102a277ff16c40b0a7b6456023fd7c38ad143be0a67eaa3e188",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_160tx_b_local.txt",
+   "bytes": 11200,
+   "sha256": "24b78a4a2bf7e1eb6ae8194c78e3dff12eb6c039e90ddfa5938fd51d5bfd9569",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_160tx_b_standard.csv",
+   "bytes": 10593,
+   "sha256": "7cbf3ded793c944752cb38cf6b65c456ad9b784c59f2227f9cae0336129d8955",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_40tx_a_answer_key.csv",
+   "bytes": 1679,
+   "sha256": "b6a8c2a45babcc249ffc9a5444a88069ba024137c4e4219c358078e45f0fc8d9",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_40tx_a_local.txt",
+   "bytes": 2933,
+   "sha256": "6746c9848700734220a8408ff883a2b11bf8edeb88ad94da08f814d87b320414",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_40tx_a_standard.csv",
+   "bytes": 2590,
+   "sha256": "8080a3cbb4d7f8c4b6f536ba349b0e404c8bd9d4e05c080a4f58858f43c45155",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_40tx_b_answer_key.csv",
+   "bytes": 1696,
+   "sha256": "7165611d8b125ae9fe3a4df151828a610b8b9d1d9b556e2f4b3cdef668525257",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_40tx_b_local.txt",
+   "bytes": 2876,
+   "sha256": "a23c7708e30cb0cc754694eb8652ac777a701d31fb142e31777e89c5cd654046",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/NGA_40tx_b_standard.csv",
+   "bytes": 2683,
+   "sha256": "5dc3a5638ebf583bf685eed2b6ed4f851a1e7006b3a6f5fd97c44947bc26d728",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_100tx_a_answer_key.csv",
+   "bytes": 3935,
+   "sha256": "7da4d18d91bc904d727c654d316a8454a075bd96aead94b7630cb47acf22ac17",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_100tx_a_local.txt",
+   "bytes": 5960,
+   "sha256": "e864ba5e395f2e100946940c4ad86c83afb85cd2ec18e3f6259303579c74b27c",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_100tx_a_standard.csv",
+   "bytes": 6288,
+   "sha256": "f572695e344fae396724c19152b6048a6621a9eebcf50dca199a419615f5f3a2",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_100tx_b_answer_key.csv",
+   "bytes": 3938,
+   "sha256": "f8d84d391bcdb3838fc233b3385d3ae622330392a3fa2ee58c113b031d9652d8",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_100tx_b_local.txt",
+   "bytes": 6110,
+   "sha256": "6cfd605df74a72c484003cf2ebd3b912082c5e57e378e4645a1a2a2377700307",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_100tx_b_standard.csv",
+   "bytes": 6419,
+   "sha256": "3a43d30ad9445b7d80bd5b75fd8b7a087f06a6d2b74668ad21236d161cb21388",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_160tx_a_answer_key.csv",
+   "bytes": 6284,
+   "sha256": "110b02bf0a72116860bf10c608fd228b36a528fdc8b01734d10c8cf3421a8328",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_160tx_a_local.txt",
+   "bytes": 9601,
+   "sha256": "9a04e590ec017071f435580a25f68695efc03df61ecacb18a202bf1c427c7646",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_160tx_a_standard.csv",
+   "bytes": 10167,
+   "sha256": "40c7678a3d39377d32a5ad6cf5295a0e0e944e9083e4819005c654b3118fe193",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_160tx_b_answer_key.csv",
+   "bytes": 6295,
+   "sha256": "8d3b06056948a0ae60af4d1064e885334f47a1e693568b73eb2f8c05e86f8f36",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_160tx_b_local.txt",
+   "bytes": 9833,
+   "sha256": "e8740e5bb4c577c2194688bca3443b6482725460e3fc0deaaa21a748ab40b9d2",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_160tx_b_standard.csv",
+   "bytes": 10322,
+   "sha256": "008b80890bd6acdc94a2708f6714009da5956a3d71988adc01957324886c4ec3",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_40tx_a_answer_key.csv",
+   "bytes": 1614,
+   "sha256": "45b20a53089600b6faf64a6b8258fb195672eecb7e6d4874310d82e87dfae94b",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_40tx_a_local.txt",
+   "bytes": 2678,
+   "sha256": "80f71c5967b955c1bf18ea891c1a3fc73d51a59da8e5c16d7a90c1f99e40b114",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_40tx_a_standard.csv",
+   "bytes": 2649,
+   "sha256": "8f43b3578befcd3d14336aa7cdec18054110ca59be2af3496dfcff861a6da2d4",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_40tx_b_answer_key.csv",
+   "bytes": 1606,
+   "sha256": "6a4adf48f71588892b3d52078315cb87a65115ea242346a978aa46409e96c44d",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_40tx_b_local.txt",
+   "bytes": 2479,
+   "sha256": "b38a0e23ac47002ac0a244a904710e66aea13f2d78a1773a1ffe79fdeeeb84fd",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/USA_40tx_b_standard.csv",
+   "bytes": 2629,
+   "sha256": "1bb63722980eeb55e83c1d0a894dbc02b18f98050dfe0f40b38a092e21d606aa",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/parity_check.csv",
+   "bytes": 913,
+   "sha256": "4249ef098e69f3cec414d6b6fc759c22cfa518fbd68ae6abfa0b4dfd9765c12f",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/packets/scoring_selftest.csv",
+   "bytes": 10878,
+   "sha256": "81df22868c3f0d9175768ef39c48da391c08a39d9298cd31699cda81b9e7bcbf",
+   "source": "synthetic; src/03_make_ledger_packets.py (seed = packet tag)"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_100tx_a_local_seeded.csv",
+   "bytes": 4041,
+   "sha256": "6f7b289f3fe7e09bcab927ba46c9198a03cf3dfff4a1ff81891d5bc1950f28a7",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_100tx_a_standard_seeded.csv",
+   "bytes": 4049,
+   "sha256": "cb630e028ef3fb288fe936cf8205736934ade4c0b1f176f4f75efd576c9c0ab5",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_100tx_b_local_seeded.csv",
+   "bytes": 4033,
+   "sha256": "d2ae0bb2a3c06ab254135c2b3925f040d0e15a2fa99f8f3937e7f83efe830eb3",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_100tx_b_standard_seeded.csv",
+   "bytes": 4023,
+   "sha256": "12bb39936e51cb61d6c488758e879b6b8b958c52cf88691d0252f9267b31df13",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_160tx_a_local_seeded.csv",
+   "bytes": 6391,
+   "sha256": "3a88708ce3e9c72198dae6e233fa9e85876f46e9471e2c9128f112f5ad17866f",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_160tx_a_standard_seeded.csv",
+   "bytes": 6381,
+   "sha256": "c2a3fb05c4789df141acf1f68fc369e4286dbd1daffb5323384db2e7b09d6009",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_160tx_b_local_seeded.csv",
+   "bytes": 6403,
+   "sha256": "76a181a0f34f76d9bba61a2cbbad31ca12369ff71c3fdbcd4b5cbbca50323e5a",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_160tx_b_standard_seeded.csv",
+   "bytes": 6406,
+   "sha256": "34bb565e2153c463c9f0032a157d21d6709ad1f1371dc4f3480a8ebd75c8e052",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_40tx_a_local_seeded.csv",
+   "bytes": 1614,
+   "sha256": "721d11a3f5a6de2ee3d01d70a4afae7ba884a4dd683ed854315a8bdf7d3b3627",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_40tx_a_standard_seeded.csv",
+   "bytes": 1614,
+   "sha256": "a79a587ec1e45c09e2c69380681973deb81c7b55441a06d2f7b01d33377a3395",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_40tx_b_local_seeded.csv",
+   "bytes": 1640,
+   "sha256": "2e6d4cfc69b2b599a11ea0ba76ef3a8fb2980e6eb5a9007a5354dff4b6b4fe39",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/IND_40tx_b_standard_seeded.csv",
+   "bytes": 1636,
+   "sha256": "e8eb9ee20a59c32d6a722265b92237c0905b049088a475b41f6f3f98f19b6f63",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_100tx_a_local_seeded.csv",
+   "bytes": 3976,
+   "sha256": "0e6c3eba301cc3257bac81150a4025c588511d6122bd48f6b10fcabbc3e5f7aa",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_100tx_a_standard_seeded.csv",
+   "bytes": 3972,
+   "sha256": "33e9ce24f536be3f1dd1ad83b4cc91763bbc52364c2c5cde453ba41abd9b81ed",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_100tx_b_local_seeded.csv",
+   "bytes": 4040,
+   "sha256": "969998cb1f885f43d0d50f86378f92b9d2b3e4532db5415440a9162ce1537784",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_100tx_b_standard_seeded.csv",
+   "bytes": 4037,
+   "sha256": "043e6cdbf2a62e55a769534f754de9025f1143ccefcb1906e3f3fa4dd99ee031",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_160tx_a_local_seeded.csv",
+   "bytes": 6441,
+   "sha256": "6355184100542812d2ec33d6517b4b1b82da52bdf089d528ba7271aae05ff2b5",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_160tx_a_standard_seeded.csv",
+   "bytes": 6444,
+   "sha256": "97dce9c1261d907f44b9cc410aa51df9c35e299ec16319721ad9e68b9333011d",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_160tx_b_local_seeded.csv",
+   "bytes": 6403,
+   "sha256": "eba257ea6cd2741b115755d0d63501cd6be187a60e97cff7734c96e7b5ac25ea",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_160tx_b_standard_seeded.csv",
+   "bytes": 6393,
+   "sha256": "9e6a2f322d6688d0fdc9fa3cfc3d03c28e0b137ff556c88c2d99f068168c8007",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_40tx_a_local_seeded.csv",
+   "bytes": 1635,
+   "sha256": "b5afa0de197df703ea6de9c181e2a9b7bdf722dbab28e6e5efc451c286008efe",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_40tx_a_standard_seeded.csv",
+   "bytes": 1640,
+   "sha256": "c7030b926cc158f0637708e5f7f49a6172851b8984a88cc9bf8f5c8e5d77ad2a",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_40tx_b_local_seeded.csv",
+   "bytes": 1625,
+   "sha256": "2cd385dce7b973d979a84b344dd96218a6620ac7564ef24999ad7dee2a660100",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/KEN_40tx_b_standard_seeded.csv",
+   "bytes": 1625,
+   "sha256": "3a8413550082ed5ca281a00ad50df6779acf198187f004750fe5dbe03a635b87",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_100tx_a_local_seeded.csv",
+   "bytes": 4188,
+   "sha256": "d009ccedeec99dad99a1951b109212b292b6e1e2eb3213388cd9fc623b814de9",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_100tx_a_standard_seeded.csv",
+   "bytes": 4182,
+   "sha256": "ba08bdea277272234da5b59fc1acde55176d47a38f4088ae9b64329f3e655a0e",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_100tx_b_local_seeded.csv",
+   "bytes": 4107,
+   "sha256": "60779024170fad2a0e8c7b92a89cb90c1659d65c3acb69f91e3be3b683e79cfe",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_100tx_b_standard_seeded.csv",
+   "bytes": 4106,
+   "sha256": "76a1981c3dd6433b8a8787b7602e2540ec2661ed04dbabc795422b74d2e54ae0",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_160tx_a_local_seeded.csv",
+   "bytes": 6577,
+   "sha256": "b70baa1f4ec3caa482ea6c44a83d5a34b1a942478b57c4ad07c1063875295f87",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_160tx_a_standard_seeded.csv",
+   "bytes": 6579,
+   "sha256": "f3220eab1061c6e84e987be391c2074711cdeebaaf1d8b7e48f20ef05862a70b",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_160tx_b_local_seeded.csv",
+   "bytes": 6613,
+   "sha256": "fd564609dd2028add3fd67fe6cfbe733198f67227e003694f2c863e080d553e5",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_160tx_b_standard_seeded.csv",
+   "bytes": 6614,
+   "sha256": "e0e71719fcd36b9c34f6f9afb4c7d057ef8613538c7d0085e39e10e561707f30",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_40tx_a_local_seeded.csv",
+   "bytes": 1670,
+   "sha256": "bc04197dc1c23c62102e324abe79f0891edff2d18db92771ed70f3392d7e45b3",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_40tx_a_standard_seeded.csv",
+   "bytes": 1670,
+   "sha256": "e6d8374ccb8bdd8bdc36bb7d80457b0935db8bd5f9cb5bc12894b24f29e4c3a9",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_40tx_b_local_seeded.csv",
+   "bytes": 1687,
+   "sha256": "438cbd4399b0f66913aedab830440ad5b198cefa4837771dafb25e72215e61ef",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/NGA_40tx_b_standard_seeded.csv",
+   "bytes": 1684,
+   "sha256": "5a1f8dde91dbb4cb38cab3638496031be7494fe257968922a39860e3543b6dae",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_100tx_a_local_seeded.csv",
+   "bytes": 3905,
+   "sha256": "05b6d1e61fe63e1c812deb8b3457a15304deb9c0fdc9cbbf56f3db24a42177c7",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_100tx_a_standard_seeded.csv",
+   "bytes": 3896,
+   "sha256": "5695e1f04cefb3218844dc92d4b546bcbf7f5fd4a54be949acc46e454ee5df57",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_100tx_b_local_seeded.csv",
+   "bytes": 3904,
+   "sha256": "20b20da97505e0a670878ff89ea55375706bd5ee50e4ee03e659b4d8a10afb23",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_100tx_b_standard_seeded.csv",
+   "bytes": 3905,
+   "sha256": "afb8574626fa29d6579b811ec53d777e88d78a1011c97f6e0fe4defdf99e313b",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_160tx_a_local_seeded.csv",
+   "bytes": 6215,
+   "sha256": "95114cd3b0b92fd1c0da7c6667f5cbfb13a4424ab3bea1b74f83e92e0073bb9a",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_160tx_a_standard_seeded.csv",
+   "bytes": 6226,
+   "sha256": "a820f9c6f9651b06548184dc4b2d8834fed1da83f545eb23d5a5ded1fb7c1782",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_160tx_b_local_seeded.csv",
+   "bytes": 6228,
+   "sha256": "4dfed0d5874b849bcd79aec34630719a21496eec1ae550dfd2c161f3f94ae878",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_160tx_b_standard_seeded.csv",
+   "bytes": 6232,
+   "sha256": "e830d2e820fa1612bc9c9cc3e8c47a65627bccb7828c32895f17c802e87ff821",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_40tx_a_local_seeded.csv",
+   "bytes": 1605,
+   "sha256": "7bf2930b181f33a0aac0e3bff0b0e886ac56573a36ae335d5963441c88a9b00c",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_40tx_a_standard_seeded.csv",
+   "bytes": 1605,
+   "sha256": "d918143a6f489f30f61eff0a84bf88a3472153a54ab0c7a92b4d1f9357a5ae6b",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_40tx_b_local_seeded.csv",
+   "bytes": 1597,
+   "sha256": "222898991e547e7327df51a768ead1e2e21f5cd9d54a8dbaffadd7a9fd5b2260",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/ledgers/seeded/USA_40tx_b_standard_seeded.csv",
+   "bytes": 1597,
+   "sha256": "4b14e0a359c885741ca404e1466a5d5c4a82e7d2e8f3cb4634c49d009eea169f",
+   "source": "synthetic; src/05_seed_ledger_drafts.py (seed = packet tag and format); identical to the drafts every ledger structure received"
+  },
+  {
+   "path": "data/reports/bank/bank.csv",
+   "bytes": 3598,
+   "sha256": "b4b8f9ce31f1d06e64de68444575e4494c78b2044e51303da9ee9a5febc39c97",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V0_correct/analysis.py",
+   "bytes": 461,
+   "sha256": "ccb3354809869703a0408a5ce2213758ac05e615664783d96cd2569ad9588445",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V0_correct/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V0_correct/data.csv",
+   "bytes": 213178,
+   "sha256": "61101abd3499942e26709e4a7462b6a75d95f32ecf4556a8e847daba9c7f2568",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V0_correct/final_answer.json",
+   "bytes": 221,
+   "sha256": "80dacfbca504f06e98b2adeee21edef6dd151483d01999b26f98b53d3d3c550e",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V0_correct/report.md",
+   "bytes": 530,
+   "sha256": "1a3d7ea58d108064cbf06092c77d3201ac2920a6faeba556dd44c98490e7b95c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V1_collider/analysis.py",
+   "bytes": 481,
+   "sha256": "0666321e10aed50161a9fac083fbe5fa72c8c932f06f58a578f6aec9fc806716",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V1_collider/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V1_collider/data.csv",
+   "bytes": 213178,
+   "sha256": "61101abd3499942e26709e4a7462b6a75d95f32ecf4556a8e847daba9c7f2568",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V1_collider/final_answer.json",
+   "bytes": 219,
+   "sha256": "361f74f1b09aee61241846f92b974e7d1bd7df70d5531d911de4ba58a4f8c2f5",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V1_collider/report.md",
+   "bytes": 574,
+   "sha256": "ef394e4544a11fecdeae38f4214e3abef2fbd9faf7ee0f51d5190fb76f7a6e50",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V2_omit_prior/analysis.py",
+   "bytes": 440,
+   "sha256": "7862a82398bc7eefd56940a1c4cd1aa99ca91692484fcf4008cb40d29e475b6d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V2_omit_prior/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V2_omit_prior/data.csv",
+   "bytes": 213178,
+   "sha256": "61101abd3499942e26709e4a7462b6a75d95f32ecf4556a8e847daba9c7f2568",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V2_omit_prior/final_answer.json",
+   "bytes": 219,
+   "sha256": "83bb8cd06f0acbf25e17c2bf7e335b3fc0a0740acd36b7bf7981f5843cd184f5",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V2_omit_prior/report.md",
+   "bytes": 461,
+   "sha256": "d3168c1a1f79426d662d1ad2b6a9801e7dd5c008a965be8aa98b007dcd33ff76",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V3_no_controls/analysis.py",
+   "bytes": 401,
+   "sha256": "381c5b4f62e887e4ee755d2565b28f33aaa0713fd66e3fbe3a64fe9fc5e34910",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V3_no_controls/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V3_no_controls/data.csv",
+   "bytes": 213178,
+   "sha256": "61101abd3499942e26709e4a7462b6a75d95f32ecf4556a8e847daba9c7f2568",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V3_no_controls/final_answer.json",
+   "bytes": 211,
+   "sha256": "024dda4d074a4f448ae0d1ad0e74be07eaad0c6a5f3cc6a60f2c73bc8c08e60d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V3_no_controls/report.md",
+   "bytes": 538,
+   "sha256": "1818b9e51ab4e26e393ff6811e9b8d8f3f9e426abbcffe7378cde028524789e7",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V4_subgroup/analysis.py",
+   "bytes": 494,
+   "sha256": "0bbf95c61f5ad54f31a4071a8a22eacecc00f783933841a812ec7ec99e2fcc89",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V4_subgroup/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V4_subgroup/data.csv",
+   "bytes": 213178,
+   "sha256": "61101abd3499942e26709e4a7462b6a75d95f32ecf4556a8e847daba9c7f2568",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V4_subgroup/final_answer.json",
+   "bytes": 225,
+   "sha256": "5db6cd7878a33ba77a2f8260076cbac4f21882cea23add64c366674d1a7a72bf",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p01_V4_subgroup/report.md",
+   "bytes": 565,
+   "sha256": "a82245e67611f750e46f424d37d37334a80cf293efe6de00a0cbfce88f512837",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V0_correct/analysis.py",
+   "bytes": 480,
+   "sha256": "ac286b9cc557da9c0204f882561e825e824442911fed978ea6c488b67a9850f1",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V0_correct/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V0_correct/data.csv",
+   "bytes": 208425,
+   "sha256": "448c7aed3225270003e3cbf298210d551711da6e1bd0a25ca2fba71baa47154a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V0_correct/final_answer.json",
+   "bytes": 222,
+   "sha256": "79199d624d4f05ca83a8ab941ba8f90c9eea4853c9eb9442e7562f2197b9636e",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V0_correct/report.md",
+   "bytes": 526,
+   "sha256": "e13ed61f9c323526b9bbf1aaa2f2605671fae21e35365ea8be4521f079f45a81",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V1_collider/analysis.py",
+   "bytes": 501,
+   "sha256": "beaf09a271b8fc75f889294f451f41ae53968b75e6fdc23e1b57d5dc3c49b6e3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V1_collider/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V1_collider/data.csv",
+   "bytes": 208425,
+   "sha256": "448c7aed3225270003e3cbf298210d551711da6e1bd0a25ca2fba71baa47154a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V1_collider/final_answer.json",
+   "bytes": 219,
+   "sha256": "ffbd69e5c6a99f4b169a51db09eecebee979af729f2a9dade5f75fab20dd7f00",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V1_collider/report.md",
+   "bytes": 571,
+   "sha256": "e8ac891ca3518597fa99d276e374f4fc8cd666fa96170ce44e33e7c342ed5662",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V2_omit_prior/analysis.py",
+   "bytes": 452,
+   "sha256": "4261509447171f60a018d071a2f3c07ee59cb595187147d749652e1f34386c84",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V2_omit_prior/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V2_omit_prior/data.csv",
+   "bytes": 208425,
+   "sha256": "448c7aed3225270003e3cbf298210d551711da6e1bd0a25ca2fba71baa47154a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V2_omit_prior/final_answer.json",
+   "bytes": 219,
+   "sha256": "c9ac90cdc9dcd16a7b792bb6d579d9990348cb2cc6bb6d30f98a43bf59744c5f",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V2_omit_prior/report.md",
+   "bytes": 457,
+   "sha256": "59ab426269477345873b78aa9cbdca3f6b164986845105ae3b9b537cc6254189",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V3_no_controls/analysis.py",
+   "bytes": 413,
+   "sha256": "cc8fd9016b667ba110ddb8508ae90ac9440514dc86173884923d7919ba30d432",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V3_no_controls/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V3_no_controls/data.csv",
+   "bytes": 208425,
+   "sha256": "448c7aed3225270003e3cbf298210d551711da6e1bd0a25ca2fba71baa47154a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V3_no_controls/final_answer.json",
+   "bytes": 210,
+   "sha256": "fd2f87ad4571f2f0f0030a76a493af24e0114adb0451afbaa506709d2ab7dae0",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V3_no_controls/report.md",
+   "bytes": 534,
+   "sha256": "32301be6b812db0293945d839f44444a7c14ad6c2d0d6c1ad13be57468b7bfae",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V4_subgroup/analysis.py",
+   "bytes": 513,
+   "sha256": "109a8cd1d290fc5bd78122759b4b7d2045e2b420c7a836288acd82945aa46715",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V4_subgroup/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V4_subgroup/data.csv",
+   "bytes": 208425,
+   "sha256": "448c7aed3225270003e3cbf298210d551711da6e1bd0a25ca2fba71baa47154a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V4_subgroup/final_answer.json",
+   "bytes": 225,
+   "sha256": "dfd79ad565e7c54326aa82e6cc9985448e7014df096ecd4a31092501dbf52c6a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p02_V4_subgroup/report.md",
+   "bytes": 561,
+   "sha256": "da767767ca709de20aec48dd04d14d1b8b9bf69600ee5c814ef0ac724bac42d5",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V0_correct/analysis.py",
+   "bytes": 471,
+   "sha256": "fc87305df6ec2cdb6bbf25361c5a2b302ced5bf24e394a00313925a7dae5bd36",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V0_correct/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V0_correct/data.csv",
+   "bytes": 211428,
+   "sha256": "6f41aaf4112004f8824cc9fe01f6e4da1a8afd4752aa8e7412173c292bc2390d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V0_correct/final_answer.json",
+   "bytes": 221,
+   "sha256": "c9bdd9e5e157ee4a28158c4c1a05acd415a8117b14b1d1fe1a079c61c921e784",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V0_correct/report.md",
+   "bytes": 536,
+   "sha256": "31c5990764be387a94fda8e214172b7ee58f2cfb13724510d9cc006607b1dbfa",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V1_collider/analysis.py",
+   "bytes": 492,
+   "sha256": "e767d555c66d8b4aff08401200ba5735427b629baff442d865e860a1875cc2bc",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V1_collider/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V1_collider/data.csv",
+   "bytes": 211428,
+   "sha256": "6f41aaf4112004f8824cc9fe01f6e4da1a8afd4752aa8e7412173c292bc2390d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V1_collider/final_answer.json",
+   "bytes": 219,
+   "sha256": "4f8a95f3a50a32377fa449fd5aea7ad2cf737c94afd2ef647596ca39ef6db4c3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V1_collider/report.md",
+   "bytes": 581,
+   "sha256": "485cb4a2c4d7e865b35a4f9680c69f4019e1f7123ccd2ab8d7aea76928e90efc",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V2_omit_prior/analysis.py",
+   "bytes": 449,
+   "sha256": "41e1cf4c409296443400d6a96351503234243f8242a9ed421b1bc4d52b080e6d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V2_omit_prior/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V2_omit_prior/data.csv",
+   "bytes": 211428,
+   "sha256": "6f41aaf4112004f8824cc9fe01f6e4da1a8afd4752aa8e7412173c292bc2390d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V2_omit_prior/final_answer.json",
+   "bytes": 219,
+   "sha256": "a4faf65bf069a7077bee7bb957b021d2c7775800694a75f2b88d5419ff8f9f91",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V2_omit_prior/report.md",
+   "bytes": 467,
+   "sha256": "41f0a225d0b4c7af2e5d7f6a34213163d7c5f110c9381d1fb5ae2b4e82b5a80a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V3_no_controls/analysis.py",
+   "bytes": 407,
+   "sha256": "1e867e43161c2a5c467a6d46d766a213bc46d0f8e9a0c47ab253834515fb0bef",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V3_no_controls/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V3_no_controls/data.csv",
+   "bytes": 211428,
+   "sha256": "6f41aaf4112004f8824cc9fe01f6e4da1a8afd4752aa8e7412173c292bc2390d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V3_no_controls/final_answer.json",
+   "bytes": 211,
+   "sha256": "36a1f7a91123f9b40edf5e38182f758fe1a6fdc01e0c42ce3baeef0d96c47a30",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V3_no_controls/report.md",
+   "bytes": 544,
+   "sha256": "355bee0988454fd14ac73f023073c8d49d3e7c6303a8d1f9af983fe42cce5333",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V4_subgroup/analysis.py",
+   "bytes": 504,
+   "sha256": "35246c0fba1a5a01c134381193e7069443689c9b203bf0a5a7a8c16fedd7b662",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V4_subgroup/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V4_subgroup/data.csv",
+   "bytes": 211428,
+   "sha256": "6f41aaf4112004f8824cc9fe01f6e4da1a8afd4752aa8e7412173c292bc2390d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V4_subgroup/final_answer.json",
+   "bytes": 224,
+   "sha256": "d8ea497d27ae5a5899e7f19b86d0cd4b92607b7aaaeb9c57eac0011cd84d5dc7",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p03_V4_subgroup/report.md",
+   "bytes": 571,
+   "sha256": "3914c6df9425b49f7ce1f1af4a3011d53a4b94749f6d969e294ac9a40e3ae56a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V0_correct/analysis.py",
+   "bytes": 461,
+   "sha256": "ccb3354809869703a0408a5ce2213758ac05e615664783d96cd2569ad9588445",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V0_correct/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V0_correct/data.csv",
+   "bytes": 213189,
+   "sha256": "5464cab9c6ea54a0bf7836e2191bb92ea3c298c8caa06e7ffed32cbc494b0fa3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V0_correct/final_answer.json",
+   "bytes": 220,
+   "sha256": "2485d51662be56d134aec432279c0128306f04ba11b63434ca2163850a032c96",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V0_correct/report.md",
+   "bytes": 530,
+   "sha256": "36f78636a9d32f2ad4d500931bf2d909d5fb7008740ad1406a52f7a8058c9bcf",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V1_collider/analysis.py",
+   "bytes": 481,
+   "sha256": "0666321e10aed50161a9fac083fbe5fa72c8c932f06f58a578f6aec9fc806716",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V1_collider/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V1_collider/data.csv",
+   "bytes": 213189,
+   "sha256": "5464cab9c6ea54a0bf7836e2191bb92ea3c298c8caa06e7ffed32cbc494b0fa3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V1_collider/final_answer.json",
+   "bytes": 219,
+   "sha256": "a73a7aa8ff7c535a72be0a1284c0f1cf9e4fb42f64c960d052ef2a0eb48b823c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V1_collider/report.md",
+   "bytes": 574,
+   "sha256": "e4ec278316dd2456116ff4fc60d1b444f7fe096a98999112bad7775b96712f42",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V2_omit_prior/analysis.py",
+   "bytes": 440,
+   "sha256": "7862a82398bc7eefd56940a1c4cd1aa99ca91692484fcf4008cb40d29e475b6d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V2_omit_prior/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V2_omit_prior/data.csv",
+   "bytes": 213189,
+   "sha256": "5464cab9c6ea54a0bf7836e2191bb92ea3c298c8caa06e7ffed32cbc494b0fa3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V2_omit_prior/final_answer.json",
+   "bytes": 217,
+   "sha256": "5e8363e83c6b87d138116cb344157d19133173f56b88a254ad7cb53582cc57e0",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V2_omit_prior/report.md",
+   "bytes": 461,
+   "sha256": "c8f1380d890514d9bba3ac52b447792db0b0891bc772b43b32640ea5e6fc4e3f",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V3_no_controls/analysis.py",
+   "bytes": 401,
+   "sha256": "381c5b4f62e887e4ee755d2565b28f33aaa0713fd66e3fbe3a64fe9fc5e34910",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V3_no_controls/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V3_no_controls/data.csv",
+   "bytes": 213189,
+   "sha256": "5464cab9c6ea54a0bf7836e2191bb92ea3c298c8caa06e7ffed32cbc494b0fa3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V3_no_controls/final_answer.json",
+   "bytes": 211,
+   "sha256": "04475ae5fd9d279e9bd2689d6a459abc231a29c29e11e1be8d63ea26922e7ff0",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V3_no_controls/report.md",
+   "bytes": 538,
+   "sha256": "87951ec891ab97f134aeebeca14f92457258c10babd08e0f2abdd6657b2f91c1",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V4_subgroup/analysis.py",
+   "bytes": 494,
+   "sha256": "0bbf95c61f5ad54f31a4071a8a22eacecc00f783933841a812ec7ec99e2fcc89",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V4_subgroup/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V4_subgroup/data.csv",
+   "bytes": 213189,
+   "sha256": "5464cab9c6ea54a0bf7836e2191bb92ea3c298c8caa06e7ffed32cbc494b0fa3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V4_subgroup/final_answer.json",
+   "bytes": 224,
+   "sha256": "8bf87d27f93d6cd3ff3c522e74191df62ef50ec95da02db31e4fdf8f7cc513d1",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p04_V4_subgroup/report.md",
+   "bytes": 565,
+   "sha256": "36364622d2b147327cc266ea57b492d3e5f87875e0b6ca5145b8e4b0bd2a1a93",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V0_correct/analysis.py",
+   "bytes": 480,
+   "sha256": "ac286b9cc557da9c0204f882561e825e824442911fed978ea6c488b67a9850f1",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V0_correct/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V0_correct/data.csv",
+   "bytes": 208267,
+   "sha256": "3ec308573678aee7b70872b095c9f592446c81ecbb8c274f298b5fda6f1730c7",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V0_correct/final_answer.json",
+   "bytes": 217,
+   "sha256": "e1c2006bd9c152482ac9189e3559d9812b88d09b179f4f4569cf24690581841a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V0_correct/report.md",
+   "bytes": 521,
+   "sha256": "bfe5f3d452506687e91500830800725be60775b92833e6d0f1e58a2bfd4abbc5",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V1_collider/analysis.py",
+   "bytes": 501,
+   "sha256": "beaf09a271b8fc75f889294f451f41ae53968b75e6fdc23e1b57d5dc3c49b6e3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V1_collider/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V1_collider/data.csv",
+   "bytes": 208267,
+   "sha256": "3ec308573678aee7b70872b095c9f592446c81ecbb8c274f298b5fda6f1730c7",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V1_collider/final_answer.json",
+   "bytes": 219,
+   "sha256": "191ea312a8dcfe94274fa6cd3255ce2034a46b320a6f0ad0ccaac92ba7809848",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V1_collider/report.md",
+   "bytes": 571,
+   "sha256": "9a1e5dd6620abece5c54cee2a439027def0495bd7d34743cc75e23c200fcb4f9",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V2_omit_prior/analysis.py",
+   "bytes": 452,
+   "sha256": "4261509447171f60a018d071a2f3c07ee59cb595187147d749652e1f34386c84",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V2_omit_prior/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V2_omit_prior/data.csv",
+   "bytes": 208267,
+   "sha256": "3ec308573678aee7b70872b095c9f592446c81ecbb8c274f298b5fda6f1730c7",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V2_omit_prior/final_answer.json",
+   "bytes": 213,
+   "sha256": "4fbf25611089cf6b6f35f47d0d18b87576b2b46ee0a17a9298278415940f8b7e",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V2_omit_prior/report.md",
+   "bytes": 452,
+   "sha256": "5fc72d8225d9795bbea29636c94049ec73cc5676a2de47ab777e465fea98b9e9",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V3_no_controls/analysis.py",
+   "bytes": 413,
+   "sha256": "cc8fd9016b667ba110ddb8508ae90ac9440514dc86173884923d7919ba30d432",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V3_no_controls/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V3_no_controls/data.csv",
+   "bytes": 208267,
+   "sha256": "3ec308573678aee7b70872b095c9f592446c81ecbb8c274f298b5fda6f1730c7",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V3_no_controls/final_answer.json",
+   "bytes": 211,
+   "sha256": "6a04c19cf29f25300cf62fe6745b6ad1d57947822bc358dd2cb2fc53df1669e4",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V3_no_controls/report.md",
+   "bytes": 534,
+   "sha256": "50bccaf6651a6aeda7fb46e45a56546e58415be40471da99d22f2fd4d342bd3d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V4_subgroup/analysis.py",
+   "bytes": 515,
+   "sha256": "2b8c2f1267d448c1ea2e28bbaff057312b793706c344fb318354f9a3b6b09ebe",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V4_subgroup/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V4_subgroup/data.csv",
+   "bytes": 208267,
+   "sha256": "3ec308573678aee7b70872b095c9f592446c81ecbb8c274f298b5fda6f1730c7",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V4_subgroup/final_answer.json",
+   "bytes": 227,
+   "sha256": "abe971e976a995f6427cd3b5d4dc9f61ae2b095779edacd54dbf7b5a018fe930",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p05_V4_subgroup/report.md",
+   "bytes": 563,
+   "sha256": "e1c084372ec2e168356002e2e494430f7b768d541218235971603975347a11c0",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V0_correct/analysis.py",
+   "bytes": 471,
+   "sha256": "fc87305df6ec2cdb6bbf25361c5a2b302ced5bf24e394a00313925a7dae5bd36",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V0_correct/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V0_correct/data.csv",
+   "bytes": 211200,
+   "sha256": "ae2dbea57da3bd9233a63fee9951ee6e76495562ffccdcd2ae1e7bd0fb38c76a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V0_correct/final_answer.json",
+   "bytes": 216,
+   "sha256": "ae4325494e5752806fc0897120232fca90122517ced86af6db581f28656351a9",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V0_correct/report.md",
+   "bytes": 530,
+   "sha256": "2d6bd376f7b8453f372b423ab3a926c7a61a7199f58971df6376b3b42250ce3f",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V1_collider/analysis.py",
+   "bytes": 492,
+   "sha256": "e767d555c66d8b4aff08401200ba5735427b629baff442d865e860a1875cc2bc",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V1_collider/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V1_collider/data.csv",
+   "bytes": 211200,
+   "sha256": "ae2dbea57da3bd9233a63fee9951ee6e76495562ffccdcd2ae1e7bd0fb38c76a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V1_collider/final_answer.json",
+   "bytes": 219,
+   "sha256": "ac536bd1051e8069d912a145febd611d501dd58bb3f7f5180db5e9c7a758c9e3",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V1_collider/report.md",
+   "bytes": 581,
+   "sha256": "7e4cbf12de055ceef61aec44c5dd42caf43263de5b790e0d43dc1a242783d9f4",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V2_omit_prior/analysis.py",
+   "bytes": 449,
+   "sha256": "41e1cf4c409296443400d6a96351503234243f8242a9ed421b1bc4d52b080e6d",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V2_omit_prior/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V2_omit_prior/data.csv",
+   "bytes": 211200,
+   "sha256": "ae2dbea57da3bd9233a63fee9951ee6e76495562ffccdcd2ae1e7bd0fb38c76a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V2_omit_prior/final_answer.json",
+   "bytes": 212,
+   "sha256": "0d7adbf8b14a6c742ec48f50a82c1e66f9b405e3710cecde1e68b29519f330e9",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V2_omit_prior/report.md",
+   "bytes": 461,
+   "sha256": "d4bdf0f32f61019cb766e708e43c6815dce88ce66d0356688b9477df0ef64408",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V3_no_controls/analysis.py",
+   "bytes": 407,
+   "sha256": "1e867e43161c2a5c467a6d46d766a213bc46d0f8e9a0c47ab253834515fb0bef",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V3_no_controls/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V3_no_controls/data.csv",
+   "bytes": 211200,
+   "sha256": "ae2dbea57da3bd9233a63fee9951ee6e76495562ffccdcd2ae1e7bd0fb38c76a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V3_no_controls/final_answer.json",
+   "bytes": 211,
+   "sha256": "7347ed328fbab875ad69b9c985ef77e1a01218e41ac30b25a346c4d6835fa690",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V3_no_controls/report.md",
+   "bytes": 544,
+   "sha256": "b99346c72344e5f0ea901073fdd6c350424788c3a3ca1d03cb57b1d69b6ce6b6",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V4_subgroup/analysis.py",
+   "bytes": 504,
+   "sha256": "35246c0fba1a5a01c134381193e7069443689c9b203bf0a5a7a8c16fedd7b662",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V4_subgroup/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V4_subgroup/data.csv",
+   "bytes": 211200,
+   "sha256": "ae2dbea57da3bd9233a63fee9951ee6e76495562ffccdcd2ae1e7bd0fb38c76a",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V4_subgroup/final_answer.json",
+   "bytes": 225,
+   "sha256": "e3568f5af8a325b67b079b0a043165d2430ed24293d9fc96266ad469f969c76c",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/bank/p06_V4_subgroup/report.md",
+   "bytes": 571,
+   "sha256": "327c810588ba1c6cf24d5e021587f523473d0c147fd1a6aeca8864230faeb614",
+   "source": "synthetic; src/02_make_report_bank.py from data/reports/datasets and data/reports/truth"
+  },
+  {
+   "path": "data/reports/datasets/p01/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p01/data.csv",
+   "bytes": 213178,
+   "sha256": "61101abd3499942e26709e4a7462b6a75d95f32ecf4556a8e847daba9c7f2568",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p02/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p02/data.csv",
+   "bytes": 208425,
+   "sha256": "448c7aed3225270003e3cbf298210d551711da6e1bd0a25ca2fba71baa47154a",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p03/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p03/data.csv",
+   "bytes": 211428,
+   "sha256": "6f41aaf4112004f8824cc9fe01f6e4da1a8afd4752aa8e7412173c292bc2390d",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p04/codebook.md",
+   "bytes": 1121,
+   "sha256": "a0b9eb5d27661d9e90e2056dae2e01be26db078484d63c3cf715263b43683c5c",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p04/data.csv",
+   "bytes": 213189,
+   "sha256": "5464cab9c6ea54a0bf7836e2191bb92ea3c298c8caa06e7ffed32cbc494b0fa3",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p05/codebook.md",
+   "bytes": 1128,
+   "sha256": "fe1b47b8b768d316f2bb8643a38444e6ea2b79c568264e0c7b84d399f836c5f3",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p05/data.csv",
+   "bytes": 208267,
+   "sha256": "3ec308573678aee7b70872b095c9f592446c81ecbb8c274f298b5fda6f1730c7",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p06/codebook.md",
+   "bytes": 1117,
+   "sha256": "ecd6522139aa4b611d2010955f4655ed0f07e51ea837b5e097a371adf0a0f587",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/datasets/p06/data.csv",
+   "bytes": 211200,
+   "sha256": "ae2dbea57da3bd9233a63fee9951ee6e76495562ffccdcd2ae1e7bd0fb38c76a",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/manifest.json",
+   "bytes": 631,
+   "sha256": "c0dd93b3adbdeb2e43baf3c7a75883ceed4b30aa968ff16e4e77d9a9956038f3",
+   "source": "parameters and seeds of the six report datasets"
+  },
+  {
+   "path": "data/reports/truth/p01_specspace.csv",
+   "bytes": 25026,
+   "sha256": "34f383ae458166c3ea5c6e6a4554c638dae7f98efad9c66fd390b2f4d60d4102",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p01_truth.json",
+   "bytes": 474,
+   "sha256": "41b9a156ba004f076cdc82d20fc424b9ceddaf2c3980da901300dd9eebc956f8",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p02_specspace.csv",
+   "bytes": 24911,
+   "sha256": "e2efa1e5615a2dd1f47a0ad45875ef6d38c3abe712c1032a1ff1c086ec480700",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p02_truth.json",
+   "bytes": 468,
+   "sha256": "3fa25b2679a29ab312149826ce351accd5a332a54f787d98c5a2fadffaf22695",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p03_specspace.csv",
+   "bytes": 24989,
+   "sha256": "588d3683d0c793b39d8d8582063bf2fda0df24602661168b199f34f4e7d049ab",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p03_truth.json",
+   "bytes": 478,
+   "sha256": "ceaec76f90bc94767edfb550feec4698723661b8baffde28073367ec51e94402",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p04_specspace.csv",
+   "bytes": 25072,
+   "sha256": "fea2231c6e08b6a228da62e0c89cca05214a8f5ae427b1d57fa6cf9ab1e3ca5f",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p04_truth.json",
+   "bytes": 475,
+   "sha256": "17c5bf4e6956da864d1afafd1be16d4959bf59af912b641b6447b3fb26614b53",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p05_specspace.csv",
+   "bytes": 24905,
+   "sha256": "89cb78dabcd21d320786fabf759073f7f3783f300889decff105d405dcb19856",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p05_truth.json",
+   "bytes": 461,
+   "sha256": "45e6b3ae98a63f7d848f7a06a2c4d431f2affbada598f6083514edf69fc5a265",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p06_specspace.csv",
+   "bytes": 24934,
+   "sha256": "7293e7839742eadf94fbe8e076d96fa14ec1fcbbfae7db0fdd4caf41901714a4",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  },
+  {
+   "path": "data/reports/truth/p06_truth.json",
+   "bytes": 477,
+   "sha256": "5ec297f91dbed6fe0830df265ca25aeb1cf4ef2885c2ad06d02e69d9ad4fc7ea",
+   "source": "synthetic; src/01_make_report_datasets.py with the seeds in data/reports/manifest.json"
+  }
+ ]
+}

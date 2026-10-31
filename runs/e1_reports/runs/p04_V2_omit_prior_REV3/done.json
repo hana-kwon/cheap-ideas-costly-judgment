@@ -1,0 +1,1 @@
+{"id": "p04_V2_omit_prior_REV3", "kind": "review", "dataset": "p04", "variant": "V2_omit_prior", "arm": "REV3", "model": "claude-sonnet-5-5", "outcome": "approve", "cost": 0.06807049999999999, "seconds": 25.0, "finished": "2026-10-29T00:50:32-0400"}

@@ -1,0 +1,18 @@
+{"ts": 1793249048.4185789, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 1960}
+{"ts": 1793249048.4268858, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 2000}
+{"ts": 1793249048.435161, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share"], "nobs": 2000}
+{"ts": 1793249048.441212, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020"], "nobs": 2000}
+{"ts": 1793249048.453488, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "C(region)[T.north]", "C(region)[T.south]", "C(segment)[T.software]", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020", "vc_backed", "founder_ceo", "cloud_spend_2020", "hq_in_hub_city", "share_phd_2020", "gross_margin_2020", "listed"], "nobs": 1960}
+{"ts": 1793249048.524039, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "C(region)[T.north]", "C(region)[T.south]", "C(segment)[T.software]", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020", "vc_backed", "founder_ceo", "cloud_spend_2020", "hq_in_hub_city", "share_phd_2020", "gross_margin_2020", "listed"], "nobs": 2000}
+{"ts": 1793249048.590039, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "C(region)[T.north]", "C(region)[T.south]", "C(segment)[T.software]", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 1960}
+{"ts": 1793249048.596182, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "vc_backed"], "nobs": 2000}
+{"ts": 1793249048.6019359, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "founder_ceo"], "nobs": 2000}
+{"ts": 1793249048.6041431, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "cloud_spend_2020"], "nobs": 2000}
+{"ts": 1793249048.6078432, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "hq_in_hub_city"], "nobs": 2000}
+{"ts": 1793249048.612352, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "share_phd_2020"], "nobs": 2000}
+{"ts": 1793249048.616055, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "gross_margin_2020"], "nobs": 2000}
+{"ts": 1793249048.619831, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "log_engineers_2020"], "nobs": 2000}
+{"ts": 1793249048.624022, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "firm_age_2020"], "nobs": 2000}
+{"ts": 1793249048.6275892, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "patents_per_100_eng_2020"], "nobs": 2000}
+{"ts": 1793249048.631189, "pid": 34348, "kind": "sm_regression", "endog": "remote_share", "exog": ["Intercept", "listed"], "nobs": 2000}
+{"ts": 1793249048.634996, "pid": 34348, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "patents_per_100_eng_2020"], "nobs": 2000}

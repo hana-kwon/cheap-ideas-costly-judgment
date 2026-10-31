@@ -1,0 +1,19 @@
+{
+ "id": "p04",
+ "story": "training",
+ "type": "T2_weak_true",
+ "beta": 0.05,
+ "seed": 504,
+ "conf": 0.1,
+ "outlier_shift": 0.0,
+ "true_effect_sign": "positive",
+ "correct_spec": {
+  "coef": 0.9039358958663751,
+  "se": 0.2271946627432554,
+  "p": 6.929760890469733e-05
+ },
+ "share_specs_sig_pos": 0.61328125,
+ "share_specs_sig_neg": 0.125,
+ "question": "What is the effect of employee training hours on firm productivity?",
+ "hypothesis": "more training raises productivity"
+}

@@ -1,0 +1,1 @@
+{"ts": 1793316621.487791, "pid": 81150, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3"], "nobs": 1960}

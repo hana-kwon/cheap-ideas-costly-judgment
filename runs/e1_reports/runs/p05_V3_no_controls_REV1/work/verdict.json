@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The report's positive effect comes from a raw regression with no controls. Remote share correlates with firm size, age and prior patenting. When I add the pre-period controls, the coefficient is -0.28 (p=0.25), so the positive conclusion is confounded and not supported."}

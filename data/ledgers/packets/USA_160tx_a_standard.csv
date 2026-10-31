@@ -1,0 +1,166 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Customer sale,,60,mobile,statement line
+D002,2025-10-01,Stock purchase,Sysco Supply,136,cash,statement line
+D003,2025-10-01,Customer sale,,148,mobile,statement line
+D004,2025-10-01,Customer sale,,27,mobile,statement line
+D005,2025-10-01,Stock purchase,Sysco Supply,676,cash,statement line
+D006,2025-10-01,Stock purchase,Sysco Supply,504,cash,statement line
+D007,2025-10-02,Transaction fee,,1,mobile,statement line
+D008,2025-10-02,Stock purchase,Costco Business Center,290,mobile,statement line
+D009,2025-10-02,Stock purchase,Costco Business Center,466,cash,statement line
+D010,2025-10-02,Customer sale,,132,cash,statement line
+D011,2025-10-02,Transaction fee,,1,mobile,statement line
+D012,2025-10-02,Customer sale,,81,mobile,statement line
+D013,2025-10-02,Customer sale,,123,cash,statement line
+D014,2025-10-02,Phone and data,,11,mobile,statement line
+D015,2025-10-02,Customer sale,,153,mobile,statement line
+D016,2025-10-02,Stock purchase,Restaurant Depot,192,cash,statement line
+D017,2025-10-02,Customer sale,,89,mobile,statement line
+D018,2025-10-02,Customer sale,,205,cash,statement line
+D019,2025-10-03,Customer sale,,29,mobile,statement line
+D020,2025-10-03,Customer sale,,33,bank,statement line
+D021,2025-10-03,Customer sale,,231,cash,statement line
+D022,2025-10-03,Customer sale,,25,cash,statement line
+D023,2025-10-03,Stock purchase,Costco Business Center,316,mobile,statement line
+D024,2025-10-03,Stock purchase,Costco Business Center,316,mobile,supplier receipt
+D025,2025-10-04,Customer sale,,240,mobile,statement line
+D026,2025-10-04,Customer sale,,135,mobile,statement line
+D027,2025-10-04,Customer sale,,107,mobile,statement line
+D028,2025-10-04,Phone and data,,14,mobile,statement line
+D029,2025-10-04,Customer sale,,215,mobile,statement line
+D030,2025-10-04,Customer sale,,183,mobile,statement line
+D031,2025-10-04,Stock purchase,Sysco Supply,277,cash,statement line
+D032,2025-10-05,Customer sale,,205,cash,statement line
+D033,2025-10-05,Stock purchase,Restaurant Depot,290,cash,statement line
+D034,2025-10-05,Phone and data,,14,bank,statement line
+D035,2025-10-05,Customer sale,,176,cash,statement line
+D036,2025-10-05,Customer sale,,42,cash,statement line
+D037,2025-10-06,Stock purchase,Sysco Supply,585,mobile,statement line
+D038,2025-10-06,Stock purchase,Sysco Supply,585,mobile,supplier receipt
+D039,2025-10-06,Phone and data,,6,bank,statement line
+D040,2025-10-06,Transaction fee,,2,mobile,statement line
+D041,2025-10-07,Customer sale,,35,cash,statement line
+D042,2025-10-07,Customer sale,,154,mobile,statement line
+D043,2025-10-08,Customer sale,,170,mobile,statement line
+D044,2025-10-08,Customer sale,,196,mobile,statement line
+D045,2025-10-09,Stock purchase,Restaurant Depot,736,cash,statement line
+D046,2025-10-09,Customer sale,,209,mobile,statement line
+D047,2025-10-09,Phone and data,,3,mobile,statement line
+D048,2025-10-09,Delivery transport,,14,cash,statement line
+D049,2025-10-10,Customer sale,,191,cash,statement line
+D050,2025-10-10,Phone and data,,15,mobile,statement line
+D051,2025-10-10,Customer sale,,227,mobile,statement line
+D052,2025-10-10,Customer sale,,122,cash,statement line
+D053,2025-10-10,Stock purchase,Restaurant Depot,137,cash,statement line
+D054,2025-10-10,Customer sale,,107,mobile,statement line
+D055,2025-10-11,Transaction fee,,1,mobile,statement line
+D056,2025-10-11,Customer sale,,226,bank,statement line
+D057,2025-10-11,Delivery transport,,13,mobile,statement line
+D058,2025-10-11,Stock purchase,Restaurant Depot,467,cash,statement line
+D059,2025-10-12,Delivery transport,,14,bank,statement line
+D060,2025-10-12,Stock purchase,Sysco Supply,706,mobile,statement line
+D061,2025-10-12,Stock purchase,Costco Business Center,686,mobile,statement line
+D062,2025-10-12,Customer sale,,19,mobile,statement line
+D063,2025-10-12,Stock purchase,Sysco Supply,511,mobile,statement line
+D064,2025-10-13,Stock purchase,Costco Business Center,296,cash,statement line
+D065,2025-10-13,Customer sale,,94,bank,statement line
+D066,2025-10-13,Customer sale,,124,mobile,statement line
+D067,2025-10-14,Customer sale,,92,cash,statement line
+D068,2025-10-14,Customer sale,,228,cash,statement line
+D069,2025-10-14,Customer sale,,142,mobile,statement line
+D070,2025-10-14,Phone and data,,7,mobile,statement line
+D071,2025-10-14,Stock purchase,Sysco Supply,112,mobile,statement line
+D072,2025-10-14,Stock purchase,Sysco Supply,112,mobile,supplier receipt
+D073,2025-10-15,Customer sale,,223,mobile,statement line
+D074,2025-10-15,Customer sale,,97,mobile,statement line
+D075,2025-10-15,Helper wage,,353,cash,statement line
+D076,2025-10-15,Customer sale,,150,cash,statement line
+D077,2025-10-15,Stock purchase,Costco Business Center,156,cash,statement line
+D078,2025-10-15,Phone and data,,14,bank,statement line
+D079,2025-10-15,Phone and data,,10,cash,statement line
+D080,2025-10-16,Owner withdrawal,,96,cash,statement line
+D081,2025-10-16,Transaction fee,,1,mobile,statement line
+D082,2025-10-16,Stock purchase,Restaurant Depot,509,cash,statement line
+D083,2025-10-16,Delivery transport,,13,bank,statement line
+D084,2025-10-16,Customer sale,,163,cash,statement line
+D085,2025-10-16,Customer sale,,196,cash,statement line
+D086,2025-10-16,Customer sale,,91,bank,statement line
+D087,2025-10-16,Customer sale,,44,cash,statement line
+D088,2025-10-16,Stock purchase,Sysco Supply,140,bank,statement line
+D089,2025-10-16,Stock purchase,Sysco Supply,140,bank,supplier receipt
+D090,2025-10-16,Customer sale,,242,mobile,statement line
+D091,2025-10-17,Customer sale,,144,cash,statement line
+D092,2025-10-17,Transaction fee,,2,mobile,statement line
+D093,2025-10-18,Customer sale,,90,bank,statement line
+D094,2025-10-18,Customer sale,,204,mobile,statement line
+D095,2025-10-18,Stock purchase,Sysco Supply,251,cash,statement line
+D096,2025-10-19,Customer sale,,181,mobile,statement line
+D097,2025-10-19,Stock purchase,Costco Business Center,665,mobile,statement line
+D098,2025-10-19,Customer sale,,245,cash,statement line
+D099,2025-10-19,Customer sale,,74,cash,statement line
+D100,2025-10-19,Customer sale,,222,mobile,statement line
+D101,2025-10-19,Phone and data,,11,cash,statement line
+D102,2025-10-19,Owner withdrawal,,179,cash,statement line
+D103,2025-10-20,Customer sale,,9,cash,statement line
+D104,2025-10-20,Stock purchase,Restaurant Depot,629,mobile,statement line
+D105,2025-10-20,Stock purchase,Restaurant Depot,102,bank,statement line
+D106,2025-10-20,Stock purchase,Restaurant Depot,102,bank,supplier receipt
+D107,2025-10-20,Customer sale,,246,cash,statement line
+D108,2025-10-21,Stock purchase,Restaurant Depot,166,bank,statement line
+D109,2025-10-21,Customer sale,,87,mobile,statement line
+D110,2025-10-21,Customer sale,,119,mobile,statement line
+D111,2025-10-21,Delivery transport,,4,bank,statement line
+D112,2025-10-22,Transaction fee,,1,mobile,statement line
+D113,2025-10-22,Delivery transport,,18,mobile,statement line
+D114,2025-10-22,Customer sale,,203,cash,statement line
+D115,2025-10-22,Customer sale,,236,mobile,statement line
+D116,2025-10-22,Customer sale,,32,cash,statement line
+D117,2025-10-23,Owner withdrawal,,98,cash,statement line
+D118,2025-10-23,Customer sale,,21,mobile,statement line
+D119,2025-10-23,Delivery transport,,12,cash,statement line
+D120,2025-10-23,Customer sale,,76,bank,statement line
+D121,2025-10-23,Customer sale,,93,mobile,statement line
+D122,2025-10-23,Owner withdrawal,,119,mobile,statement line
+D123,2025-10-24,Customer sale,,97,bank,statement line
+D124,2025-10-24,Customer sale,,10,cash,statement line
+D125,2025-10-24,Customer sale,,65,cash,statement line
+D126,2025-10-24,Customer sale,,100,mobile,statement line
+D127,2025-10-24,Customer sale,,120,cash,statement line
+D128,2025-10-24,Stock purchase,Restaurant Depot,209,cash,statement line
+D129,2025-10-25,Stock purchase,Restaurant Depot,183,mobile,statement line
+D130,2025-10-25,Stock purchase,Costco Business Center,546,mobile,statement line
+D131,2025-10-25,Customer sale,,23,mobile,statement line
+D132,2025-10-26,Stock purchase,Restaurant Depot,673,mobile,statement line
+D133,2025-10-26,Customer sale,,13,mobile,statement line
+D134,2025-10-26,Customer sale,,9,mobile,statement line
+D135,2025-10-27,Stock purchase,Sysco Supply,319,bank,statement line
+D136,2025-10-27,Customer sale,,121,bank,statement line
+D137,2025-10-27,Customer sale,,206,cash,statement line
+D138,2025-10-27,Stock purchase,Restaurant Depot,173,bank,statement line
+D139,2025-10-27,Customer sale,,148,mobile,statement line
+D140,2025-10-28,Customer sale,,134,cash,statement line
+D141,2025-10-28,Customer sale,,57,mobile,statement line
+D142,2025-10-28,Customer sale,,199,cash,statement line
+D143,2025-10-28,Stock purchase,Costco Business Center,337,cash,statement line
+D144,2025-10-28,Electricity bill,,60,mobile,statement line
+D145,2025-10-28,Customer sale,,199,cash,statement line
+D146,2025-10-28,Customer sale,,105,mobile,statement line
+D147,2025-10-28,Customer sale,,183,bank,statement line
+D148,2025-10-29,Customer sale,,250,bank,statement line
+D149,2025-10-29,Customer sale,,12,bank,statement line
+D150,2025-10-29,Customer sale,,240,bank,statement line
+D151,2025-10-29,Customer sale,,59,cash,statement line
+D152,2025-10-29,Customer sale,,108,cash,statement line
+D153,2025-10-29,Phone and data,,11,mobile,statement line
+D154,2025-10-30,Customer sale,,248,mobile,statement line
+D155,2025-10-30,Stock purchase,Restaurant Depot,174,bank,statement line
+D156,2025-10-30,Customer sale,,228,mobile,statement line
+D157,2025-10-30,Customer sale,,70,mobile,statement line
+D158,2025-10-30,Helper wage,,232,mobile,statement line
+D159,2025-10-31,Customer sale,,13,cash,statement line
+D160,2025-10-31,Delivery transport,,8,cash,statement line
+D161,2025-10-31,Stock purchase,Restaurant Depot,642,bank,statement line
+D162,2025-10-31,Customer sale,,13,mobile,statement line
+D163,2025-10-31,Owner withdrawal,,157,cash,statement line
+D164,2025-10-31,Customer sale,,76,mobile,statement line
+D165,2025-10-31,Delivery transport,,14,bank,statement line

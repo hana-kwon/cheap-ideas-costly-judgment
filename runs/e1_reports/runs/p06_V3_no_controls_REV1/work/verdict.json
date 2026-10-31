@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The report uses only an unadjusted regression and the positive effect (1.54) is confounded: when I control for pre-period firm characteristics, mainly log sales in 2020, the coefficient falls to about 0.05 (SE 0.25), which is indistinguishable from zero. The 'positive effect' conclusion is therefore not supported."}

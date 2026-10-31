@@ -1,0 +1,40 @@
+[D001] Equity Bank SMS: L351U41KWR Confirmed. Ksh1,654.00 received from MARY WANJIKU on 1/10/25 -- owner note: mauzo
+[D002] M-PESA SMS: WEHU9T3MHN Confirmed. Ksh2,148.00 received from JOHN KAMAU on 1/10/25 -- owner note: mauzo
+[D003] M-PESA SMS: N9YPL3JYY8 Confirmed. Ksh2,144.00 received from JOHN KAMAU on 2/10/25 -- owner note: mauzo
+[D004] notebook 3/10: mauzo 1,178/= cash
+[D005] M-PESA SMS: DNP2VPY0GJ Confirmed. Ksh1,866.00 received from MARY WANJIKU on 5/10/25 -- owner note: mauzo
+[D006] M-PESA SMS: GG3LYQAGAH Confirmed. Ksh2,593.00 received from JOHN KAMAU on 6/10/25 -- owner note: mauzo
+[D007] Equity Bank SMS: GAQWUR2MHQ Confirmed. Ksh1,279.00 received from PETER OTIENO on 8/10/25 -- owner note: mauzo
+[D008] M-PESA SMS: WCNZ01RLV5 Confirmed. Ksh336.00 paid to JOHN KAMAU. on 10/10/25 -- owner note: bundles
+[D009] M-PESA SMS: 21315SW6FY Confirmed. Ksh2,074.00 received from PETER OTIENO on 10/10/25 -- owner note: mauzo
+[D010] M-PESA SMS: VFJENZWTX1 Confirmed. Ksh1,105.00 received from MARY WANJIKU on 11/10/25 -- owner note: mauzo
+[D011] notebook 12/10: mauzo 1,607/= cash
+[D012] notebook 12/10: mshahara 11,046/= cash
+[D013] M-PESA SMS: L6Q1FTV65E Confirmed. Ksh2,848.00 received from JOHN KAMAU on 12/10/25 -- owner note: mauzo
+[D014] notebook 12/10: nauli 419/= cash
+[D015] M-PESA SMS: VB53L82E2B Confirmed. Ksh1,414.00 received from MARY WANJIKU on 12/10/25 -- owner note: mauzo
+[D016] notebook 12/10: mauzo 433/= cash
+[D017] M-PESA SMS: LQ9XRTLJE5 Confirmed. Ksh168.00 paid to MARY WANJIKU. on 15/10/25 -- owner note: bundles
+[D018] M-PESA SMS: NV5GTN6AMC Confirmed. Ksh3,179.00 received from PETER OTIENO on 17/10/25 -- owner note: mauzo
+[D019] notebook 19/10: nauli 267/= cash
+[D020] Equity Bank SMS: 3UFRFF9BWU Confirmed. Ksh562.00 paid to JOHN KAMAU. on 19/10/25 -- owner note: nauli
+[D021] M-PESA SMS: J79NYBLR4S Confirmed. Ksh2,560.00 received from MARY WANJIKU on 20/10/25 -- owner note: mauzo
+[D022] M-PESA SMS: A5SQYQX5PN Confirmed. Ksh281.00 received from PETER OTIENO on 20/10/25 -- owner note: mauzo
+[D023] M-PESA SMS: WA9UF87DCD Confirmed. Ksh257.00 paid to PETER OTIENO. on 22/10/25 -- owner note: nauli
+[D024] notebook 23/10: stock unga+sukari 9,211/= cash
+[D025] M-PESA SMS: UJ189FTCP1 Confirmed. Ksh2,066.00 received from MARY WANJIKU on 23/10/25 -- owner note: mauzo
+[D026] notebook 24/10: stock unga+sukari 12,606/= cash
+[D027] M-PESA SMS: KJ49KSSHYX Confirmed. Ksh2,864.00 received from MARY WANJIKU on 24/10/25 -- owner note: mauzo
+[D028] notebook 24/10: mauzo 279/= cash
+[D029] notebook 25/10: mauzo 278/= cash
+[D030] notebook 26/10: mauzo 1,574/= cash
+[D031] Equity Bank SMS: 0G5G19LM89 Confirmed. Ksh5,164.00 paid to MAMA MBOGA STORES. on 26/10/25 -- owner note: stock unga+sukari
+[D032] M-PESA SMS: FPLGHPX84D Confirmed. Ksh302.00 paid to PETER OTIENO. on 27/10/25 -- owner note: nauli
+[D033] Equity Bank SMS: NSL4G5U1YM Confirmed. Ksh3,475.00 received from PETER OTIENO on 28/10/25 -- owner note: mauzo
+[D034] M-PESA SMS: HXXX2JXFZ2 Confirmed. Ksh6,249.00 paid to MARY WANJIKU. on 29/10/25 -- owner note: mshahara
+[D035] Equity Bank SMS: SGPFM1EMTZ Confirmed. Ksh133.00 paid to PETER OTIENO. on 30/10/25 -- owner note: bundles
+[D036] M-PESA SMS: K3QU3PTY34 Confirmed. Ksh3,156.00 received from PETER OTIENO on 30/10/25 -- owner note: mauzo
+[D037] M-PESA SMS: A0BJ35T395 Confirmed. Ksh23,538.00 paid to WHOLESALE HUB EASTLEIGH. on 30/10/25 -- owner note: stock unga+sukari
+[D038] M-PESA SMS: 83U2GYKQ07 Confirmed. Ksh2,283.00 received from PETER OTIENO on 31/10/25 -- owner note: mauzo
+[D039] notebook 31/10: kodi ya duka 17,039/= cash
+[D040] Equity Bank SMS: 2M4GCZBF79 Confirmed. Ksh808.00 received from JOHN KAMAU on 31/10/25 -- owner note: mauzo

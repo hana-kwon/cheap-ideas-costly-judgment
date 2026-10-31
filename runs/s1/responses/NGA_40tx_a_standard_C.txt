@@ -1,0 +1,16 @@
+Checking the draft against the documents turned up three errors.
+
+- Row 19: D019 is a customer sale of 18145 in cash, but the draft booked it as DRAWINGS. Corrected to SALES.
+- Row 21: D021 is dated 2025-10-15, but the draft has 2025-10-16. Corrected the date.
+- Row 36: D037 is 6184, but the draft has 6148 (digits transposed). Corrected the amount.
+
+Row 34 already merges D034 and D035 into one row, so it stays. I found no other discrepancies.
+
+```csv
+row,action,doc_ids,date,account,pay,amount
+19,EDIT,D019,2025-10-15,SALES,CASH,18145
+21,EDIT,D021,2025-10-15,BANKFEE,MOBILE,564
+36,EDIT,D037,2025-10-28,SALES,CASH,6184
+```
+
+ANSWERS: author=The AI system; responsible=The shop owner; approver=The shop owner

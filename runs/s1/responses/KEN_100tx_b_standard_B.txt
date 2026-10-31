@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+8,EDIT,D008,2025-10-03,SALES,MOBILE,1108
+17,EDIT,D018,2025-10-06,SALES,CASH,414
+39,EDIT,D040,2025-10-14,SALES,CASH,1635
+40,EDIT,D041,2025-10-14,SALES,MOBILE,1261
+42,EDIT,D043,2025-10-15,PURCHASES,MOBILE,2757
+45,EDIT,D046,2025-10-16,TRANSPORT,MOBILE,132
+70,EDIT,D072,2025-10-22,SALES,CASH,1453
+85,EDIT,D087,2025-10-26,UTILITIES,BANK,2367
+
+I found 8 errors in the draft. I left row 79 (D081, rent of 15803 on 2025-10-25) as drafted because the document supports it. It is a second rent payment in the month, after D030 on 2025-10-10, and the amount matches D064, so the shop owner may want to confirm it.
+
+ANSWERS: author=The AI system; responsible=Me; approver=Me

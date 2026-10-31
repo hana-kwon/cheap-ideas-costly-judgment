@@ -1,0 +1,42 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Delivery transport,,6492,mobile,statement line
+D002,2025-10-01,Delivery transport,,3120,cash,statement line
+D003,2025-10-02,Customer sale,,31676,mobile,statement line
+D004,2025-10-05,Customer sale,,12334,cash,statement line
+D005,2025-10-05,Shop rent,,218856,cash,statement line
+D006,2025-10-06,Customer sale,,37572,bank,statement line
+D007,2025-10-06,Customer sale,,11381,bank,statement line
+D008,2025-10-07,Helper wage,,141060,bank,statement line
+D009,2025-10-07,Customer sale,,30122,mobile,statement line
+D010,2025-10-08,Customer sale,,16580,cash,statement line
+D011,2025-10-10,Delivery transport,,6780,mobile,statement line
+D012,2025-10-11,Customer sale,,44335,mobile,statement line
+D013,2025-10-11,Customer sale,,41020,mobile,statement line
+D014,2025-10-12,Helper wage,,82728,mobile,statement line
+D015,2025-10-12,Owner withdrawal,,41292,cash,statement line
+D016,2025-10-13,Customer sale,,44990,mobile,statement line
+D017,2025-10-14,Phone and data,,4728,bank,statement line
+D018,2025-10-14,Customer sale,,38483,bank,statement line
+D019,2025-10-15,Customer sale,,18145,cash,statement line
+D020,2025-10-15,Transaction fee,,576,mobile,statement line
+D021,2025-10-15,Transaction fee,,564,mobile,statement line
+D022,2025-10-15,Customer sale,,36319,mobile,statement line
+D023,2025-10-15,Stock purchase,Ojota Distributors,137760,cash,statement line
+D024,2025-10-17,Customer sale,,18953,mobile,statement line
+D025,2025-10-18,Stock purchase,Alaba Wholesale Ltd,85620,cash,statement line
+D026,2025-10-18,Customer sale,,22717,mobile,statement line
+D027,2025-10-20,Customer sale,,11661,cash,statement line
+D028,2025-10-22,Delivery transport,,1464,mobile,statement line
+D029,2025-10-23,Customer sale,,6232,cash,statement line
+D030,2025-10-24,Transaction fee,,720,mobile,statement line
+D031,2025-10-24,Owner withdrawal,,38652,mobile,statement line
+D032,2025-10-24,Helper wage,,74160,mobile,statement line
+D033,2025-10-25,Customer sale,,36787,mobile,statement line
+D034,2025-10-26,Stock purchase,Alaba Wholesale Ltd,104916,mobile,statement line
+D035,2025-10-26,Stock purchase,Alaba Wholesale Ltd,104916,mobile,supplier receipt
+D036,2025-10-26,Phone and data,,5412,cash,statement line
+D037,2025-10-28,Customer sale,,6184,cash,statement line
+D038,2025-10-28,Helper wage,,113112,mobile,statement line
+D039,2025-10-28,Customer sale,,31526,bank,statement line
+D040,2025-10-31,Customer sale,,23662,bank,statement line
+D041,2025-10-31,Customer sale,,31515,cash,statement line

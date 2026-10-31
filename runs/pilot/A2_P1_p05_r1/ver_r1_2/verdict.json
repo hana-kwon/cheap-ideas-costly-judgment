@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the preferred full pre-period-controls OLS and got -0.275 (SE 0.239, p=0.249), matching the report. Leaving out the post-treatment collab index is justified, since the total effect is the right estimand. The report discloses all 8 models and states the caveats, so 'no detectable effect' is supported."}

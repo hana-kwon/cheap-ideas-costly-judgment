@@ -1,0 +1,4 @@
+{"ts": 1793249627.867808, "pid": 62488, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity", "log_sales_2020", "years_exporting_2020", "export_growth_2020", "buyer_rating_2023"], "nobs": 1960}
+{"ts": 1793249627.893517, "pid": 62488, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity", "log_sales_2020", "years_exporting_2020", "export_growth_2020"], "nobs": 1960}
+{"ts": 1793249627.902278, "pid": 62488, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity", "log_sales_2020", "years_exporting_2020", "export_growth_2020"], "nobs": 2000}
+{"ts": 1793249627.911598, "pid": 62488, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity"], "nobs": 1960}

@@ -1,0 +1,104 @@
+[D001] notebook 10/1: sales $68 cash
+[D002] notebook 10/1: sales $195 cash
+[D003] notebook 10/1: sales $96 cash
+[D004] Venmo: You paid $10.00 to Jake M. (10/1) note: gas for deliveries
+[D005] Venmo: You received $212.00 from Tom R. (10/2) note: sales
+[D006] notebook 10/2: sales $242 cash
+[D007] notebook 10/3: paid helper $350 cash
+[D008] Venmo: You paid $293.00 to Sysco Supply (10/3) note: restock
+[D009] receipt (handwritten): Sysco Supply - restock - 10/3/25 - total $293 paid Venmo
+[D010] Venmo: You received $214.00 from Tom R. (10/3) note: sales
+[D011] Chase alert: deposit of $25.00 on 10/3/25, memo: sales
+[D012] notebook 10/3: sales $170 cash
+[D013] notebook 10/3: restock $603 cash
+[D014] notebook 10/3: sales $47 cash
+[D015] Venmo: You paid $6.00 to Tom R. (10/4) note: phone bill
+[D016] Chase alert: payment of $459.00 on 10/4/25, memo: restock
+[D017] Venmo: You paid $5.00 to Jake M. (10/4) note: gas for deliveries
+[D018] Venmo: You received $204.00 from Tom R. (10/5) note: sales
+[D019] notebook 10/5: sales $191 cash
+[D020] Venmo: You received $42.00 from Tom R. (10/5) note: sales
+[D021] Venmo: You received $109.00 from Tom R. (10/6) note: sales
+[D022] Chase alert: deposit of $89.00 on 10/6/25, memo: sales
+[D023] notebook 10/6: sales $60 cash
+[D024] Venmo: You received $195.00 from Jake M. (10/6) note: sales
+[D025] Chase alert: deposit of $74.00 on 10/7/25, memo: sales
+[D026] notebook 10/7: sales $15 cash
+[D027] notebook 10/7: sales $73 cash
+[D028] Venmo: You paid $10.00 to Tom R. (10/7) note: phone bill
+[D029] Venmo: You received $48.00 from Jake M. (10/7) note: sales
+[D030] Venmo: You received $40.00 from Maria G. (10/7) note: sales
+[D031] Venmo: You received $166.00 from Maria G. (10/8) note: sales
+[D032] notebook 10/8: sales $59 cash
+[D033] notebook 10/9: phone bill $3 cash
+[D034] Venmo: You paid $655.00 to Costco Business Center (10/9) note: restock
+[D035] Venmo: You paid $269.00 to Jake M. (10/9) note: paid helper
+[D036] Venmo: You received $169.00 from Maria G. (10/12) note: sales
+[D037] Venmo: You paid $560.00 to Sysco Supply (10/12) note: restock
+[D038] receipt (handwritten): Sysco Supply - restock - 10/12/25 - total $560 paid Venmo
+[D039] Chase alert: payment of $4.00 on 10/12/25, memo: gas for deliveries
+[D040] Venmo: You paid $9.00 to Maria G. (10/13) note: gas for deliveries
+[D041] notebook 10/14: electric $75 cash
+[D042] Venmo: You paid $69.00 to Restaurant Depot (10/14) note: restock
+[D043] notebook 10/14: gas for deliveries $8 cash
+[D044] notebook 10/15: sales $172 cash
+[D045] Venmo: You received $104.00 from Jake M. (10/15) note: sales
+[D046] notebook 10/15: sales $56 cash
+[D047] Chase alert: payment of $227.00 on 10/15/25, memo: paid helper
+[D048] notebook 10/16: sales $25 cash
+[D049] notebook 10/16: sales $210 cash
+[D050] notebook 10/17: sales $112 cash
+[D051] notebook 10/17: sales $22 cash
+[D052] Chase alert: deposit of $20.00 on 10/18/25, memo: sales
+[D053] Venmo: You received $106.00 from Jake M. (10/19) note: sales
+[D054] Chase alert: payment of $10.00 on 10/19/25, memo: gas for deliveries
+[D055] Venmo: You paid $300.00 to Maria G. (10/19) note: paid helper
+[D056] Venmo: You paid $452.00 to Maria G. (10/19) note: shop rent
+[D057] Venmo: You paid $600.00 to Sysco Supply (10/20) note: restock
+[D058] Venmo: You paid $134.00 to Sysco Supply (10/20) note: restock
+[D059] Venmo: You received $100.00 from Jake M. (10/20) note: sales
+[D060] Venmo: You paid $1.00 to Jake M. (10/21) note: fee
+[D061] Venmo: You paid $209.00 to Sysco Supply (10/21) note: restock
+[D062] Chase alert: payment of $11.00 on 10/22/25, memo: gas for deliveries
+[D063] notebook 10/22: restock $388 cash
+[D064] notebook 10/22: sales $147 cash
+[D065] Venmo: You paid $4.00 to Tom R. (10/22) note: gas for deliveries
+[D066] Venmo: You received $95.00 from Tom R. (10/23) note: sales
+[D067] notebook 10/23: sales $17 cash
+[D068] notebook 10/23: restock $477 cash
+[D069] Venmo: You paid $365.00 to Restaurant Depot (10/23) note: restock
+[D070] Venmo: You paid $1.00 to Maria G. (10/23) note: fee
+[D071] Venmo: You received $233.00 from Maria G. (10/23) note: sales
+[D072] Venmo: You received $191.00 from Jake M. (10/24) note: sales
+[D073] notebook 10/24: sales $210 cash
+[D074] notebook 10/24: sales $21 cash
+[D075] Venmo: You received $246.00 from Maria G. (10/24) note: sales
+[D076] Venmo: You paid $2.00 to Maria G. (10/25) note: fee
+[D077] notebook 10/25: sales $195 cash
+[D078] Venmo: You paid $85.00 to Restaurant Depot (10/26) note: restock
+[D079] Venmo: You paid $172.00 to Jake M. (10/26) note: took out for home
+[D080] Chase alert: payment of $190.00 on 10/26/25, memo: paid helper
+[D081] Venmo: You paid $100.00 to Jake M. (10/26) note: took out for home
+[D082] notebook 10/26: sales $33 cash
+[D083] Venmo: You paid $1.00 to Maria G. (10/27) note: fee
+[D084] notebook 10/27: sales $162 cash
+[D085] Venmo: You paid $159.00 to Costco Business Center (10/27) note: restock
+[D086] receipt (handwritten): Costco Business Center - restock - 10/27/25 - total $159 paid Venmo
+[D087] notebook 10/28: restock $745 cash
+[D088] notebook 10/28: sales $91 cash
+[D089] Chase alert: deposit of $249.00 on 10/28/25, memo: sales
+[D090] notebook 10/29: restock $239 cash
+[D091] Chase alert: deposit of $62.00 on 10/29/25, memo: sales
+[D092] Venmo: You received $8.00 from Tom R. (10/29) note: sales
+[D093] Chase alert: payment of $573.00 on 10/29/25, memo: restock
+[D094] notebook 10/29: paid helper $353 cash
+[D095] Chase alert: payment of $472.00 on 10/29/25, memo: restock
+[D096] receipt (handwritten): Costco Business Center - restock - 10/29/25 - total $472 paid Chase
+[D097] Venmo: You paid $8.00 to Maria G. (10/30) note: gas for deliveries
+[D098] Venmo: You paid $8.00 to Jake M. (10/30) note: phone bill
+[D099] notebook 10/30: gas for deliveries $15 cash
+[D100] Venmo: You paid $652.00 to Costco Business Center (10/30) note: restock
+[D101] Venmo: You received $196.00 from Tom R. (10/31) note: sales
+[D102] Chase alert: deposit of $225.00 on 10/31/25, memo: sales
+[D103] notebook 10/31: gas for deliveries $4 cash
+[D104] notebook 10/31: paid helper $335 cash

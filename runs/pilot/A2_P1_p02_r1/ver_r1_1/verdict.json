@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the preferred model and got the same result (0.75, SE 0.23, p=0.001). It adjusts for pre-period confounders and leaves out the post-treatment collab index, which is the right call. The report states its 9 specifications, the sign-flip caveat and the residual-confounding caveat, so the 'modest positive' conclusion is appropriately hedged."}

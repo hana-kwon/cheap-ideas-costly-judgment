@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The report's positive effect comes from a raw regression with no controls. Adding the pre-period covariates (sales, export history, prior growth and others) reduces the coefficient from about 1.8 to 0.05 (SE 0.25), so the effect looks like confounding. The report also trims the outcome and gives no robustness checks."}

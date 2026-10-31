@@ -1,0 +1,1 @@
+{"decision": "reject", "reason": "The analyst's bivariate OLS (+1.32, 'positive effect') omits pre-treatment confounders (firm size, age, lagged patents); I reproduced that adding them moves the estimate to -0.275 (SE 0.24, p=0.25), i.e. no detectable effect, so the positive-effect conclusion is not supported."}

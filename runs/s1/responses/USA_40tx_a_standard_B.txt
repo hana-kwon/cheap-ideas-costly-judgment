@@ -1,0 +1,15 @@
+```csv
+row,action,doc_ids,date,account,pay,amount
+1,EDIT,D001,2025-10-02,SALES,CASH,231
+16,EDIT,D017,2025-10-12,RENT,MOBILE,528
+17,EDIT,D018|D019,2025-10-13,PURCHASES,MOBILE,215
+```
+
+I made three corrections:
+- **Row 1:** D001 is a customer sale, so the account is SALES, not DRAWINGS.
+- **Row 16:** D017 is dated 2025-10-12, not 2025-10-13.
+- **Row 17:** D018 and D019 both show 215, not 125.
+
+The other FLAGGED rows (11 and 35) match their documents, and so do all the unflagged rows.
+
+ANSWERS: author=The AI system; responsible=Me; approver=Me

@@ -1,0 +1,8 @@
+action,doc_ids,date,account,pay,amount
+EDIT,19,D021,2025-10-15,SALES,BANK,176
+EDIT,31,D033,2025-10-24,SALES,CASH,136
+EDIT,36,D038,2025-10-26,SALES,MOBILE,130
+
+I left row 1 and row 2 (D001 $231 cash, D002 $230 deposit) as separate rows. The amounts differ and the documents don't show they are the same transaction.
+
+ANSWERS: author=The AI system and me together; responsible=Me; approver=Me

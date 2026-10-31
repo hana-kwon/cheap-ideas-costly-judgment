@@ -1,0 +1,18 @@
+Checking each draft row against its source document turned up three errors:
+
+- Row 2: D002 is a customer sale of 2148 by mobile, so the account should be SALES, not DRAWINGS.
+- Row 7: D007 is dated 2025-10-08, not 2025-10-09.
+- Row 21: D021 is 2560, not 5260, which looks like a transposition.
+
+Two flagged rows are correct as drafted. Row 15 (D015) matches its document, and row 39 (D039, rent of 17039 in cash) also matches.
+
+The remaining rows match their documents, and each document appears exactly once.
+
+```csv
+row,action,doc_ids,date,account,pay,amount
+2,EDIT,D002,2025-10-01,SALES,MOBILE,2148
+7,EDIT,D007,2025-10-08,SALES,BANK,1279
+21,EDIT,D021,2025-10-20,SALES,MOBILE,2560
+```
+
+ANSWERS: author=The AI system; responsible=Me; approver=Me

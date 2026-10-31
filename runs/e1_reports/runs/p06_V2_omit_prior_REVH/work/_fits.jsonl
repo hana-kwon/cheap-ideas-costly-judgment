@@ -1,0 +1,9 @@
+{"ts": 1793249478.6465259, "pid": 55432, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1"], "nobs": 2000}
+{"ts": 1793249478.647928, "pid": 55432, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3"], "nobs": 2000}
+{"ts": 1793249478.649194, "pid": 55432, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3"], "nobs": 1960}
+{"ts": 1793249478.650152, "pid": 55432, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1"], "nobs": 1960}
+{"ts": 1793249478.6529438, "pid": 55432, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4", "x5", "x6", "x7", "x8", "x9", "x10", "x11", "x12", "x13", "x14"], "nobs": 1960}
+{"ts": 1793249484.675791, "pid": 55694, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3"], "nobs": 1960}
+{"ts": 1793249484.677109, "pid": 55694, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 1960}
+{"ts": 1793249484.680676, "pid": 55694, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 1960}
+{"ts": 1793249484.686421, "pid": 55694, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4", "x5", "x6", "x7", "x8", "x9", "x10", "x11"], "nobs": 1960}

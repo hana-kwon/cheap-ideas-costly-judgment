@@ -1,0 +1,4 @@
+{"ts": 1793316486.062489, "pid": 77461, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020"], "nobs": 2000}
+{"ts": 1793316486.0675871, "pid": 77461, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 2000}
+{"ts": 1793316486.080661, "pid": 77461, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020"], "nobs": 1960}
+{"ts": 1793316486.087666, "pid": 77461, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 1960}

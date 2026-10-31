@@ -1,0 +1,42 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Phone and data,,5916,cash,statement line
+D002,2025-10-01,Customer sale,,43487,mobile,statement line
+D003,2025-10-02,Customer sale,,4548,cash,statement line
+D004,2025-10-02,Customer sale,,38182,bank,statement line
+D005,2025-10-05,Delivery transport,,2544,cash,statement line
+D006,2025-10-06,Stock purchase,Alaba Wholesale Ltd,256512,bank,statement line
+D007,2025-10-06,Stock purchase,Alaba Wholesale Ltd,256512,bank,supplier receipt
+D008,2025-10-06,Stock purchase,Alaba Wholesale Ltd,194256,mobile,statement line
+D009,2025-10-08,Delivery transport,,1920,cash,statement line
+D010,2025-10-10,Phone and data,,3528,mobile,statement line
+D011,2025-10-10,Customer sale,,19038,cash,statement line
+D012,2025-10-10,Stock purchase,Mama Nkechi Provisions,164340,bank,statement line
+D013,2025-10-10,Transaction fee,,492,mobile,statement line
+D014,2025-10-11,Stock purchase,Alaba Wholesale Ltd,182784,bank,statement line
+D015,2025-10-12,Owner withdrawal,,24144,cash,statement line
+D016,2025-10-12,Customer sale,,10962,mobile,statement line
+D017,2025-10-12,Delivery transport,,6756,cash,statement line
+D018,2025-10-13,Customer sale,,27907,cash,statement line
+D019,2025-10-14,Customer sale,,3452,cash,statement line
+D020,2025-10-15,Customer sale,,43683,mobile,statement line
+D021,2025-10-17,Stock purchase,Alaba Wholesale Ltd,132276,bank,statement line
+D022,2025-10-18,Customer sale,,42362,cash,statement line
+D023,2025-10-18,Customer sale,,43619,cash,statement line
+D024,2025-10-19,Delivery transport,,2124,mobile,statement line
+D025,2025-10-19,Customer sale,,4909,cash,statement line
+D026,2025-10-20,Customer sale,,18151,cash,statement line
+D027,2025-10-20,Customer sale,,6903,mobile,statement line
+D028,2025-10-20,Stock purchase,Alaba Wholesale Ltd,115884,mobile,statement line
+D029,2025-10-21,Owner withdrawal,,47376,mobile,statement line
+D030,2025-10-21,Customer sale,,9529,mobile,statement line
+D031,2025-10-22,Customer sale,,20784,mobile,statement line
+D032,2025-10-22,Stock purchase,Mama Nkechi Provisions,92040,mobile,statement line
+D033,2025-10-24,Customer sale,,31071,mobile,statement line
+D034,2025-10-24,Electricity bill,,33972,mobile,statement line
+D035,2025-10-26,Helper wage,,130320,bank,statement line
+D036,2025-10-27,Customer sale,,10103,cash,statement line
+D037,2025-10-27,Customer sale,,1881,mobile,statement line
+D038,2025-10-27,Customer sale,,4083,cash,statement line
+D039,2025-10-27,Customer sale,,29454,mobile,statement line
+D040,2025-10-30,Customer sale,,2690,cash,statement line
+D041,2025-10-31,Electricity bill,,43464,mobile,statement line

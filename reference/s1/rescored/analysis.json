@@ -1,0 +1,300 @@
+{
+ "confirmatory": [
+  {
+   "contrast": "C-B",
+   "y": "pass_through",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": 0.0032,
+   "ci95": [
+    -0.0187,
+    0.0246
+   ],
+   "p": 0.87821,
+   "share_positive": 0.083,
+   "share_zero": 0.854,
+   "hyp": "H1",
+   "p_holm": 0.8782
+  },
+  {
+   "contrast": "D-B",
+   "y": "pass_unflagged",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": -0.0156,
+   "ci95": [
+    -0.0434,
+    0.0035
+   ],
+   "p": 0.37893,
+   "share_positive": 0.021,
+   "share_zero": 0.917,
+   "hyp": "H2",
+   "p_holm": 0.7579
+  },
+  {
+   "contrast": "B-A",
+   "y": "final_error",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": 0.0035,
+   "ci95": [
+    0.0011,
+    0.0059
+   ],
+   "p": 0.0083,
+   "share_positive": 0.333,
+   "share_zero": 0.625,
+   "hyp": "H3",
+   "p_holm": 0.0249
+  }
+ ],
+ "exploratory": [
+  {
+   "contrast": "B-N",
+   "y": "pass_through",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": 0.0069,
+   "ci95": [
+    -0.0129,
+    0.0296
+   ],
+   "p": 0.57887,
+   "share_positive": 0.125,
+   "share_zero": 0.75
+  },
+  {
+   "contrast": "C-N",
+   "y": "pass_through",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": 0.0101,
+   "ci95": [
+    -0.0094,
+    0.0333
+   ],
+   "p": 0.39893,
+   "share_positive": 0.146,
+   "share_zero": 0.75
+  },
+  {
+   "contrast": "D-B",
+   "y": "pass_flagged",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": 0.0104,
+   "ci95": [
+    -0.0037,
+    0.029
+   ],
+   "p": 0.37243,
+   "share_positive": 0.062,
+   "share_zero": 0.917
+  },
+  {
+   "contrast": "D-B",
+   "y": "pass_through",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": -0.0026,
+   "ci95": [
+    -0.0178,
+    0.0104
+   ],
+   "p": 0.87246,
+   "share_positive": 0.062,
+   "share_zero": 0.875
+  },
+  {
+   "contrast": "C-B",
+   "y": "harm",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": 0.0001,
+   "ci95": [
+    0.0,
+    0.0004
+   ],
+   "p": 1.0,
+   "share_positive": 0.021,
+   "share_zero": 0.979
+  },
+  {
+   "contrast": "D-B",
+   "y": "harm",
+   "fmt": "all",
+   "n": 48,
+   "mean_diff": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "p": 1.0,
+   "share_positive": 0.0,
+   "share_zero": 1.0
+  },
+  {
+   "contrast": "C-B",
+   "y": "pass_through",
+   "fmt": "local",
+   "n": 24,
+   "mean_diff": 0.0032,
+   "ci95": [
+    -0.0385,
+    0.0449
+   ],
+   "p": 1.0,
+   "share_positive": 0.125,
+   "share_zero": 0.792
+  },
+  {
+   "contrast": "D-B",
+   "y": "pass_unflagged",
+   "fmt": "local",
+   "n": 24,
+   "mean_diff": -0.0312,
+   "ci95": [
+    -0.0833,
+    0.0069
+   ],
+   "p": 0.37273,
+   "share_positive": 0.042,
+   "share_zero": 0.833
+  },
+  {
+   "contrast": "C-B",
+   "y": "pass_through",
+   "fmt": "standard",
+   "n": 24,
+   "mean_diff": 0.0032,
+   "ci95": [
+    -0.0096,
+    0.0192
+   ],
+   "p": 1.0,
+   "share_positive": 0.042,
+   "share_zero": 0.917
+  },
+  {
+   "contrast": "D-B",
+   "y": "pass_unflagged",
+   "fmt": "standard",
+   "n": 24,
+   "mean_diff": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "p": 1.0,
+   "share_positive": 0.0,
+   "share_zero": 1.0
+  }
+ ],
+ "arm_means": {
+  "A": {
+   "pass_through": 0.0016,
+   "pass_flagged": 0.003,
+   "pass_unflagged": 0.0,
+   "harm": 0.0007,
+   "final_error": 0.0008,
+   "n_packets": 48,
+   "bad_lines": 204,
+   "ans_responsible": {
+    "The shop owner": 42,
+    "Shared": 4,
+    "The AI system": 2
+   },
+   "ans_approver": {
+    "The shop owner": 3,
+    "The AI system": 45
+   },
+   "ans_author": {
+    "The AI system": 48
+   }
+  },
+  "N": {
+   "pass_through": 0.0448,
+   "pass_flagged": 0.0327,
+   "pass_unflagged": 0.0642,
+   "harm": 0.0,
+   "final_error": 0.0038,
+   "n_packets": 48,
+   "bad_lines": 0,
+   "ans_responsible": {
+    "Me": 39,
+    "The shop owner": 9
+   },
+   "ans_approver": {
+    "Me": 37,
+    "The shop owner": 11
+   },
+   "ans_author": {
+    "The AI system and me together": 40,
+    "The AI system": 8
+   }
+  },
+  "B": {
+   "pass_through": 0.0517,
+   "pass_flagged": 0.035,
+   "pass_unflagged": 0.0729,
+   "harm": 0.0,
+   "final_error": 0.0043,
+   "n_packets": 48,
+   "bad_lines": 0,
+   "ans_responsible": {
+    "Me": 48
+   },
+   "ans_approver": {
+    "Me": 48
+   },
+   "ans_author": {
+    "The AI system": 44,
+    "The AI system and me together": 4
+   }
+  },
+  "C": {
+   "pass_through": 0.055,
+   "pass_flagged": 0.0432,
+   "pass_unflagged": 0.0712,
+   "harm": 0.0001,
+   "final_error": 0.0045,
+   "n_packets": 48,
+   "bad_lines": 0,
+   "ans_responsible": {
+    "Shared": 27,
+    "Me": 12,
+    "The shop owner": 9
+   },
+   "ans_approver": {
+    "The shop owner": 48
+   },
+   "ans_author": {
+    "The AI system and me together": 47,
+    "The AI system": 1
+   }
+  },
+  "D": {
+   "pass_through": 0.0491,
+   "pass_flagged": 0.0454,
+   "pass_unflagged": 0.0573,
+   "harm": 0.0,
+   "final_error": 0.0039,
+   "n_packets": 48,
+   "bad_lines": 0,
+   "ans_responsible": {
+    "Me": 22,
+    "Shared": 17,
+    "The shop owner": 9
+   },
+   "ans_approver": {
+    "Me": 23,
+    "The shop owner": 25
+   },
+   "ans_author": {
+    "The AI system": 5,
+    "The AI system and me together": 43
+   }
+  }
+ }
+}

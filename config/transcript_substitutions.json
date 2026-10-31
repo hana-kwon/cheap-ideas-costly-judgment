@@ -1,0 +1,9 @@
+{
+ "description": "Literal substitutions applied, in this order, to every text file copied from the original run folders into runs/. $HOME is the home directory of the machine that ran the experiments and $USER its user name; tools/scrub_copy.py expands them at copy time, so the literal values never enter the repository. Model-written text is otherwise unchanged. Files that are not valid UTF-8 are copied byte for byte. Original run folders are never edited.",
+ "rules": [
+  ["$HOME/research_local/organizing_evaluation", "<run_root>"],
+  ["$HOME/research_local/ai2_agency", "<ledger_run_root>"],
+  ["$HOME", "<home>"],
+  ["$USER", "<user>"]
+ ]
+}

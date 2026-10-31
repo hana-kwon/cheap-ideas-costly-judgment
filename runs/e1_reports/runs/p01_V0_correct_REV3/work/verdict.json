@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reproduced the estimate of 0.504 (p=0.023). It stays at about 0.5 without trimming and with all the 2020 pre-period covariates added. The analyst correctly left out mgmt_rating_2023, a post-treatment variable that would flip the sign if included. The controls are pre-treatment, and the report states accurately that one specification was run."}

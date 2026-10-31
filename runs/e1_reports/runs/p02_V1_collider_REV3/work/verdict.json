@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The negative estimate depends on controlling for collab_index_2023, a 2023 post-treatment variable (a mediator or collider). Without it, and with only pre-period controls, the remote_share coefficient is about +0.75 (SE 0.23); with it, about -2.1. The sign flips, so the 'negative effect' conclusion is not supported."}

@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+13,EDIT,D013,2025-10-06,SALES,CASH,797
+41,EDIT,D041,2025-10-15,SALES,BANK,1123
+47,EDIT,D047,2025-10-17,SALES,MOBILE,3219
+59,EDIT,D059,2025-10-21,BANKFEE,MOBILE,26
+63,EDIT,D063,2025-10-21,SALES,MOBILE,1530
+70,EDIT,D070,2025-10-22,SALES,CASH,2201
+78,EDIT,D078,2025-10-24,SALES,CASH,264
+91,EDIT,D091,2025-10-30,SALES,CASH,2255
+
+Note: the ledger has three separate rent entries (D012, D072, D073) with different amounts and dates. I left them as drafted because the documents show them as distinct transactions, but three rent payments in one month is unusual, so the shop owner should confirm them.
+
+ANSWERS: author=The AI system; responsible=Me; approver=Me

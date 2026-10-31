@@ -1,0 +1,8 @@
+{
+ "conclusion": "no effect",
+ "estimate": 0.1059,
+ "std_error": 0.2324,
+ "p_value": 0.6486,
+ "n_specifications_estimated": 1,
+ "preferred_specification": "controls=size_age; sample=all; outcome=level; trim=1%"
+}

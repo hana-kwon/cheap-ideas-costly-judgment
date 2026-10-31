@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The analyst ran one unjustified specification on the north-region subsample (N=642, with 1% outcome trimming) and concluded 'no effect'. The full sample gives about 0.75 (p=0.001), the north-only estimate is just underpowered, and the region-by-remote interactions are not significant, so the subsample result does not support a null conclusion."}

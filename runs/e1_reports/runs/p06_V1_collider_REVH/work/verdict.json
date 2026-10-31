@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The reported negative effect (-2.22) depends entirely on controlling for buyer_rating_2023, a same-year (post-treatment) variable that is strongly correlated with both supplier_diversity (r=0.49) and the outcome (r=0.55), so conditioning on it introduces collider/mediator bias. Dropping that control gives a coefficient of about +0.05 (SE 0.23, p=0.82) and the bivariate slope is +1.54, so the sign and conclusion are not supported; the report also estimated only this one specification with no robustness checks."
+}

@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"Controls (size, age, 2020 patents) are all pre-period, and the post-period collab_index_2023 is correctly left out. The pre-period outcome is controlled for. The 1% outcome trim is a minor flaw, but the full-sample estimate is almost the same (-0.28, p=0.24), as is the estimate with all pre-period covariates (-0.28), so 'no effect' holds up."}

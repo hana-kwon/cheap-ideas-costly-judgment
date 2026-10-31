@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The positive effect comes from an unadjusted regression. Remote share correlates with firm size, age and prior patenting. When I add the pre-period controls (2020 patents, size, age and others), the coefficient is about -0.29 (SE 0.23), which is not significant. The causal 'positive effect' conclusion is confounded and not supported."}

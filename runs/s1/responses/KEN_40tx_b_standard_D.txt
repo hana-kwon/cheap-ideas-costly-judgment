@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+2,EDIT,D002,2025-10-02,SALES,MOBILE,2148
+7,EDIT,D007,2025-10-08,SALES,BANK,1279
+21,EDIT,D021,2025-10-20,SALES,MOBILE,2560
+
+Correction: row 2's date should stay 2025-10-01, so the EDIT line above is wrong. Corrected CSV:
+
+row,action,doc_ids,date,account,pay,amount
+2,EDIT,D002,2025-10-01,SALES,MOBILE,2148
+7,EDIT,D007,2025-10-08,SALES,BANK,1279
+21,EDIT,D021,2025-10-20,SALES,MOBILE,2560
+
+ANSWERS: author=The AI system and me together; responsible=The shop owner; approver=The shop owner

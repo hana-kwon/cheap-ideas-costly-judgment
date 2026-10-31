@@ -1,0 +1,6 @@
+```csv
+row,action,doc_ids,date,account,pay,amount
+2,EDIT,D002,2025-10-01,SALES,MOBILE,2148
+7,EDIT,D007,2025-10-08,SALES,BANK,1279
+21,EDIT,D021,2025-10-20,SALES,MOBILE,2560
+```

@@ -1,0 +1,332 @@
+{"task": "L", "tag": "IND_40tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.02350625, "finished": "2026-10-29T19:20:02-0400"}
+{"task": "L", "tag": "IND_100tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.0520575, "finished": "2026-10-29T19:20:07-0400"}
+{"task": "R", "id": "p01_V0_correct_PTR3", "dataset": "p01", "variant": "V0_correct", "arm": "PTR3", "outcome": "approve", "cost": 0.0908195, "seconds": 31.3, "finished": "2026-10-29T19:20:20-0400"}
+{"task": "L", "tag": "USA_160tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.06081075, "finished": "2026-10-29T19:20:24-0400"}
+{"task": "R", "id": "p04_V2_omit_prior_PTR3", "dataset": "p04", "variant": "V2_omit_prior", "arm": "PTR3", "outcome": "approve", "cost": 0.0806449, "seconds": 35.0, "finished": "2026-10-29T19:20:37-0400"}
+{"task": "L", "tag": "USA_160tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.054782, "finished": "2026-10-29T19:20:50-0400"}
+{"task": "R", "id": "p01_V0_correct_ROLE3", "dataset": "p01", "variant": "V0_correct", "arm": "ROLE3", "outcome": "approve", "cost": 0.0755065, "seconds": 35.5, "finished": "2026-10-29T19:20:55-0400"}
+{"task": "R", "id": "p06_V4_subgroup_ROLE1", "dataset": "p06", "variant": "V4_subgroup", "arm": "ROLE1", "outcome": "reject", "cost": 0.08958525, "seconds": 38.7, "finished": "2026-10-29T19:21:03-0400"}
+{"task": "L", "tag": "KEN_100tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.050264500000000004, "finished": "2026-10-29T19:21:09-0400"}
+{"task": "L", "tag": "NGA_40tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.0227145, "finished": "2026-10-29T19:21:21-0400"}
+{"task": "R", "id": "p05_V4_subgroup_ROLE3", "dataset": "p05", "variant": "V4_subgroup", "arm": "ROLE3", "outcome": "reject", "cost": 0.09176235, "seconds": 41.5, "finished": "2026-10-29T19:21:32-0400"}
+{"task": "R", "id": "p01_V0_correct_ROLE2", "dataset": "p01", "variant": "V0_correct", "arm": "ROLE2", "outcome": "approve", "cost": 0.07189419999999999, "seconds": 31.8, "finished": "2026-10-29T19:21:35-0400"}
+{"task": "L", "tag": "NGA_160tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.0711195, "finished": "2026-10-29T19:21:39-0400"}
+{"task": "L", "tag": "KEN_40tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.023944500000000004, "finished": "2026-10-29T19:21:50-0400"}
+{"task": "R", "id": "p02_V4_subgroup_PTR1", "dataset": "p02", "variant": "V4_subgroup", "arm": "PTR1", "outcome": "reject", "cost": 0.07228425, "seconds": 30.1, "finished": "2026-10-29T19:22:02-0400"}
+{"task": "R", "id": "p03_V4_subgroup_ROLE3", "dataset": "p03", "variant": "V4_subgroup", "arm": "ROLE3", "outcome": "reject", "cost": 0.07573749999999999, "seconds": 35.6, "finished": "2026-10-29T19:22:10-0400"}
+{"task": "R", "id": "p04_V1_collider_PTR2", "dataset": "p04", "variant": "V1_collider", "arm": "PTR2", "outcome": "reject", "cost": 0.04989855, "seconds": 20.7, "finished": "2026-10-29T19:22:11-0400"}
+{"task": "L", "tag": "USA_160tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.05381700000000001, "finished": "2026-10-29T19:22:25-0400"}
+{"task": "R", "id": "p02_V2_omit_prior_ROLE3", "dataset": "p02", "variant": "V2_omit_prior", "arm": "ROLE3", "outcome": "approve", "cost": 0.06406685000000001, "seconds": 30.1, "finished": "2026-10-29T19:22:32-0400"}
+{"task": "L", "tag": "IND_40tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.013974499999999999, "finished": "2026-10-29T19:22:33-0400"}
+{"task": "R", "id": "p06_V0_correct_ROLE1", "dataset": "p06", "variant": "V0_correct", "arm": "ROLE1", "outcome": "approve", "cost": 0.0633976, "seconds": 31.1, "finished": "2026-10-29T19:22:41-0400"}
+{"task": "L", "tag": "NGA_40tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.019463249999999998, "finished": "2026-10-29T19:22:44-0400"}
+{"task": "R", "id": "p06_V4_subgroup_PTR3", "dataset": "p06", "variant": "V4_subgroup", "arm": "PTR3", "outcome": "reject", "cost": 0.0648357, "seconds": 24.0, "finished": "2026-10-29T19:22:56-0400"}
+{"task": "R", "id": "p05_V1_collider_PTR3", "dataset": "p05", "variant": "V1_collider", "arm": "PTR3", "outcome": "reject", "cost": 0.055536049999999997, "seconds": 19.6, "finished": "2026-10-29T19:23:01-0400"}
+{"task": "R", "id": "p05_V1_collider_PTR1", "dataset": "p05", "variant": "V1_collider", "arm": "PTR1", "outcome": "reject", "cost": 0.0499047, "seconds": 18.2, "finished": "2026-10-29T19:23:02-0400"}
+{"task": "L", "tag": "NGA_160tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.05893324999999999, "finished": "2026-10-29T19:23:16-0400"}
+{"task": "R", "id": "p02_V4_subgroup_ROLE3", "dataset": "p02", "variant": "V4_subgroup", "arm": "ROLE3", "outcome": "reject", "cost": 0.08003249999999999, "seconds": 33.4, "finished": "2026-10-29T19:23:29-0400"}
+{"task": "R", "id": "p03_V3_no_controls_ROLE3", "dataset": "p03", "variant": "V3_no_controls", "arm": "ROLE3", "outcome": "reject", "cost": 0.07492639999999999, "seconds": 31.6, "finished": "2026-10-29T19:23:34-0400"}
+{"task": "L", "tag": "NGA_100tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.0453895, "finished": "2026-10-29T19:23:43-0400"}
+{"task": "R", "id": "p02_V1_collider_ROLE1", "dataset": "p02", "variant": "V1_collider", "arm": "ROLE1", "outcome": "reject", "cost": 0.06736385, "seconds": 30.6, "finished": "2026-10-29T19:23:46-0400"}
+{"task": "L", "tag": "IND_100tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.039489500000000004, "finished": "2026-10-29T19:23:55-0400"}
+{"task": "L", "tag": "NGA_160tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.058752, "finished": "2026-10-29T19:24:02-0400"}
+{"task": "R", "id": "p03_V2_omit_prior_ROLE1", "dataset": "p03", "variant": "V2_omit_prior", "arm": "ROLE1", "outcome": "approve", "cost": 0.06153949999999999, "seconds": 28.7, "finished": "2026-10-29T19:24:03-0400"}
+{"task": "R", "id": "p02_V1_collider_PTR2", "dataset": "p02", "variant": "V1_collider", "arm": "PTR2", "outcome": "reject", "cost": 0.0523379, "seconds": 16.1, "finished": "2026-10-29T19:24:11-0400"}
+{"task": "L", "tag": "NGA_160tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.0705345, "finished": "2026-10-29T19:24:20-0400"}
+{"task": "L", "tag": "KEN_160tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.0753995, "finished": "2026-10-29T19:24:25-0400"}
+{"task": "R", "id": "p02_V4_subgroup_PTR2", "dataset": "p02", "variant": "V4_subgroup", "arm": "PTR2", "outcome": "reject", "cost": 0.0701045, "seconds": 24.5, "finished": "2026-10-29T19:24:27-0400"}
+{"task": "R", "id": "p02_V1_collider_ROLE2", "dataset": "p02", "variant": "V1_collider", "arm": "ROLE2", "outcome": "reject", "cost": 0.05178605, "seconds": 21.2, "finished": "2026-10-29T19:24:41-0400"}
+{"task": "R", "id": "p05_V3_no_controls_PTR1", "dataset": "p05", "variant": "V3_no_controls", "arm": "PTR1", "outcome": "reject", "cost": 0.06541659999999999, "seconds": 22.1, "finished": "2026-10-29T19:24:49-0400"}
+{"task": "L", "tag": "USA_40tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.018860750000000003, "finished": "2026-10-29T19:24:50-0400"}
+{"task": "R", "id": "p01_V1_collider_ROLE2", "dataset": "p01", "variant": "V1_collider", "arm": "ROLE2", "outcome": "reject", "cost": 0.06998325, "seconds": 27.0, "finished": "2026-10-29T19:24:52-0400"}
+{"task": "L", "tag": "KEN_40tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.0224895, "finished": "2026-10-29T19:24:57-0400"}
+{"task": "L", "tag": "NGA_40tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.021714499999999998, "finished": "2026-10-29T19:25:01-0400"}
+{"task": "L", "tag": "IND_160tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.05455575, "finished": "2026-10-29T19:25:08-0400"}
+{"task": "R", "id": "p03_V1_collider_ROLE2", "dataset": "p03", "variant": "V1_collider", "arm": "ROLE2", "outcome": "reject", "cost": 0.0809701, "seconds": 28.7, "finished": "2026-10-29T19:25:19-0400"}
+{"task": "R", "id": "p05_V3_no_controls_ROLE2", "dataset": "p05", "variant": "V3_no_controls", "arm": "ROLE2", "outcome": "reject", "cost": 0.0626398, "seconds": 23.1, "finished": "2026-10-29T19:25:25-0400"}
+{"task": "L", "tag": "USA_100tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.03776575, "finished": "2026-10-29T19:25:36-0400"}
+{"task": "R", "id": "p06_V0_correct_PTR1", "dataset": "p06", "variant": "V0_correct", "arm": "PTR1", "outcome": "approve", "cost": 0.0520233, "seconds": 17.6, "finished": "2026-10-29T19:25:36-0400"}
+{"task": "R", "id": "p06_V4_subgroup_ROLE2", "dataset": "p06", "variant": "V4_subgroup", "arm": "ROLE2", "outcome": "approve", "cost": 0.0783471, "seconds": 32.5, "finished": "2026-10-29T19:25:41-0400"}
+{"task": "R", "id": "p01_V1_collider_PTR3", "dataset": "p01", "variant": "V1_collider", "arm": "PTR3", "outcome": "reject", "cost": 0.05093315, "seconds": 17.1, "finished": "2026-10-29T19:25:53-0400"}
+{"task": "L", "tag": "USA_40tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.0156345, "finished": "2026-10-29T19:25:59-0400"}
+{"task": "R", "id": "p06_V0_correct_ROLE3", "dataset": "p06", "variant": "V0_correct", "arm": "ROLE3", "outcome": "approve", "cost": 0.074514, "seconds": 30.6, "finished": "2026-10-29T19:26:07-0400"}
+{"task": "R", "id": "p03_V4_subgroup_ROLE1", "dataset": "p03", "variant": "V4_subgroup", "arm": "ROLE1", "outcome": "reject", "cost": 0.07863765, "seconds": 29.2, "finished": "2026-10-29T19:26:10-0400"}
+{"task": "L", "tag": "USA_160tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.05371700000000001, "finished": "2026-10-29T19:26:11-0400"}
+{"task": "L", "tag": "USA_160tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.05492075, "finished": "2026-10-29T19:26:19-0400"}
+{"task": "L", "tag": "IND_160tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.06478325, "finished": "2026-10-29T19:26:24-0400"}
+{"task": "L", "tag": "NGA_40tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.015282749999999998, "finished": "2026-10-29T19:26:31-0400"}
+{"task": "R", "id": "p03_V2_omit_prior_PTR2", "dataset": "p03", "variant": "V2_omit_prior", "arm": "PTR2", "outcome": "approve", "cost": 0.056744, "seconds": 20.6, "finished": "2026-10-29T19:26:31-0400"}
+{"task": "R", "id": "p04_V3_no_controls_PTR1", "dataset": "p04", "variant": "V3_no_controls", "arm": "PTR1", "outcome": "reject", "cost": 0.06623255, "seconds": 23.4, "finished": "2026-10-29T19:26:42-0400"}
+{"task": "R", "id": "p04_V4_subgroup_PTR1", "dataset": "p04", "variant": "V4_subgroup", "arm": "PTR1", "outcome": "reject", "cost": 0.06426950000000001, "seconds": 22.7, "finished": "2026-10-29T19:26:53-0400"}
+{"task": "R", "id": "p01_V0_correct_ROLE1", "dataset": "p01", "variant": "V0_correct", "arm": "ROLE1", "outcome": "approve", "cost": 0.0759846, "seconds": 27.9, "finished": "2026-10-29T19:26:59-0400"}
+{"task": "L", "tag": "USA_40tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.01672325, "finished": "2026-10-29T19:27:07-0400"}
+{"task": "L", "tag": "IND_40tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.0179645, "finished": "2026-10-29T19:27:14-0400"}
+{"task": "R", "id": "p02_V3_no_controls_ROLE3", "dataset": "p02", "variant": "V3_no_controls", "arm": "ROLE3", "outcome": "reject", "cost": 0.062480299999999996, "seconds": 25.3, "finished": "2026-10-29T19:27:19-0400"}
+{"task": "R", "id": "p05_V0_correct_ROLE3", "dataset": "p05", "variant": "V0_correct", "arm": "ROLE3", "outcome": "approve", "cost": 0.099462, "seconds": 37.4, "finished": "2026-10-29T19:27:20-0400"}
+{"task": "L", "tag": "IND_40tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.020917, "finished": "2026-10-29T19:27:28-0400"}
+{"task": "R", "id": "p04_V4_subgroup_ROLE1", "dataset": "p04", "variant": "V4_subgroup", "arm": "ROLE1", "outcome": "reject", "cost": 0.07112399999999999, "seconds": 26.5, "finished": "2026-10-29T19:27:41-0400"}
+{"task": "R", "id": "p04_V1_collider_ROLE2", "dataset": "p04", "variant": "V1_collider", "arm": "ROLE2", "outcome": "reject", "cost": 0.06371819999999999, "seconds": 23.9, "finished": "2026-10-29T19:27:44-0400"}
+{"task": "L", "tag": "KEN_40tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.0125415, "finished": "2026-10-29T19:27:47-0400"}
+{"task": "R", "id": "p02_V0_correct_PTR2", "dataset": "p02", "variant": "V0_correct", "arm": "PTR2", "outcome": "approve", "cost": 0.06651164999999999, "seconds": 21.8, "finished": "2026-10-29T19:27:49-0400"}
+{"task": "L", "tag": "KEN_160tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.07532825, "finished": "2026-10-29T19:27:59-0400"}
+{"task": "R", "id": "p02_V2_omit_prior_PTR1", "dataset": "p02", "variant": "V2_omit_prior", "arm": "PTR1", "outcome": "approve", "cost": 0.0696085, "seconds": 24.1, "finished": "2026-10-29T19:28:11-0400"}
+{"task": "R", "id": "p04_V2_omit_prior_ROLE2", "dataset": "p04", "variant": "V2_omit_prior", "arm": "ROLE2", "outcome": "approve", "cost": 0.0636632, "seconds": 23.9, "finished": "2026-10-29T19:28:13-0400"}
+{"task": "L", "tag": "USA_160tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.058192, "finished": "2026-10-29T19:28:13-0400"}
+{"task": "L", "tag": "NGA_160tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.057157000000000006, "finished": "2026-10-29T19:28:27-0400"}
+{"task": "R", "id": "p01_V1_collider_PTR2", "dataset": "p01", "variant": "V1_collider", "arm": "PTR2", "outcome": "reject", "cost": 0.0535944, "seconds": 19.6, "finished": "2026-10-29T19:28:33-0400"}
+{"task": "R", "id": "p05_V1_collider_ROLE2", "dataset": "p05", "variant": "V1_collider", "arm": "ROLE2", "outcome": "reject", "cost": 0.06382510000000001, "seconds": 25.0, "finished": "2026-10-29T19:28:36-0400"}
+{"task": "L", "tag": "USA_40tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.016690749999999997, "finished": "2026-10-29T19:28:40-0400"}
+{"task": "R", "id": "p01_V3_no_controls_ROLE1", "dataset": "p01", "variant": "V3_no_controls", "arm": "ROLE1", "outcome": "reject", "cost": 0.03728015, "seconds": 15.9, "finished": "2026-10-29T19:28:43-0400"}
+{"task": "L", "tag": "NGA_100tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.043657, "finished": "2026-10-29T19:28:49-0400"}
+{"task": "L", "tag": "IND_40tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.01836575, "finished": "2026-10-29T19:28:52-0400"}
+{"task": "L", "tag": "IND_100tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.04990075, "finished": "2026-10-29T19:28:54-0400"}
+{"task": "L", "tag": "NGA_100tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.041493249999999995, "finished": "2026-10-29T19:29:01-0400"}
+{"task": "L", "tag": "USA_100tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.041052000000000005, "finished": "2026-10-29T19:29:04-0400"}
+{"task": "L", "tag": "IND_160tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.06508699999999999, "finished": "2026-10-29T19:29:08-0400"}
+{"task": "L", "tag": "IND_100tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.03814575, "finished": "2026-10-29T19:29:11-0400"}
+{"task": "L", "tag": "IND_100tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.042505749999999995, "finished": "2026-10-29T19:29:21-0400"}
+{"task": "R", "id": "p06_V1_collider_ROLE3", "dataset": "p06", "variant": "V1_collider", "arm": "ROLE3", "outcome": "reject", "cost": 0.0731033, "seconds": 29.3, "finished": "2026-10-29T19:29:37-0400"}
+{"task": "R", "id": "p01_V4_subgroup_ROLE2", "dataset": "p01", "variant": "V4_subgroup", "arm": "ROLE2", "outcome": "reject", "cost": 0.08466435, "seconds": 35.6, "finished": "2026-10-29T19:29:40-0400"}
+{"task": "R", "id": "p06_V3_no_controls_PTR1", "dataset": "p06", "variant": "V3_no_controls", "arm": "PTR1", "outcome": "reject", "cost": 0.05773600000000001, "seconds": 20.4, "finished": "2026-10-29T19:29:42-0400"}
+{"task": "L", "tag": "IND_160tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.062732, "finished": "2026-10-29T19:29:51-0400"}
+{"task": "L", "tag": "USA_160tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.054352, "finished": "2026-10-29T19:30:04-0400"}
+{"task": "R", "id": "p04_V0_correct_ROLE1", "dataset": "p04", "variant": "V0_correct", "arm": "ROLE1", "outcome": "approve", "cost": 0.07224975, "seconds": 26.6, "finished": "2026-10-29T19:30:08-0400"}
+{"task": "R", "id": "p06_V2_omit_prior_ROLE3", "dataset": "p06", "variant": "V2_omit_prior", "arm": "ROLE3", "outcome": "approve", "cost": 0.11519460000000001, "seconds": 41.0, "finished": "2026-10-29T19:30:21-0400"}
+{"task": "R", "id": "p05_V2_omit_prior_PTR2", "dataset": "p05", "variant": "V2_omit_prior", "arm": "PTR2", "outcome": "approve", "cost": 0.05844215, "seconds": 25.0, "finished": "2026-10-29T19:30:29-0400"}
+{"task": "R", "id": "p03_V1_collider_PTR1", "dataset": "p03", "variant": "V1_collider", "arm": "PTR1", "outcome": "reject", "cost": 0.054558499999999996, "seconds": 20.4, "finished": "2026-10-29T19:30:29-0400"}
+{"task": "L", "tag": "KEN_40tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.02169075, "finished": "2026-10-29T19:30:29-0400"}
+{"task": "R", "id": "p06_V3_no_controls_ROLE1", "dataset": "p06", "variant": "V3_no_controls", "arm": "ROLE1", "outcome": "reject", "cost": 0.07027205, "seconds": 27.3, "finished": "2026-10-29T19:30:56-0400"}
+{"task": "R", "id": "p04_V3_no_controls_ROLE3", "dataset": "p04", "variant": "V3_no_controls", "arm": "ROLE3", "outcome": "reject", "cost": 0.06913454999999999, "seconds": 27.4, "finished": "2026-10-29T19:30:57-0400"}
+{"task": "R", "id": "p05_V3_no_controls_ROLE1", "dataset": "p05", "variant": "V3_no_controls", "arm": "ROLE1", "outcome": "reject", "cost": 0.07740525000000001, "seconds": 29.1, "finished": "2026-10-29T19:30:58-0400"}
+{"task": "R", "id": "p04_V4_subgroup_PTR3", "dataset": "p04", "variant": "V4_subgroup", "arm": "PTR3", "outcome": "reject", "cost": 0.07020175000000001, "seconds": 23.7, "finished": "2026-10-29T19:31:21-0400"}
+{"task": "R", "id": "p03_V3_no_controls_ROLE1", "dataset": "p03", "variant": "V3_no_controls", "arm": "ROLE1", "outcome": "reject", "cost": 0.0635959, "seconds": 27.1, "finished": "2026-10-29T19:31:24-0400"}
+{"task": "R", "id": "p03_V0_correct_ROLE3", "dataset": "p03", "variant": "V0_correct", "arm": "ROLE3", "outcome": "approve", "cost": 0.08477029999999999, "seconds": 33.7, "finished": "2026-10-29T19:31:30-0400"}
+{"task": "L", "tag": "NGA_160tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.06005825, "finished": "2026-10-29T19:31:42-0400"}
+{"task": "R", "id": "p05_V0_correct_PTR1", "dataset": "p05", "variant": "V0_correct", "arm": "PTR1", "outcome": "approve", "cost": 0.06374135, "seconds": 21.7, "finished": "2026-10-29T19:31:43-0400"}
+{"task": "R", "id": "p06_V1_collider_ROLE2", "dataset": "p06", "variant": "V1_collider", "arm": "ROLE2", "outcome": "reject", "cost": 0.07169589999999999, "seconds": 29.9, "finished": "2026-10-29T19:31:54-0400"}
+{"task": "L", "tag": "IND_100tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.0481795, "finished": "2026-10-29T19:31:58-0400"}
+{"task": "R", "id": "p04_V4_subgroup_PTR2", "dataset": "p04", "variant": "V4_subgroup", "arm": "PTR2", "outcome": "reject", "cost": 0.0645632, "seconds": 23.6, "finished": "2026-10-29T19:32:06-0400"}
+{"task": "R", "id": "p05_V4_subgroup_PTR2", "dataset": "p05", "variant": "V4_subgroup", "arm": "PTR2", "outcome": "reject", "cost": 0.07161435000000001, "seconds": 25.4, "finished": "2026-10-29T19:32:23-0400"}
+{"task": "R", "id": "p01_V3_no_controls_ROLE2", "dataset": "p01", "variant": "V3_no_controls", "arm": "ROLE2", "outcome": "reject", "cost": 0.07990145000000001, "seconds": 32.0, "finished": "2026-10-29T19:32:26-0400"}
+{"task": "L", "tag": "KEN_40tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.0254145, "finished": "2026-10-29T19:32:35-0400"}
+{"task": "R", "id": "p05_V2_omit_prior_ROLE3", "dataset": "p05", "variant": "V2_omit_prior", "arm": "ROLE3", "outcome": "approve", "cost": 0.10095960000000001, "seconds": 37.0, "finished": "2026-10-29T19:32:43-0400"}
+{"task": "R", "id": "p01_V4_subgroup_ROLE3", "dataset": "p01", "variant": "V4_subgroup", "arm": "ROLE3", "outcome": "reject", "cost": 0.06022555, "seconds": 22.4, "finished": "2026-10-29T19:32:46-0400"}
+{"task": "R", "id": "p02_V1_collider_PTR1", "dataset": "p02", "variant": "V1_collider", "arm": "PTR1", "outcome": "reject", "cost": 0.0524595, "seconds": 17.0, "finished": "2026-10-29T19:32:52-0400"}
+{"task": "L", "tag": "IND_40tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.021932, "finished": "2026-10-29T19:32:53-0400"}
+{"task": "L", "tag": "NGA_160tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.06670450000000001, "finished": "2026-10-29T19:33:01-0400"}
+{"task": "R", "id": "p02_V3_no_controls_PTR2", "dataset": "p02", "variant": "V3_no_controls", "arm": "PTR2", "outcome": "reject", "cost": 0.05840064999999999, "seconds": 18.4, "finished": "2026-10-29T19:33:10-0400"}
+{"task": "R", "id": "p01_V2_omit_prior_PTR1", "dataset": "p01", "variant": "V2_omit_prior", "arm": "PTR1", "outcome": "approve", "cost": 0.06794234999999998, "seconds": 24.1, "finished": "2026-10-29T19:33:17-0400"}
+{"task": "R", "id": "p05_V1_collider_PTR2", "dataset": "p05", "variant": "V1_collider", "arm": "PTR2", "outcome": "reject", "cost": 0.04955185, "seconds": 16.5, "finished": "2026-10-29T19:33:18-0400"}
+{"task": "R", "id": "p04_V1_collider_PTR3", "dataset": "p04", "variant": "V1_collider", "arm": "PTR3", "outcome": "reject", "cost": 0.05348560000000001, "seconds": 18.4, "finished": "2026-10-29T19:33:29-0400"}
+{"task": "R", "id": "p02_V1_collider_PTR3", "dataset": "p02", "variant": "V1_collider", "arm": "PTR3", "outcome": "reject", "cost": 0.05516425, "seconds": 17.9, "finished": "2026-10-29T19:33:36-0400"}
+{"task": "R", "id": "p02_V3_no_controls_PTR1", "dataset": "p02", "variant": "V3_no_controls", "arm": "PTR1", "outcome": "reject", "cost": 0.05082525, "seconds": 16.7, "finished": "2026-10-29T19:33:53-0400"}
+{"task": "R", "id": "p03_V2_omit_prior_ROLE3", "dataset": "p03", "variant": "V2_omit_prior", "arm": "ROLE3", "outcome": "approve", "cost": 0.0701321, "seconds": 26.2, "finished": "2026-10-29T19:33:55-0400"}
+{"task": "R", "id": "p02_V2_omit_prior_ROLE1", "dataset": "p02", "variant": "V2_omit_prior", "arm": "ROLE1", "outcome": "approve", "cost": 0.07466755, "seconds": 38.2, "finished": "2026-10-29T19:33:55-0400"}
+{"task": "L", "tag": "KEN_100tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.04860825, "finished": "2026-10-29T19:34:07-0400"}
+{"task": "R", "id": "p01_V1_collider_PTR1", "dataset": "p01", "variant": "V1_collider", "arm": "PTR1", "outcome": "reject", "cost": 0.035685400000000006, "seconds": 13.6, "finished": "2026-10-29T19:34:09-0400"}
+{"task": "L", "tag": "NGA_40tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.013775749999999998, "finished": "2026-10-29T19:34:15-0400"}
+{"task": "R", "id": "p05_V0_correct_PTR3", "dataset": "p05", "variant": "V0_correct", "arm": "PTR3", "outcome": "approve", "cost": 0.06623945, "seconds": 24.4, "finished": "2026-10-29T19:34:17-0400"}
+{"task": "L", "tag": "NGA_40tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.0173445, "finished": "2026-10-29T19:34:24-0400"}
+{"task": "R", "id": "p04_V2_omit_prior_ROLE1", "dataset": "p04", "variant": "V2_omit_prior", "arm": "ROLE1", "outcome": "approve", "cost": 0.07554664999999999, "seconds": 29.4, "finished": "2026-10-29T19:34:44-0400"}
+{"task": "R", "id": "p01_V0_correct_PTR1", "dataset": "p01", "variant": "V0_correct", "arm": "PTR1", "outcome": "approve", "cost": 0.06852745000000002, "seconds": 23.1, "finished": "2026-10-29T19:34:47-0400"}
+{"task": "R", "id": "p05_V4_subgroup_ROLE2", "dataset": "p05", "variant": "V4_subgroup", "arm": "ROLE2", "outcome": "approve", "cost": 0.11988625000000001, "seconds": 43.0, "finished": "2026-10-29T19:34:50-0400"}
+{"task": "L", "tag": "KEN_160tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.06054325, "finished": "2026-10-29T19:35:00-0400"}
+{"task": "R", "id": "p02_V0_correct_ROLE2", "dataset": "p02", "variant": "V0_correct", "arm": "ROLE2", "outcome": "approve", "cost": 0.07085630000000001, "seconds": 27.0, "finished": "2026-10-29T19:35:11-0400"}
+{"task": "R", "id": "p03_V2_omit_prior_PTR3", "dataset": "p03", "variant": "V2_omit_prior", "arm": "PTR3", "outcome": "approve", "cost": 0.0670035, "seconds": 22.8, "finished": "2026-10-29T19:35:13-0400"}
+{"task": "L", "tag": "USA_160tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.05998575, "finished": "2026-10-29T19:35:14-0400"}
+{"task": "L", "tag": "NGA_40tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.01424075, "finished": "2026-10-29T19:35:18-0400"}
+{"task": "L", "tag": "IND_40tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.01627575, "finished": "2026-10-29T19:35:20-0400"}
+{"task": "L", "tag": "KEN_40tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.012909, "finished": "2026-10-29T19:35:20-0400"}
+{"task": "L", "tag": "NGA_100tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.03959825, "finished": "2026-10-29T19:35:32-0400"}
+{"task": "L", "tag": "KEN_160tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.07437450000000001, "finished": "2026-10-29T19:35:33-0400"}
+{"task": "R", "id": "p01_V3_no_controls_PTR2", "dataset": "p01", "variant": "V3_no_controls", "arm": "PTR2", "outcome": "reject", "cost": 0.03462345, "seconds": 13.7, "finished": "2026-10-29T19:35:34-0400"}
+{"task": "L", "tag": "USA_160tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.05871575, "finished": "2026-10-29T19:35:46-0400"}
+{"task": "R", "id": "p03_V2_omit_prior_PTR1", "dataset": "p03", "variant": "V2_omit_prior", "arm": "PTR1", "outcome": "approve", "cost": 0.05094195, "seconds": 20.4, "finished": "2026-10-29T19:35:54-0400"}
+{"task": "L", "tag": "USA_40tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.0199045, "finished": "2026-10-29T19:36:04-0400"}
+{"task": "R", "id": "p02_V2_omit_prior_ROLE2", "dataset": "p02", "variant": "V2_omit_prior", "arm": "ROLE2", "outcome": "approve", "cost": 0.0848336, "seconds": 32.9, "finished": "2026-10-29T19:36:04-0400"}
+{"task": "R", "id": "p04_V2_omit_prior_PTR1", "dataset": "p04", "variant": "V2_omit_prior", "arm": "PTR1", "outcome": "reject", "cost": 0.0583074, "seconds": 21.7, "finished": "2026-10-29T19:36:08-0400"}
+{"task": "L", "tag": "USA_100tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.03627325, "finished": "2026-10-29T19:36:14-0400"}
+{"task": "R", "id": "p02_V3_no_controls_PTR3", "dataset": "p02", "variant": "V3_no_controls", "arm": "PTR3", "outcome": "reject", "cost": 0.048822899999999995, "seconds": 16.9, "finished": "2026-10-29T19:36:21-0400"}
+{"task": "R", "id": "p05_V3_no_controls_PTR2", "dataset": "p05", "variant": "V3_no_controls", "arm": "PTR2", "outcome": "reject", "cost": 0.06614345, "seconds": 22.5, "finished": "2026-10-29T19:36:31-0400"}
+{"task": "R", "id": "p04_V1_collider_ROLE1", "dataset": "p04", "variant": "V1_collider", "arm": "ROLE1", "outcome": "reject", "cost": 0.062202650000000005, "seconds": 24.9, "finished": "2026-10-29T19:36:39-0400"}
+{"task": "R", "id": "p06_V0_correct_PTR2", "dataset": "p06", "variant": "V0_correct", "arm": "PTR2", "outcome": "approve", "cost": 0.05476689999999999, "seconds": 20.2, "finished": "2026-10-29T19:36:41-0400"}
+{"task": "L", "tag": "USA_40tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.01268025, "finished": "2026-10-29T19:36:44-0400"}
+{"task": "R", "id": "p01_V4_subgroup_PTR1", "dataset": "p01", "variant": "V4_subgroup", "arm": "PTR1", "outcome": "reject", "cost": 0.0587253, "seconds": 23.4, "finished": "2026-10-29T19:36:54-0400"}
+{"task": "R", "id": "p06_V1_collider_PTR1", "dataset": "p06", "variant": "V1_collider", "arm": "PTR1", "outcome": "reject", "cost": 0.0354854, "seconds": 13.4, "finished": "2026-10-29T19:36:58-0400"}
+{"task": "R", "id": "p05_V3_no_controls_PTR3", "dataset": "p05", "variant": "V3_no_controls", "arm": "PTR3", "outcome": "reject", "cost": 0.051585700000000005, "seconds": 16.7, "finished": "2026-10-29T19:36:58-0400"}
+{"task": "L", "tag": "KEN_160tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.05667325, "finished": "2026-10-29T19:37:06-0400"}
+{"task": "R", "id": "p01_V3_no_controls_PTR1", "dataset": "p01", "variant": "V3_no_controls", "arm": "PTR1", "outcome": "reject", "cost": 0.04725945000000001, "seconds": 16.9, "finished": "2026-10-29T19:37:15-0400"}
+{"task": "R", "id": "p01_V4_subgroup_PTR3", "dataset": "p01", "variant": "V4_subgroup", "arm": "PTR3", "outcome": "reject", "cost": 0.0733618, "seconds": 25.3, "finished": "2026-10-29T19:37:23-0400"}
+{"task": "R", "id": "p01_V4_subgroup_ROLE1", "dataset": "p01", "variant": "V4_subgroup", "arm": "ROLE1", "outcome": "reject", "cost": 0.054428050000000006, "seconds": 20.4, "finished": "2026-10-29T19:37:27-0400"}
+{"task": "L", "tag": "USA_40tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.0210145, "finished": "2026-10-29T19:37:33-0400"}
+{"task": "R", "id": "p01_V2_omit_prior_ROLE1", "dataset": "p01", "variant": "V2_omit_prior", "arm": "ROLE1", "outcome": "reject", "cost": 0.04954044999999999, "seconds": 19.2, "finished": "2026-10-29T19:37:34-0400"}
+{"task": "L", "tag": "IND_40tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.021479500000000002, "finished": "2026-10-29T19:37:42-0400"}
+{"task": "L", "tag": "KEN_100tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.037732, "finished": "2026-10-29T19:37:43-0400"}
+{"task": "R", "id": "p06_V3_no_controls_ROLE3", "dataset": "p06", "variant": "V3_no_controls", "arm": "ROLE3", "outcome": "reject", "cost": 0.06664495, "seconds": 28.9, "finished": "2026-10-29T19:37:56-0400"}
+{"task": "L", "tag": "IND_160tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.07029825, "finished": "2026-10-29T19:37:58-0400"}
+{"task": "L", "tag": "USA_100tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.034314500000000005, "finished": "2026-10-29T19:38:07-0400"}
+{"task": "L", "tag": "NGA_160tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.056672, "finished": "2026-10-29T19:38:08-0400"}
+{"task": "R", "id": "p02_V0_correct_ROLE1", "dataset": "p02", "variant": "V0_correct", "arm": "ROLE1", "outcome": "approve", "cost": 0.0677954, "seconds": 25.9, "finished": "2026-10-29T19:38:09-0400"}
+{"task": "R", "id": "p03_V1_collider_PTR3", "dataset": "p03", "variant": "V1_collider", "arm": "PTR3", "outcome": "reject", "cost": 0.0513898, "seconds": 17.4, "finished": "2026-10-29T19:38:25-0400"}
+{"task": "R", "id": "p06_V2_omit_prior_PTR1", "dataset": "p06", "variant": "V2_omit_prior", "arm": "PTR1", "outcome": "approve", "cost": 0.0640451, "seconds": 20.4, "finished": "2026-10-29T19:38:30-0400"}
+{"task": "R", "id": "p03_V4_subgroup_PTR3", "dataset": "p03", "variant": "V4_subgroup", "arm": "PTR3", "outcome": "reject", "cost": 0.07462105000000001, "seconds": 26.9, "finished": "2026-10-29T19:38:34-0400"}
+{"task": "L", "tag": "NGA_40tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.0157045, "finished": "2026-10-29T19:38:36-0400"}
+{"task": "L", "tag": "USA_40tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.012729, "finished": "2026-10-29T19:38:40-0400"}
+{"task": "L", "tag": "KEN_160tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.081997, "finished": "2026-10-29T19:38:42-0400"}
+{"task": "L", "tag": "KEN_40tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.01287525, "finished": "2026-10-29T19:38:46-0400"}
+{"task": "R", "id": "p01_V4_subgroup_PTR2", "dataset": "p01", "variant": "V4_subgroup", "arm": "PTR2", "outcome": "reject", "cost": 0.04797215, "seconds": 19.1, "finished": "2026-10-29T19:38:55-0400"}
+{"task": "L", "tag": "IND_100tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.042647, "finished": "2026-10-29T19:38:58-0400"}
+{"task": "L", "tag": "USA_40tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.01815075, "finished": "2026-10-29T19:39:03-0400"}
+{"task": "L", "tag": "NGA_100tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.03983825, "finished": "2026-10-29T19:39:08-0400"}
+{"task": "R", "id": "p04_V1_collider_ROLE3", "dataset": "p04", "variant": "V1_collider", "arm": "ROLE3", "outcome": "reject", "cost": 0.056812249999999995, "seconds": 28.7, "finished": "2026-10-29T19:39:11-0400"}
+{"task": "L", "tag": "IND_160tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.05574950000000001, "finished": "2026-10-29T19:39:16-0400"}
+{"task": "L", "tag": "USA_100tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.0428695, "finished": "2026-10-29T19:39:37-0400"}
+{"task": "R", "id": "p03_V0_correct_PTR2", "dataset": "p03", "variant": "V0_correct", "arm": "PTR2", "outcome": "failed_cap", "cost": 0.0153429, "seconds": 37.0, "finished": "2026-10-29T19:39:45-0400"}
+{"task": "R", "id": "p06_V0_correct_PTR3", "dataset": "p06", "variant": "V0_correct", "arm": "PTR3", "outcome": "failed_cap", "cost": 0.0178895, "seconds": 35.5, "finished": "2026-10-29T19:39:52-0400"}
+{"task": "R", "id": "p03_V1_collider_ROLE3", "dataset": "p03", "variant": "V1_collider", "arm": "ROLE3", "outcome": "failed_cap", "cost": 0.0, "seconds": 21.6, "finished": "2026-10-29T19:39:59-0400"}
+{"task": "R", "id": "p03_V4_subgroup_PTR2", "dataset": "p03", "variant": "V4_subgroup", "arm": "PTR2", "outcome": "failed_cap", "cost": 0.0, "seconds": 14.6, "finished": "2026-10-29T19:40:00-0400"}
+{"task": "R", "id": "p03_V4_subgroup_ROLE2", "dataset": "p03", "variant": "V4_subgroup", "arm": "ROLE2", "outcome": "failed_cap", "cost": 0.0, "seconds": 15.7, "finished": "2026-10-29T19:40:16-0400"}
+{"task": "R", "id": "p04_V0_correct_PTR1", "dataset": "p04", "variant": "V0_correct", "arm": "PTR1", "outcome": "failed_cap", "cost": 0.0, "seconds": 23.9, "finished": "2026-10-29T19:40:16-0400"}
+{"task": "R", "id": "p04_V2_omit_prior_PTR2", "dataset": "p04", "variant": "V2_omit_prior", "arm": "PTR2", "outcome": "failed_cap", "cost": 0.0, "seconds": 22.7, "finished": "2026-10-29T19:40:21-0400"}
+{"task": "R", "id": "p03_V1_collider_ROLE1", "dataset": "p03", "variant": "V1_collider", "arm": "ROLE1", "outcome": "failed_cap", "cost": 0.0, "seconds": 20.0, "finished": "2026-10-29T19:40:36-0400"}
+{"task": "L", "tag": "NGA_100tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.05660825, "finished": "2026-10-29T19:43:00-0400"}
+{"task": "L", "tag": "USA_100tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.04012400000000001, "finished": "2026-10-29T19:43:21-0400"}
+{"task": "R", "id": "p04_V3_no_controls_ROLE2", "dataset": "p04", "variant": "V3_no_controls", "arm": "ROLE2", "outcome": "reject", "cost": 0.0939881, "seconds": 71.0, "finished": "2026-10-29T19:43:26-0400"}
+{"task": "R", "id": "p02_V0_correct_PTR3", "dataset": "p02", "variant": "V0_correct", "arm": "PTR3", "outcome": "approve", "cost": 0.07503845, "seconds": 60.3, "finished": "2026-10-29T19:43:28-0400"}
+{"task": "L", "tag": "KEN_40tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.012507750000000002, "finished": "2026-10-29T19:43:36-0400"}
+{"task": "L", "tag": "USA_100tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.042784, "finished": "2026-10-29T19:43:57-0400"}
+{"task": "R", "id": "p01_V2_omit_prior_ROLE2", "dataset": "p01", "variant": "V2_omit_prior", "arm": "ROLE2", "outcome": "approve", "cost": 0.07115500000000001, "seconds": 46.6, "finished": "2026-10-29T19:44:13-0400"}
+{"task": "R", "id": "p01_V2_omit_prior_ROLE3", "dataset": "p01", "variant": "V2_omit_prior", "arm": "ROLE3", "outcome": "approve", "cost": 0.0901432, "seconds": 71.7, "finished": "2026-10-29T19:44:40-0400"}
+{"task": "R", "id": "p05_V1_collider_ROLE1", "dataset": "p05", "variant": "V1_collider", "arm": "ROLE1", "outcome": "reject", "cost": 0.06667875000000001, "seconds": 56.4, "finished": "2026-10-29T19:44:53-0400"}
+{"task": "L", "tag": "KEN_100tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.052556500000000006, "finished": "2026-10-29T19:45:02-0400"}
+{"task": "R", "id": "p05_V1_collider_ROLE3", "dataset": "p05", "variant": "V1_collider", "arm": "ROLE3", "outcome": "reject", "cost": 0.07405535, "seconds": 54.5, "finished": "2026-10-29T19:45:07-0400"}
+{"task": "L", "tag": "KEN_100tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.04178775, "finished": "2026-10-29T19:45:14-0400"}
+{"task": "L", "tag": "NGA_100tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.0457465, "finished": "2026-10-29T19:45:25-0400"}
+{"task": "L", "tag": "IND_160tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.06173275, "finished": "2026-10-29T19:45:31-0400"}
+{"task": "L", "tag": "NGA_160tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.06995025, "finished": "2026-10-29T19:45:56-0400"}
+{"task": "R", "id": "p03_V3_no_controls_ROLE2", "dataset": "p03", "variant": "V3_no_controls", "arm": "ROLE2", "outcome": "reject", "cost": 0.07149390000000001, "seconds": 48.9, "finished": "2026-10-29T19:46:03-0400"}
+{"task": "R", "id": "p06_V1_collider_PTR2", "dataset": "p06", "variant": "V1_collider", "arm": "PTR2", "outcome": "reject", "cost": 0.05501495, "seconds": 38.2, "finished": "2026-10-29T19:46:04-0400"}
+{"task": "R", "id": "p05_V2_omit_prior_PTR3", "dataset": "p05", "variant": "V2_omit_prior", "arm": "PTR3", "outcome": "approve", "cost": 0.0673014, "seconds": 42.9, "finished": "2026-10-29T19:46:39-0400"}
+{"task": "L", "tag": "KEN_40tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.02669525, "finished": "2026-10-29T19:46:55-0400"}
+{"task": "R", "id": "p02_V2_omit_prior_PTR2", "dataset": "p02", "variant": "V2_omit_prior", "arm": "PTR2", "outcome": "approve", "cost": 0.06746350000000001, "seconds": 51.5, "finished": "2026-10-29T19:46:55-0400"}
+{"task": "R", "id": "p04_V2_omit_prior_ROLE3", "dataset": "p04", "variant": "V2_omit_prior", "arm": "ROLE3", "outcome": "approve", "cost": 0.0715528, "seconds": 60.4, "finished": "2026-10-29T19:47:03-0400"}
+{"task": "L", "tag": "KEN_160tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.057489000000000005, "finished": "2026-10-29T19:47:13-0400"}
+{"task": "L", "tag": "NGA_40tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.025391500000000004, "finished": "2026-10-29T19:47:24-0400"}
+{"task": "R", "id": "p06_V2_omit_prior_ROLE2", "dataset": "p06", "variant": "V2_omit_prior", "arm": "ROLE2", "outcome": "approve", "cost": 0.09053415, "seconds": 66.5, "finished": "2026-10-29T19:48:02-0400"}
+{"task": "R", "id": "p02_V4_subgroup_PTR3", "dataset": "p02", "variant": "V4_subgroup", "arm": "PTR3", "outcome": "reject", "cost": 0.0765708, "seconds": 51.6, "finished": "2026-10-29T19:48:16-0400"}
+{"task": "R", "id": "p02_V0_correct_ROLE3", "dataset": "p02", "variant": "V0_correct", "arm": "ROLE3", "outcome": "approve", "cost": 0.102571, "seconds": 78.5, "finished": "2026-10-29T19:48:31-0400"}
+{"task": "R", "id": "p02_V4_subgroup_ROLE1", "dataset": "p02", "variant": "V4_subgroup", "arm": "ROLE1", "outcome": "reject", "cost": 0.06968755, "seconds": 58.2, "finished": "2026-10-29T19:49:00-0400"}
+{"task": "R", "id": "p04_V0_correct_PTR2", "dataset": "p04", "variant": "V0_correct", "arm": "PTR2", "outcome": "approve", "cost": 0.0713339, "seconds": 66.9, "finished": "2026-10-29T19:49:23-0400"}
+{"task": "R", "id": "p04_V4_subgroup_ROLE2", "dataset": "p04", "variant": "V4_subgroup", "arm": "ROLE2", "outcome": "reject", "cost": 0.07649505, "seconds": 69.4, "finished": "2026-10-29T19:49:41-0400"}
+{"task": "R", "id": "p01_V0_correct_PTR2", "dataset": "p01", "variant": "V0_correct", "arm": "PTR2", "outcome": "approve", "cost": 0.067457, "seconds": 56.1, "finished": "2026-10-29T19:49:56-0400"}
+{"task": "R", "id": "p06_V2_omit_prior_PTR3", "dataset": "p06", "variant": "V2_omit_prior", "arm": "PTR3", "outcome": "approve", "cost": 0.0755914, "seconds": 67.9, "finished": "2026-10-29T19:50:31-0400"}
+{"task": "R", "id": "p01_V3_no_controls_PTR3", "dataset": "p01", "variant": "V3_no_controls", "arm": "PTR3", "outcome": "reject", "cost": 0.06324905, "seconds": 52.2, "finished": "2026-10-29T19:50:48-0400"}
+{"task": "L", "tag": "USA_160tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.061968999999999996, "finished": "2026-10-29T19:50:58-0400"}
+{"task": "L", "tag": "IND_40tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.023730249999999998, "finished": "2026-10-29T19:51:06-0400"}
+{"task": "L", "tag": "USA_40tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.02377025, "finished": "2026-10-29T19:51:19-0400"}
+{"task": "R", "id": "p06_V0_correct_ROLE2", "dataset": "p06", "variant": "V0_correct", "arm": "ROLE2", "outcome": "approve", "cost": 0.11656715, "seconds": 99.8, "finished": "2026-10-29T19:51:21-0400"}
+{"task": "L", "tag": "NGA_100tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.04690525, "finished": "2026-10-29T19:51:27-0400"}
+{"task": "L", "tag": "USA_100tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.0411065, "finished": "2026-10-29T19:51:43-0400"}
+{"task": "L", "tag": "KEN_40tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.02165525, "finished": "2026-10-29T19:51:46-0400"}
+{"task": "L", "tag": "KEN_100tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.0519965, "finished": "2026-10-29T19:52:04-0400"}
+{"task": "L", "tag": "USA_40tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.021013999999999998, "finished": "2026-10-29T19:52:07-0400"}
+{"task": "R", "id": "p03_V0_correct_PTR1", "dataset": "p03", "variant": "V0_correct", "arm": "PTR1", "outcome": "approve", "cost": 0.06927805, "seconds": 47.5, "finished": "2026-10-29T19:52:07-0400"}
+{"task": "L", "tag": "KEN_100tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.0408315, "finished": "2026-10-29T19:52:29-0400"}
+{"task": "R", "id": "p04_V3_no_controls_PTR3", "dataset": "p04", "variant": "V3_no_controls", "arm": "PTR3", "outcome": "reject", "cost": 0.054015, "seconds": 38.5, "finished": "2026-10-29T19:52:45-0400"}
+{"task": "R", "id": "p04_V0_correct_ROLE3", "dataset": "p04", "variant": "V0_correct", "arm": "ROLE3", "outcome": "approve", "cost": 0.06452275, "seconds": 53.3, "finished": "2026-10-29T19:52:57-0400"}
+{"task": "L", "tag": "IND_160tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.06333024999999999, "finished": "2026-10-29T19:53:09-0400"}
+{"task": "R", "id": "p05_V0_correct_PTR2", "dataset": "p05", "variant": "V0_correct", "arm": "PTR2", "outcome": "approve", "cost": 0.06729734999999999, "seconds": 58.6, "finished": "2026-10-29T19:53:28-0400"}
+{"task": "R", "id": "p03_V3_no_controls_PTR3", "dataset": "p03", "variant": "V3_no_controls", "arm": "PTR3", "outcome": "reject", "cost": 0.0522379, "seconds": 32.7, "finished": "2026-10-29T19:53:30-0400"}
+{"task": "R", "id": "p04_V4_subgroup_ROLE3", "dataset": "p04", "variant": "V4_subgroup", "arm": "ROLE3", "outcome": "reject", "cost": 0.05745585, "seconds": 46.3, "finished": "2026-10-29T19:53:55-0400"}
+{"task": "R", "id": "p03_V1_collider_PTR2", "dataset": "p03", "variant": "V1_collider", "arm": "PTR2", "outcome": "reject", "cost": 0.04104595, "seconds": 34.2, "finished": "2026-10-29T19:54:04-0400"}
+{"task": "R", "id": "p04_V3_no_controls_PTR2", "dataset": "p04", "variant": "V3_no_controls", "arm": "PTR2", "outcome": "reject", "cost": 0.05367815, "seconds": 36.3, "finished": "2026-10-29T19:54:04-0400"}
+{"task": "R", "id": "p05_V4_subgroup_ROLE1", "dataset": "p05", "variant": "V4_subgroup", "arm": "ROLE1", "outcome": "approve", "cost": 0.07875085000000001, "seconds": 50.6, "finished": "2026-10-29T19:54:46-0400"}
+{"task": "R", "id": "p03_V2_omit_prior_ROLE2", "dataset": "p03", "variant": "V2_omit_prior", "arm": "ROLE2", "outcome": "approve", "cost": 0.07491460000000001, "seconds": 49.9, "finished": "2026-10-29T19:54:54-0400"}
+{"task": "L", "tag": "NGA_160tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.05873275, "finished": "2026-10-29T19:55:07-0400"}
+{"task": "R", "id": "p01_V2_omit_prior_PTR2", "dataset": "p01", "variant": "V2_omit_prior", "arm": "PTR2", "outcome": "reject", "cost": 0.0825931, "seconds": 66.2, "finished": "2026-10-29T19:55:10-0400"}
+{"task": "L", "tag": "IND_160tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.059381500000000004, "finished": "2026-10-29T19:55:13-0400"}
+{"task": "L", "tag": "KEN_160tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.058905250000000006, "finished": "2026-10-29T19:55:27-0400"}
+{"task": "L", "tag": "KEN_40tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.02166275, "finished": "2026-10-29T19:55:30-0400"}
+{"task": "L", "tag": "KEN_160tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.08470525, "finished": "2026-10-29T19:55:53-0400"}
+{"task": "R", "id": "p02_V3_no_controls_ROLE1", "dataset": "p02", "variant": "V3_no_controls", "arm": "ROLE1", "outcome": "reject", "cost": 0.057214150000000005, "seconds": 43.0, "finished": "2026-10-29T19:55:53-0400"}
+{"task": "R", "id": "p03_V3_no_controls_PTR1", "dataset": "p03", "variant": "V3_no_controls", "arm": "PTR1", "outcome": "reject", "cost": 0.052803550000000005, "seconds": 40.2, "finished": "2026-10-29T19:56:07-0400"}
+{"task": "L", "tag": "KEN_100tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.045029, "finished": "2026-10-29T19:56:12-0400"}
+{"task": "L", "tag": "IND_160tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.0590565, "finished": "2026-10-29T19:56:23-0400"}
+{"task": "R", "id": "p02_V3_no_controls_ROLE2", "dataset": "p02", "variant": "V3_no_controls", "arm": "ROLE2", "outcome": "reject", "cost": 0.08962130000000001, "seconds": 62.5, "finished": "2026-10-29T19:56:56-0400"}
+{"task": "R", "id": "p06_V2_omit_prior_ROLE1", "dataset": "p06", "variant": "V2_omit_prior", "arm": "ROLE1", "outcome": "approve", "cost": 0.06508485, "seconds": 45.4, "finished": "2026-10-29T19:56:57-0400"}
+{"task": "R", "id": "p03_V0_correct_ROLE2", "dataset": "p03", "variant": "V0_correct", "arm": "ROLE2", "outcome": "approve", "cost": 0.09174955, "seconds": 53.0, "finished": "2026-10-29T19:57:16-0400"}
+{"task": "L", "tag": "IND_100tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.04391275000000001, "finished": "2026-10-29T19:57:20-0400"}
+{"task": "L", "tag": "USA_100tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.041729, "finished": "2026-10-29T19:57:37-0400"}
+{"task": "R", "id": "p03_V3_no_controls_PTR2", "dataset": "p03", "variant": "V3_no_controls", "arm": "PTR2", "outcome": "reject", "cost": 0.0389146, "seconds": 31.4, "finished": "2026-10-29T19:57:48-0400"}
+{"task": "R", "id": "p02_V2_omit_prior_PTR3", "dataset": "p02", "variant": "V2_omit_prior", "arm": "PTR3", "outcome": "approve", "cost": 0.0883161, "seconds": 56.1, "finished": "2026-10-29T19:57:52-0400"}
+{"task": "L", "tag": "KEN_100tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.05218275, "finished": "2026-10-29T19:58:04-0400"}
+{"task": "L", "tag": "USA_40tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.020754, "finished": "2026-10-29T19:58:17-0400"}
+{"task": "R", "id": "p01_V1_collider_ROLE3", "dataset": "p01", "variant": "V1_collider", "arm": "ROLE3", "outcome": "reject", "cost": 0.06678715, "seconds": 48.0, "finished": "2026-10-29T19:58:25-0400"}
+{"task": "R", "id": "p01_V3_no_controls_ROLE3", "dataset": "p01", "variant": "V3_no_controls", "arm": "ROLE3", "outcome": "reject", "cost": 0.0811283, "seconds": 57.5, "finished": "2026-10-29T19:58:49-0400"}
+{"task": "L", "tag": "KEN_100tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.050217750000000005, "finished": "2026-10-29T19:59:06-0400"}
+{"task": "R", "id": "p05_V4_subgroup_PTR3", "dataset": "p05", "variant": "V4_subgroup", "arm": "PTR3", "outcome": "reject", "cost": 0.07373225000000001, "seconds": 51.6, "finished": "2026-10-29T19:59:09-0400"}
+{"task": "R", "id": "p05_V0_correct_ROLE2", "dataset": "p05", "variant": "V0_correct", "arm": "ROLE2", "outcome": "approve", "cost": 0.08159074999999999, "seconds": 50.3, "finished": "2026-10-29T19:59:16-0400"}
+{"task": "R", "id": "p04_V0_correct_ROLE2", "dataset": "p04", "variant": "V0_correct", "arm": "ROLE2", "outcome": "approve", "cost": 0.07365875000000001, "seconds": 44.2, "finished": "2026-10-29T19:59:53-0400"}
+{"task": "R", "id": "p06_V3_no_controls_PTR2", "dataset": "p06", "variant": "V3_no_controls", "arm": "PTR2", "outcome": "reject", "cost": 0.06844565, "seconds": 47.7, "finished": "2026-10-29T19:59:53-0400"}
+{"task": "R", "id": "p03_V0_correct_ROLE1", "dataset": "p03", "variant": "V0_correct", "arm": "ROLE1", "outcome": "approve", "cost": 0.06900925, "seconds": 50.9, "finished": "2026-10-29T20:00:06-0400"}
+{"task": "L", "tag": "NGA_40tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.02516025, "finished": "2026-10-29T20:00:08-0400"}
+{"task": "L", "tag": "NGA_100tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.04895900000000001, "finished": "2026-10-29T20:00:15-0400"}
+{"task": "L", "tag": "IND_100tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.04507275, "finished": "2026-10-29T20:00:25-0400"}
+{"task": "L", "tag": "IND_160tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.06460525, "finished": "2026-10-29T20:00:33-0400"}
+{"task": "R", "id": "p05_V0_correct_ROLE1", "dataset": "p05", "variant": "V0_correct", "arm": "ROLE1", "outcome": "approve", "cost": 0.07131615, "seconds": 43.5, "finished": "2026-10-29T20:00:52-0400"}
+{"task": "L", "tag": "IND_40tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.024357749999999997, "finished": "2026-10-29T20:00:52-0400"}
+{"task": "R", "id": "p06_V3_no_controls_PTR3", "dataset": "p06", "variant": "V3_no_controls", "arm": "PTR3", "outcome": "reject", "cost": 0.05547175000000001, "seconds": 43.0, "finished": "2026-10-29T20:01:08-0400"}
+{"task": "L", "tag": "KEN_100tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.03891525, "finished": "2026-10-29T20:01:13-0400"}
+{"task": "L", "tag": "NGA_160tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.07231649999999999, "finished": "2026-10-29T20:01:19-0400"}
+{"task": "R", "id": "p06_V4_subgroup_PTR2", "dataset": "p06", "variant": "V4_subgroup", "arm": "PTR2", "outcome": "reject", "cost": 0.057960599999999994, "seconds": 50.9, "finished": "2026-10-29T20:02:10-0400"}
+{"task": "R", "id": "p05_V2_omit_prior_ROLE1", "dataset": "p05", "variant": "V2_omit_prior", "arm": "ROLE1", "outcome": "approve", "cost": 0.09998395, "seconds": 72.9, "finished": "2026-10-29T20:02:21-0400"}
+{"task": "R", "id": "p06_V4_subgroup_ROLE3", "dataset": "p06", "variant": "V4_subgroup", "arm": "ROLE3", "outcome": "approve", "cost": 0.17895724999999998, "seconds": 89.1, "finished": "2026-10-29T20:02:42-0400"}
+{"task": "L", "tag": "NGA_100tx_b", "fmt": "standard", "arm": "ROLE2", "cost": 0.051164, "finished": "2026-10-29T20:03:01-0400"}
+{"task": "R", "id": "p06_V1_collider_ROLE1", "dataset": "p06", "variant": "V1_collider", "arm": "ROLE1", "outcome": "reject", "cost": 0.06326435, "seconds": 42.1, "finished": "2026-10-29T20:03:03-0400"}
+{"task": "R", "id": "p05_V4_subgroup_PTR1", "dataset": "p05", "variant": "V4_subgroup", "arm": "PTR1", "outcome": "reject", "cost": 0.07736019999999999, "seconds": 57.7, "finished": "2026-10-29T20:03:08-0400"}
+{"task": "L", "tag": "KEN_100tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.0405615, "finished": "2026-10-29T20:03:18-0400"}
+{"task": "L", "tag": "IND_160tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.059945250000000005, "finished": "2026-10-29T20:03:19-0400"}
+{"task": "L", "tag": "NGA_40tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.020352750000000003, "finished": "2026-10-29T20:03:24-0400"}
+{"task": "L", "tag": "NGA_100tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.04492025, "finished": "2026-10-29T20:03:37-0400"}
+{"task": "L", "tag": "KEN_160tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.06339650000000001, "finished": "2026-10-29T20:03:37-0400"}
+{"task": "L", "tag": "USA_160tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.05408275, "finished": "2026-10-29T20:03:45-0400"}
+{"task": "L", "tag": "IND_100tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.046650250000000004, "finished": "2026-10-29T20:03:54-0400"}
+{"task": "L", "tag": "USA_100tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.03991025, "finished": "2026-10-29T20:04:01-0400"}
+{"task": "L", "tag": "USA_100tx_a", "fmt": "local", "arm": "ROLE3", "cost": 0.04250775, "finished": "2026-10-29T20:04:10-0400"}
+{"task": "L", "tag": "KEN_160tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.060726499999999996, "finished": "2026-10-29T20:04:18-0400"}
+{"task": "R", "id": "p02_V4_subgroup_ROLE2", "dataset": "p02", "variant": "V4_subgroup", "arm": "ROLE2", "outcome": "reject", "cost": 0.07084965, "seconds": 44.0, "finished": "2026-10-29T20:04:21-0400"}
+{"task": "L", "tag": "IND_40tx_a", "fmt": "standard", "arm": "ROLE2", "cost": 0.013839500000000001, "finished": "2026-10-29T20:04:22-0400"}
+{"task": "R", "id": "p06_V1_collider_PTR3", "dataset": "p06", "variant": "V1_collider", "arm": "PTR3", "outcome": "reject", "cost": 0.045272999999999994, "seconds": 34.0, "finished": "2026-10-29T20:04:56-0400"}
+{"task": "R", "id": "p04_V1_collider_PTR1", "dataset": "p04", "variant": "V1_collider", "arm": "PTR1", "outcome": "reject", "cost": 0.0564639, "seconds": 41.6, "finished": "2026-10-29T20:05:02-0400"}
+{"task": "R", "id": "p02_V0_correct_PTR1", "dataset": "p02", "variant": "V0_correct", "arm": "PTR1", "outcome": "approve", "cost": 0.07468435, "seconds": 45.4, "finished": "2026-10-29T20:05:03-0400"}
+{"task": "L", "tag": "IND_100tx_b", "fmt": "standard", "arm": "ROLE3", "cost": 0.0420465, "finished": "2026-10-29T20:05:12-0400"}
+{"task": "L", "tag": "IND_100tx_b", "fmt": "local", "arm": "ROLE1", "cost": 0.0472015, "finished": "2026-10-29T20:05:21-0400"}
+{"task": "L", "tag": "USA_160tx_b", "fmt": "local", "arm": "ROLE3", "cost": 0.0669415, "finished": "2026-10-29T20:05:27-0400"}
+{"task": "L", "tag": "USA_100tx_b", "fmt": "standard", "arm": "ROLE1", "cost": 0.040701499999999995, "finished": "2026-10-29T20:05:36-0400"}
+{"task": "L", "tag": "KEN_40tx_a", "fmt": "local", "arm": "ROLE2", "cost": 0.027032749999999998, "finished": "2026-10-29T20:05:53-0400"}
+{"task": "R", "id": "p06_V4_subgroup_PTR1", "dataset": "p06", "variant": "V4_subgroup", "arm": "PTR1", "outcome": "reject", "cost": 0.0708263, "seconds": 53.1, "finished": "2026-10-29T20:06:05-0400"}
+{"task": "R", "id": "p06_V3_no_controls_ROLE2", "dataset": "p06", "variant": "V3_no_controls", "arm": "ROLE2", "outcome": "reject", "cost": 0.07687485000000001, "seconds": 53.0, "finished": "2026-10-29T20:06:20-0400"}
+{"task": "L", "tag": "NGA_160tx_a", "fmt": "standard", "arm": "ROLE1", "cost": 0.06467524999999999, "finished": "2026-10-29T20:06:26-0400"}
+{"task": "R", "id": "p02_V1_collider_ROLE3", "dataset": "p02", "variant": "V1_collider", "arm": "ROLE3", "outcome": "reject", "cost": 0.06072410000000001, "seconds": 41.1, "finished": "2026-10-29T20:06:34-0400"}
+{"task": "R", "id": "p03_V4_subgroup_PTR1", "dataset": "p03", "variant": "V4_subgroup", "arm": "PTR1", "outcome": "reject", "cost": 0.0674867, "seconds": 43.3, "finished": "2026-10-29T20:07:03-0400"}
+{"task": "R", "id": "p03_V0_correct_PTR3", "dataset": "p03", "variant": "V0_correct", "arm": "PTR3", "outcome": "approve", "cost": 0.05564425, "seconds": 43.2, "finished": "2026-10-29T20:07:09-0400"}
+{"task": "R", "id": "p05_V3_no_controls_ROLE3", "dataset": "p05", "variant": "V3_no_controls", "arm": "ROLE3", "outcome": "reject", "cost": 0.06886135, "seconds": 43.7, "finished": "2026-10-29T20:07:17-0400"}
+{"task": "R", "id": "p04_V3_no_controls_ROLE1", "dataset": "p04", "variant": "V3_no_controls", "arm": "ROLE1", "outcome": "reject", "cost": 0.0443642, "seconds": 32.4, "finished": "2026-10-29T20:07:50-0400"}
+{"task": "R", "id": "p05_V2_omit_prior_PTR1", "dataset": "p05", "variant": "V2_omit_prior", "arm": "PTR1", "outcome": "approve", "cost": 0.06673055, "seconds": 49.1, "finished": "2026-10-29T20:07:52-0400"}
+{"task": "R", "id": "p06_V2_omit_prior_PTR2", "dataset": "p06", "variant": "V2_omit_prior", "arm": "PTR2", "outcome": "approve", "cost": 0.0726534, "seconds": 46.4, "finished": "2026-10-29T20:07:55-0400"}
+{"task": "R", "id": "p04_V0_correct_PTR3", "dataset": "p04", "variant": "V0_correct", "arm": "PTR3", "outcome": "approve", "cost": 0.0758732, "seconds": 53.8, "finished": "2026-10-29T20:08:46-0400"}
+{"task": "R", "id": "p01_V1_collider_ROLE1", "dataset": "p01", "variant": "V1_collider", "arm": "ROLE1", "outcome": "reject", "cost": 0.0708899, "seconds": 54.8, "finished": "2026-10-29T20:08:50-0400"}
+{"task": "R", "id": "p05_V2_omit_prior_ROLE2", "dataset": "p05", "variant": "V2_omit_prior", "arm": "ROLE2", "outcome": "approve", "cost": 0.1012651, "seconds": 64.0, "finished": "2026-10-29T20:08:54-0400"}
+{"task": "L", "tag": "IND_40tx_b", "fmt": "local", "arm": "ROLE2", "cost": 0.02799275, "finished": "2026-10-29T20:08:59-0400"}
+{"task": "R", "id": "p01_V2_omit_prior_PTR3", "dataset": "p01", "variant": "V2_omit_prior", "arm": "PTR3", "outcome": "reject", "cost": 0.0835375, "seconds": 43.9, "finished": "2026-10-29T20:09:34-0400"}
+{"task": "R", "id": "p06_V0_correct_PTR3", "dataset": "p06", "variant": "V0_correct", "arm": "PTR3", "outcome": "approve", "cost": 0.05977035, "seconds": 64.5, "finished": "2026-10-29T21:07:19-0400"}
+{"task": "R", "id": "p03_V1_collider_ROLE3", "dataset": "p03", "variant": "V1_collider", "arm": "ROLE3", "outcome": "reject", "cost": 0.0710475, "seconds": 71.4, "finished": "2026-10-29T21:07:26-0400"}
+{"task": "R", "id": "p03_V0_correct_PTR2", "dataset": "p03", "variant": "V0_correct", "arm": "PTR2", "outcome": "approve", "cost": 0.09395744999999998, "seconds": 74.5, "finished": "2026-10-29T21:07:29-0400"}
+{"task": "R", "id": "p03_V4_subgroup_PTR2", "dataset": "p03", "variant": "V4_subgroup", "arm": "PTR2", "outcome": "reject", "cost": 0.073075, "seconds": 48.9, "finished": "2026-10-29T21:08:08-0400"}
+{"task": "R", "id": "p04_V0_correct_PTR1", "dataset": "p04", "variant": "V0_correct", "arm": "PTR1", "outcome": "approve", "cost": 0.06625025, "seconds": 50.5, "finished": "2026-10-29T21:08:16-0400"}
+{"task": "R", "id": "p04_V2_omit_prior_PTR2", "dataset": "p04", "variant": "V2_omit_prior", "arm": "PTR2", "outcome": "approve", "cost": 0.05931205, "seconds": 49.0, "finished": "2026-10-29T21:08:18-0400"}
+{"task": "L", "tag": "NGA_40tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.033061999999999994, "finished": "2026-10-29T21:08:38-0400"}
+{"task": "L", "tag": "KEN_160tx_a", "fmt": "local", "arm": "ROLE1", "cost": 0.08215025, "finished": "2026-10-29T21:09:07-0400"}
+{"task": "R", "id": "p03_V1_collider_ROLE1", "dataset": "p03", "variant": "V1_collider", "arm": "ROLE1", "outcome": "reject", "cost": 0.06676115000000002, "seconds": 70.4, "finished": "2026-10-29T21:09:28-0400"}
+{"task": "L", "tag": "NGA_100tx_a", "fmt": "standard", "arm": "ROLE3", "cost": 0.043799000000000005, "finished": "2026-10-29T21:09:36-0400"}
+{"task": "R", "id": "p03_V4_subgroup_ROLE2", "dataset": "p03", "variant": "V4_subgroup", "arm": "ROLE2", "outcome": "reject", "cost": 0.1058996, "seconds": 91.5, "finished": "2026-10-29T21:09:39-0400"}

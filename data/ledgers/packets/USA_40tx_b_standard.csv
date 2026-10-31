@@ -1,0 +1,43 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Stock purchase,Restaurant Depot,176,cash,statement line
+D002,2025-10-02,Shop rent,,404,bank,statement line
+D003,2025-10-03,Stock purchase,Sysco Supply,327,mobile,statement line
+D004,2025-10-04,Customer sale,,122,mobile,statement line
+D005,2025-10-04,Customer sale,,79,mobile,statement line
+D006,2025-10-06,Stock purchase,Sysco Supply,331,bank,statement line
+D007,2025-10-06,Stock purchase,Sysco Supply,331,bank,supplier receipt
+D008,2025-10-06,Delivery transport,,13,mobile,statement line
+D009,2025-10-08,Customer sale,,100,mobile,statement line
+D010,2025-10-09,Customer sale,,85,bank,statement line
+D011,2025-10-11,Shop rent,,600,cash,statement line
+D012,2025-10-11,Customer sale,,10,mobile,statement line
+D013,2025-10-11,Transaction fee,,1,mobile,statement line
+D014,2025-10-11,Customer sale,,60,mobile,statement line
+D015,2025-10-12,Stock purchase,Restaurant Depot,551,cash,statement line
+D016,2025-10-12,Delivery transport,,17,mobile,statement line
+D017,2025-10-13,Delivery transport,,4,mobile,statement line
+D018,2025-10-14,Owner withdrawal,,91,cash,statement line
+D019,2025-10-17,Customer sale,,116,cash,statement line
+D020,2025-10-19,Stock purchase,Costco Business Center,425,mobile,statement line
+D021,2025-10-19,Stock purchase,Sysco Supply,335,cash,statement line
+D022,2025-10-19,Customer sale,,187,mobile,statement line
+D023,2025-10-20,Customer sale,,54,cash,statement line
+D024,2025-10-20,Customer sale,,145,mobile,statement line
+D025,2025-10-20,Phone and data,,4,mobile,statement line
+D026,2025-10-21,Customer sale,,88,mobile,statement line
+D027,2025-10-21,Stock purchase,Restaurant Depot,495,cash,statement line
+D028,2025-10-22,Customer sale,,130,cash,statement line
+D029,2025-10-22,Customer sale,,96,mobile,statement line
+D030,2025-10-22,Customer sale,,21,cash,statement line
+D031,2025-10-23,Customer sale,,69,mobile,statement line
+D032,2025-10-24,Customer sale,,22,mobile,statement line
+D033,2025-10-26,Shop rent,,569,cash,statement line
+D034,2025-10-26,Electricity bill,,113,mobile,statement line
+D035,2025-10-28,Customer sale,,8,cash,statement line
+D036,2025-10-29,Stock purchase,Sysco Supply,391,mobile,statement line
+D037,2025-10-29,Stock purchase,Sysco Supply,391,mobile,supplier receipt
+D038,2025-10-29,Phone and data,,2,cash,statement line
+D039,2025-10-29,Customer sale,,198,mobile,statement line
+D040,2025-10-31,Customer sale,,169,cash,statement line
+D041,2025-10-31,Stock purchase,Sysco Supply,348,cash,statement line
+D042,2025-10-31,Customer sale,,86,bank,statement line

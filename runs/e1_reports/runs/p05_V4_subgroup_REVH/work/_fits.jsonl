@@ -1,0 +1,8 @@
+{"ts": 1793249426.2391, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 1960}
+{"ts": 1793249426.245812, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share"], "nobs": 1960}
+{"ts": 1793249426.249791, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 661}
+{"ts": 1793249426.254636, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share"], "nobs": 661}
+{"ts": 1793249426.270538, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 640}
+{"ts": 1793249426.273412, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 657}
+{"ts": 1793249426.2832708, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020", "collab_index_2023", "listed", "vc_backed", "founder_ceo", "cloud_spend_2020", "hq_in_hub_city", "share_phd_2020", "gross_margin_2020"], "nobs": 1960}
+{"ts": 1793249426.340054, "pid": 53279, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["const", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020"], "nobs": 2000}

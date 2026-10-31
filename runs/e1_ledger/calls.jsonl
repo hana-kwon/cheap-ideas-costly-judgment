@@ -1,0 +1,336 @@
+{"tag": "IND_100tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.05373750000000001, "finished": "2026-10-29T00:38:37-0400"}
+{"tag": "IND_160tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.06481375, "finished": "2026-10-29T00:38:38-0400"}
+{"tag": "NGA_160tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0690795, "finished": "2026-10-29T00:38:53-0400"}
+{"tag": "NGA_160tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.06625325, "finished": "2026-10-29T00:38:55-0400"}
+{"tag": "USA_160tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.13455999999999999, "finished": "2026-10-29T00:39:02-0400"}
+{"tag": "USA_160tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03014575, "n_flagged": 13, "finished": "2026-10-29T00:39:10-0400"}
+{"tag": "KEN_160tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.06943950000000002, "finished": "2026-10-29T00:39:11-0400"}
+{"tag": "IND_100tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.028742, "finished": "2026-10-29T00:39:11-0400"}
+{"tag": "NGA_40tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.013167749999999999, "finished": "2026-10-29T00:39:17-0400"}
+{"tag": "NGA_40tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0239595, "finished": "2026-10-29T00:39:21-0400"}
+{"tag": "KEN_160tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.05416075000000001, "finished": "2026-10-29T00:39:23-0400"}
+{"tag": "KEN_100tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0258134, "finished": "2026-10-29T00:39:32-0400"}
+{"tag": "KEN_100tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.051427, "finished": "2026-10-29T00:39:35-0400"}
+{"tag": "KEN_100tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.057267, "finished": "2026-10-29T00:39:39-0400"}
+{"tag": "USA_40tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.015699499999999998, "finished": "2026-10-29T00:39:42-0400"}
+{"tag": "KEN_100tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0234445, "n_flagged": 8, "finished": "2026-10-29T00:39:47-0400"}
+{"tag": "IND_100tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.05826825, "finished": "2026-10-29T00:40:01-0400"}
+{"tag": "USA_160tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.12185325, "finished": "2026-10-29T00:40:07-0400"}
+{"tag": "IND_100tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.02085325, "n_flagged": 8, "finished": "2026-10-29T00:40:07-0400"}
+{"tag": "NGA_160tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08889325, "finished": "2026-10-29T00:40:12-0400"}
+{"tag": "USA_160tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0378245, "n_flagged": 13, "finished": "2026-10-29T00:40:17-0400"}
+{"tag": "NGA_160tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03167325, "n_flagged": 13, "finished": "2026-10-29T00:40:19-0400"}
+{"tag": "KEN_160tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.075282, "finished": "2026-10-29T00:40:23-0400"}
+{"tag": "USA_100tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.03574700000000001, "finished": "2026-10-29T00:40:27-0400"}
+{"tag": "USA_100tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0375895, "finished": "2026-10-29T00:40:30-0400"}
+{"tag": "IND_100tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.03789825, "finished": "2026-10-29T00:40:37-0400"}
+{"tag": "IND_160tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0395309, "finished": "2026-10-29T00:40:46-0400"}
+{"tag": "NGA_100tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.0588145, "finished": "2026-10-29T00:40:48-0400"}
+{"tag": "USA_100tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.022850899999999997, "finished": "2026-10-29T00:40:51-0400"}
+{"tag": "NGA_100tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.02089825, "n_flagged": 8, "finished": "2026-10-29T00:40:54-0400"}
+{"tag": "NGA_100tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.050848250000000005, "finished": "2026-10-29T00:41:00-0400"}
+{"tag": "NGA_40tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.01262025, "finished": "2026-10-29T00:41:06-0400"}
+{"tag": "NGA_40tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.03931075, "finished": "2026-10-29T00:41:09-0400"}
+{"tag": "NGA_40tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.010329000000000001, "n_flagged": 3, "finished": "2026-10-29T00:41:15-0400"}
+{"tag": "NGA_40tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.02394075, "finished": "2026-10-29T00:41:16-0400"}
+{"tag": "NGA_40tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.009264, "n_flagged": 3, "finished": "2026-10-29T00:41:22-0400"}
+{"tag": "IND_160tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.1297645, "finished": "2026-10-29T00:41:27-0400"}
+{"tag": "KEN_160tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.057397000000000004, "finished": "2026-10-29T00:41:27-0400"}
+{"tag": "IND_160tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.036282, "n_flagged": 13, "finished": "2026-10-29T00:41:34-0400"}
+{"tag": "IND_160tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.06718075000000001, "finished": "2026-10-29T00:41:36-0400"}
+{"tag": "NGA_160tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.056149500000000005, "finished": "2026-10-29T00:41:40-0400"}
+{"tag": "IND_40tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0179745, "finished": "2026-10-29T00:41:43-0400"}
+{"tag": "IND_40tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.01997325, "finished": "2026-10-29T00:41:48-0400"}
+{"tag": "IND_100tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.038770900000000004, "finished": "2026-10-29T00:41:58-0400"}
+{"tag": "KEN_160tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.08294575, "finished": "2026-10-29T00:42:01-0400"}
+{"tag": "NGA_160tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.060445750000000006, "finished": "2026-10-29T00:42:03-0400"}
+{"tag": "KEN_40tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.01354965, "finished": "2026-10-29T00:42:10-0400"}
+{"tag": "NGA_40tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.02752825, "finished": "2026-10-29T00:42:12-0400"}
+{"tag": "NGA_100tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.023538399999999998, "finished": "2026-10-29T00:42:17-0400"}
+{"tag": "NGA_40tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.008862749999999999, "n_flagged": 3, "finished": "2026-10-29T00:42:18-0400"}
+{"tag": "NGA_40tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0225195, "finished": "2026-10-29T00:42:20-0400"}
+{"tag": "IND_100tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.03728825, "finished": "2026-10-29T00:42:28-0400"}
+{"tag": "NGA_160tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0229566, "finished": "2026-10-29T00:42:29-0400"}
+{"tag": "IND_100tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.021584300000000004, "finished": "2026-10-29T00:42:41-0400"}
+{"tag": "KEN_100tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.09136825000000001, "finished": "2026-10-29T00:42:46-0400"}
+{"tag": "USA_100tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.038774499999999996, "finished": "2026-10-29T00:42:52-0400"}
+{"tag": "KEN_100tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.02866575, "n_flagged": 8, "finished": "2026-10-29T00:42:52-0400"}
+{"tag": "IND_160tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.0899245, "finished": "2026-10-29T00:42:54-0400"}
+{"tag": "NGA_40tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.012980249999999999, "finished": "2026-10-29T00:42:58-0400"}
+{"tag": "IND_160tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.029716500000000003, "n_flagged": 13, "finished": "2026-10-29T00:43:01-0400"}
+{"tag": "USA_160tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.059839500000000004, "finished": "2026-10-29T00:43:07-0400"}
+{"tag": "IND_40tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.012549, "finished": "2026-10-29T00:43:07-0400"}
+{"tag": "IND_160tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.06848825, "finished": "2026-10-29T00:43:13-0400"}
+{"tag": "NGA_100tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.045747, "finished": "2026-10-29T00:43:19-0400"}
+{"tag": "IND_40tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.022916999999999996, "finished": "2026-10-29T00:43:22-0400"}
+{"tag": "IND_100tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0307834, "finished": "2026-10-29T00:43:26-0400"}
+{"tag": "IND_40tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0089265, "n_flagged": 3, "finished": "2026-10-29T00:43:27-0400"}
+{"tag": "USA_160tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.054864500000000004, "finished": "2026-10-29T00:43:31-0400"}
+{"tag": "NGA_100tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.039004500000000004, "finished": "2026-10-29T00:43:37-0400"}
+{"tag": "KEN_40tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.01486215, "finished": "2026-10-29T00:43:54-0400"}
+{"tag": "KEN_160tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.053102149999999994, "finished": "2026-10-29T00:43:56-0400"}
+{"tag": "KEN_100tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.03719465, "finished": "2026-10-29T00:44:04-0400"}
+{"tag": "IND_40tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.020423999999999998, "finished": "2026-10-29T00:44:04-0400"}
+{"tag": "KEN_100tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0409645, "finished": "2026-10-29T00:44:05-0400"}
+{"tag": "NGA_40tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.021657, "finished": "2026-10-29T00:44:15-0400"}
+{"tag": "USA_100tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0166416, "finished": "2026-10-29T00:44:15-0400"}
+{"tag": "KEN_40tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.022753249999999996, "finished": "2026-10-29T00:44:25-0400"}
+{"tag": "NGA_100tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.015686000000000002, "finished": "2026-10-29T00:44:26-0400"}
+{"tag": "IND_160tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08619199999999999, "finished": "2026-10-29T00:44:31-0400"}
+{"tag": "KEN_40tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.00874275, "n_flagged": 3, "finished": "2026-10-29T00:44:31-0400"}
+{"tag": "IND_40tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0032616, "finished": "2026-10-29T00:44:31-0400"}
+{"tag": "IND_160tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03018325, "n_flagged": 13, "finished": "2026-10-29T00:44:39-0400"}
+{"tag": "KEN_160tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.027801400000000004, "finished": "2026-10-29T00:44:46-0400"}
+{"tag": "NGA_160tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.062422, "finished": "2026-10-29T00:44:47-0400"}
+{"tag": "IND_100tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0180455, "finished": "2026-10-29T00:44:50-0400"}
+{"tag": "USA_100tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.036832, "finished": "2026-10-29T00:44:56-0400"}
+{"tag": "USA_100tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.039399500000000004, "finished": "2026-10-29T00:44:59-0400"}
+{"tag": "NGA_100tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.06098075, "finished": "2026-10-29T00:45:08-0400"}
+{"tag": "NGA_40tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.013124649999999998, "finished": "2026-10-29T00:45:10-0400"}
+{"tag": "USA_160tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.057717, "finished": "2026-10-29T00:45:10-0400"}
+{"tag": "NGA_100tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.021717, "n_flagged": 8, "finished": "2026-10-29T00:45:15-0400"}
+{"tag": "NGA_40tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0149559, "finished": "2026-10-29T00:45:21-0400"}
+{"tag": "KEN_100tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.047893250000000005, "finished": "2026-10-29T00:45:26-0400"}
+{"tag": "IND_100tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.03003965, "finished": "2026-10-29T00:45:28-0400"}
+{"tag": "IND_40tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.007365, "finished": "2026-10-29T00:45:29-0400"}
+{"tag": "IND_160tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.056293249999999996, "finished": "2026-10-29T00:45:38-0400"}
+{"tag": "USA_160tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0541745, "finished": "2026-10-29T00:45:41-0400"}
+{"tag": "IND_100tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0476445, "finished": "2026-10-29T00:45:43-0400"}
+{"tag": "KEN_100tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.039352, "finished": "2026-10-29T00:45:49-0400"}
+{"tag": "USA_40tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.020287, "finished": "2026-10-29T00:45:49-0400"}
+{"tag": "IND_100tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.048712000000000005, "finished": "2026-10-29T00:46:02-0400"}
+{"tag": "KEN_160tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0487309, "finished": "2026-10-29T00:46:11-0400"}
+{"tag": "KEN_160tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08995075, "finished": "2026-10-29T00:46:14-0400"}
+{"tag": "USA_160tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.056552, "finished": "2026-10-29T00:46:14-0400"}
+{"tag": "KEN_40tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.013623249999999998, "finished": "2026-10-29T00:46:16-0400"}
+{"tag": "KEN_160tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03243575, "n_flagged": 13, "finished": "2026-10-29T00:46:23-0400"}
+{"tag": "NGA_40tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0033927, "finished": "2026-10-29T00:46:23-0400"}
+{"tag": "USA_40tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.019341999999999998, "finished": "2026-10-29T00:46:24-0400"}
+{"tag": "KEN_160tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.05298075, "finished": "2026-10-29T00:46:35-0400"}
+{"tag": "IND_160tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.059395750000000004, "finished": "2026-10-29T00:46:36-0400"}
+{"tag": "NGA_160tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08804449999999998, "finished": "2026-10-29T00:46:48-0400"}
+{"tag": "NGA_160tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03128575, "n_flagged": 13, "finished": "2026-10-29T00:46:55-0400"}
+{"tag": "USA_100tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.034443400000000006, "finished": "2026-10-29T00:47:01-0400"}
+{"tag": "USA_40tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.01749825, "finished": "2026-10-29T00:47:03-0400"}
+{"tag": "USA_160tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08648075000000001, "finished": "2026-10-29T00:47:04-0400"}
+{"tag": "NGA_40tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.018657, "finished": "2026-10-29T00:47:08-0400"}
+{"tag": "USA_160tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03018075, "n_flagged": 13, "finished": "2026-10-29T00:47:12-0400"}
+{"tag": "KEN_40tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0257145, "finished": "2026-10-29T00:47:16-0400"}
+{"tag": "USA_40tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.012612749999999999, "finished": "2026-10-29T00:47:17-0400"}
+{"tag": "USA_160tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0408384, "finished": "2026-10-29T00:47:26-0400"}
+{"tag": "KEN_100tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0390695, "finished": "2026-10-29T00:47:27-0400"}
+{"tag": "IND_160tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.055497, "finished": "2026-10-29T00:47:30-0400"}
+{"tag": "IND_40tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.02217075, "finished": "2026-10-29T00:47:38-0400"}
+{"tag": "NGA_160tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.05755575000000001, "finished": "2026-10-29T00:47:39-0400"}
+{"tag": "IND_40tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.017104650000000002, "finished": "2026-10-29T00:47:40-0400"}
+{"tag": "USA_40tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.01254465, "finished": "2026-10-29T00:47:48-0400"}
+{"tag": "NGA_160tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0250575, "finished": "2026-10-29T00:47:56-0400"}
+{"tag": "NGA_100tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.04081075, "finished": "2026-10-29T00:48:01-0400"}
+{"tag": "IND_40tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.023500749999999997, "finished": "2026-10-29T00:48:06-0400"}
+{"tag": "IND_40tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.009256499999999999, "n_flagged": 3, "finished": "2026-10-29T00:48:12-0400"}
+{"tag": "KEN_100tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.056037000000000003, "finished": "2026-10-29T00:48:16-0400"}
+{"tag": "KEN_160tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.14054325, "finished": "2026-10-29T00:48:19-0400"}
+{"tag": "KEN_160tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0442095, "n_flagged": 13, "finished": "2026-10-29T00:48:26-0400"}
+{"tag": "IND_160tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.06739824999999999, "finished": "2026-10-29T00:48:27-0400"}
+{"tag": "USA_40tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.036116999999999996, "finished": "2026-10-29T00:48:30-0400"}
+{"tag": "KEN_40tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.01934325, "finished": "2026-10-29T00:48:33-0400"}
+{"tag": "USA_40tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.009129, "n_flagged": 3, "finished": "2026-10-29T00:48:36-0400"}
+{"tag": "IND_160tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.06407075, "finished": "2026-10-29T00:48:41-0400"}
+{"tag": "USA_160tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.05792825, "finished": "2026-10-29T00:48:47-0400"}
+{"tag": "KEN_160tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.07828825, "finished": "2026-10-29T00:48:51-0400"}
+{"tag": "USA_160tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0229244, "finished": "2026-10-29T00:48:53-0400"}
+{"tag": "IND_40tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0032616, "finished": "2026-10-29T00:48:59-0400"}
+{"tag": "NGA_40tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.02051075, "finished": "2026-10-29T00:48:59-0400"}
+{"tag": "USA_160tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.028450700000000002, "finished": "2026-10-29T00:49:02-0400"}
+{"tag": "KEN_40tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.01660575, "finished": "2026-10-29T00:49:06-0400"}
+{"tag": "NGA_160tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.06819700000000001, "finished": "2026-10-29T00:49:15-0400"}
+{"tag": "NGA_100tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.043022000000000005, "finished": "2026-10-29T00:49:17-0400"}
+{"tag": "NGA_40tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.007876000000000001, "finished": "2026-10-29T00:49:22-0400"}
+{"tag": "KEN_40tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0044391000000000005, "finished": "2026-10-29T00:49:27-0400"}
+{"tag": "USA_160tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0435634, "finished": "2026-10-29T00:49:29-0400"}
+{"tag": "KEN_160tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.07723574999999999, "finished": "2026-10-29T00:49:33-0400"}
+{"tag": "USA_40tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.025842000000000004, "finished": "2026-10-29T00:49:38-0400"}
+{"tag": "IND_40tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.00953, "finished": "2026-10-29T00:49:40-0400"}
+{"tag": "USA_40tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.008934000000000001, "n_flagged": 3, "finished": "2026-10-29T00:49:44-0400"}
+{"tag": "USA_40tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0185484, "finished": "2026-10-29T00:49:45-0400"}
+{"tag": "USA_40tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0080115, "finished": "2026-10-29T00:49:52-0400"}
+{"tag": "KEN_100tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0186211, "finished": "2026-10-29T00:49:52-0400"}
+{"tag": "NGA_100tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.043360749999999997, "finished": "2026-10-29T00:49:57-0400"}
+{"tag": "USA_40tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.03841825, "finished": "2026-10-29T00:50:08-0400"}
+{"tag": "IND_100tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.045479500000000006, "finished": "2026-10-29T00:50:08-0400"}
+{"tag": "USA_160tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0368184, "finished": "2026-10-29T00:50:13-0400"}
+{"tag": "USA_40tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.00887025, "n_flagged": 3, "finished": "2026-10-29T00:50:14-0400"}
+{"tag": "NGA_100tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0181091, "finished": "2026-10-29T00:50:24-0400"}
+{"tag": "USA_40tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.014642150000000001, "finished": "2026-10-29T00:50:25-0400"}
+{"tag": "USA_100tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0257484, "finished": "2026-10-29T00:50:31-0400"}
+{"tag": "USA_40tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.004523500000000001, "finished": "2026-10-29T00:50:37-0400"}
+{"tag": "USA_40tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.01277775, "finished": "2026-10-29T00:50:43-0400"}
+{"tag": "NGA_40tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.01337465, "finished": "2026-10-29T00:50:54-0400"}
+{"tag": "KEN_40tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0079241, "finished": "2026-10-29T00:51:01-0400"}
+{"tag": "NGA_160tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.1356445, "finished": "2026-10-29T00:51:05-0400"}
+{"tag": "USA_100tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0369295, "finished": "2026-10-29T00:51:06-0400"}
+{"tag": "IND_160tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0250982, "finished": "2026-10-29T00:51:14-0400"}
+{"tag": "NGA_160tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.049374499999999995, "n_flagged": 13, "finished": "2026-10-29T00:51:19-0400"}
+{"tag": "IND_100tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.038688249999999993, "finished": "2026-10-29T00:51:25-0400"}
+{"tag": "KEN_100tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.015726, "finished": "2026-10-29T00:51:29-0400"}
+{"tag": "KEN_40tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.01950825, "finished": "2026-10-29T00:51:34-0400"}
+{"tag": "IND_40tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.01951825, "finished": "2026-10-29T00:51:36-0400"}
+{"tag": "IND_40tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0100753, "finished": "2026-10-29T00:51:43-0400"}
+{"tag": "USA_160tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.06541465, "finished": "2026-10-29T00:51:46-0400"}
+{"tag": "USA_160tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.063987, "finished": "2026-10-29T00:51:52-0400"}
+{"tag": "NGA_100tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0186591, "finished": "2026-10-29T00:51:55-0400"}
+{"tag": "KEN_40tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.032207000000000006, "finished": "2026-10-29T00:51:58-0400"}
+{"tag": "KEN_40tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0159645, "n_flagged": 3, "finished": "2026-10-29T00:52:05-0400"}
+{"tag": "NGA_160tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.058927, "finished": "2026-10-29T00:52:07-0400"}
+{"tag": "IND_160tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.05592825, "finished": "2026-10-29T00:52:17-0400"}
+{"tag": "NGA_100tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08757324999999999, "finished": "2026-10-29T00:52:18-0400"}
+{"tag": "IND_160tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0236182, "finished": "2026-10-29T00:52:20-0400"}
+{"tag": "NGA_100tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0235545, "n_flagged": 8, "finished": "2026-10-29T00:52:25-0400"}
+{"tag": "USA_100tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0166656, "finished": "2026-10-29T00:52:30-0400"}
+{"tag": "USA_40tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.022905749999999996, "finished": "2026-10-29T00:52:39-0400"}
+{"tag": "IND_160tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.04376215, "finished": "2026-10-29T00:52:42-0400"}
+{"tag": "USA_40tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.00893775, "n_flagged": 3, "finished": "2026-10-29T00:52:45-0400"}
+{"tag": "USA_160tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08405825, "finished": "2026-10-29T00:52:49-0400"}
+{"tag": "USA_160tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.029655749999999998, "n_flagged": 13, "finished": "2026-10-29T00:52:56-0400"}
+{"tag": "KEN_100tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.049530750000000005, "finished": "2026-10-29T00:52:56-0400"}
+{"tag": "NGA_100tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.03107715, "finished": "2026-10-29T00:53:02-0400"}
+{"tag": "USA_160tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.059969499999999995, "finished": "2026-10-29T00:53:10-0400"}
+{"tag": "NGA_40tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.03963074999999999, "finished": "2026-10-29T00:53:17-0400"}
+{"tag": "NGA_40tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.01014525, "n_flagged": 3, "finished": "2026-10-29T00:53:23-0400"}
+{"tag": "KEN_40tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.01388825, "finished": "2026-10-29T00:53:29-0400"}
+{"tag": "KEN_160tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.14065824999999998, "finished": "2026-10-29T00:53:33-0400"}
+{"tag": "USA_100tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.07912699999999999, "finished": "2026-10-29T00:53:35-0400"}
+{"tag": "USA_100tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.02026825, "n_flagged": 8, "finished": "2026-10-29T00:53:41-0400"}
+{"tag": "KEN_160tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.050822, "n_flagged": 13, "finished": "2026-10-29T00:53:42-0400"}
+{"tag": "USA_160tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.06581575, "finished": "2026-10-29T00:53:45-0400"}
+{"tag": "KEN_160tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.053955750000000004, "finished": "2026-10-29T00:53:52-0400"}
+{"tag": "KEN_100tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0509695, "finished": "2026-10-29T00:53:54-0400"}
+{"tag": "NGA_100tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0460045, "finished": "2026-10-29T00:54:05-0400"}
+{"tag": "KEN_160tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0408909, "finished": "2026-10-29T00:54:08-0400"}
+{"tag": "NGA_160tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.032191199999999996, "finished": "2026-10-29T00:54:11-0400"}
+{"tag": "NGA_100tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.03818575, "finished": "2026-10-29T00:54:14-0400"}
+{"tag": "IND_40tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0161384, "finished": "2026-10-29T00:54:21-0400"}
+{"tag": "USA_160tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.05601950000000001, "finished": "2026-10-29T00:54:24-0400"}
+{"tag": "IND_160tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.06252575, "finished": "2026-10-29T00:54:27-0400"}
+{"tag": "NGA_100tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0381345, "finished": "2026-10-29T00:54:35-0400"}
+{"tag": "NGA_160tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.029151200000000002, "finished": "2026-10-29T00:54:37-0400"}
+{"tag": "USA_100tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0247709, "finished": "2026-10-29T00:54:44-0400"}
+{"tag": "KEN_100tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.037037, "finished": "2026-10-29T00:54:47-0400"}
+{"tag": "IND_100tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.09027199999999999, "finished": "2026-10-29T00:55:01-0400"}
+{"tag": "NGA_160tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.07635700000000001, "finished": "2026-10-29T00:55:03-0400"}
+{"tag": "IND_100tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.024091500000000002, "n_flagged": 8, "finished": "2026-10-29T00:55:08-0400"}
+{"tag": "KEN_100tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0151544, "finished": "2026-10-29T00:55:13-0400"}
+{"tag": "IND_160tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.06693575, "finished": "2026-10-29T00:55:22-0400"}
+{"tag": "IND_40tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.014434649999999999, "finished": "2026-10-29T00:55:24-0400"}
+{"tag": "IND_160tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.13598575, "finished": "2026-10-29T00:55:24-0400"}
+{"tag": "IND_160tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03807700000000001, "n_flagged": 13, "finished": "2026-10-29T00:55:32-0400"}
+{"tag": "KEN_100tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0292559, "finished": "2026-10-29T00:55:39-0400"}
+{"tag": "USA_100tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.042407, "finished": "2026-10-29T00:55:44-0400"}
+{"tag": "KEN_100tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0148644, "finished": "2026-10-29T00:55:49-0400"}
+{"tag": "NGA_40tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.01262025, "finished": "2026-10-29T00:55:55-0400"}
+{"tag": "NGA_160tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.13485699999999998, "finished": "2026-10-29T00:56:02-0400"}
+{"tag": "IND_40tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.025309499999999995, "finished": "2026-10-29T00:56:04-0400"}
+{"tag": "IND_40tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.010674, "n_flagged": 3, "finished": "2026-10-29T00:56:10-0400"}
+{"tag": "NGA_160tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.034000749999999996, "n_flagged": 13, "finished": "2026-10-29T00:56:10-0400"}
+{"tag": "NGA_100tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.09027074999999998, "finished": "2026-10-29T00:56:12-0400"}
+{"tag": "NGA_100tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.02570075, "n_flagged": 9, "finished": "2026-10-29T00:56:18-0400"}
+{"tag": "NGA_40tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.022202, "finished": "2026-10-29T00:56:20-0400"}
+{"tag": "KEN_40tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.02710575, "finished": "2026-10-29T00:56:31-0400"}
+{"tag": "KEN_160tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.059507, "finished": "2026-10-29T00:56:32-0400"}
+{"tag": "KEN_40tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.00908025, "n_flagged": 3, "finished": "2026-10-29T00:56:37-0400"}
+{"tag": "KEN_100tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.0940645, "finished": "2026-10-29T00:56:37-0400"}
+{"tag": "KEN_40tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.02007825, "finished": "2026-10-29T00:56:39-0400"}
+{"tag": "KEN_100tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0288595, "n_flagged": 8, "finished": "2026-10-29T00:56:44-0400"}
+{"tag": "IND_40tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.01716825, "finished": "2026-10-29T00:56:45-0400"}
+{"tag": "USA_40tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.017628249999999998, "finished": "2026-10-29T00:56:46-0400"}
+{"tag": "USA_40tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.012612749999999999, "finished": "2026-10-29T00:56:52-0400"}
+{"tag": "USA_160tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.022438400000000004, "finished": "2026-10-29T00:56:57-0400"}
+{"tag": "KEN_160tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.05930325, "finished": "2026-10-29T00:56:58-0400"}
+{"tag": "KEN_40tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.022647, "finished": "2026-10-29T00:57:06-0400"}
+{"tag": "KEN_100tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0216859, "finished": "2026-10-29T00:57:12-0400"}
+{"tag": "NGA_160tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0362834, "finished": "2026-10-29T00:57:13-0400"}
+{"tag": "USA_40tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0179709, "finished": "2026-10-29T00:57:20-0400"}
+{"tag": "USA_100tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.035657, "finished": "2026-10-29T00:57:22-0400"}
+{"tag": "IND_100tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.043135749999999994, "finished": "2026-10-29T00:57:26-0400"}
+{"tag": "NGA_40tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0032397000000000003, "finished": "2026-10-29T00:57:26-0400"}
+{"tag": "USA_40tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.014163249999999999, "finished": "2026-10-29T00:57:29-0400"}
+{"tag": "NGA_100tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.04360325, "finished": "2026-10-29T00:57:38-0400"}
+{"tag": "IND_160tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0242919, "finished": "2026-10-29T00:57:40-0400"}
+{"tag": "KEN_160tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.07617575, "finished": "2026-10-29T00:57:55-0400"}
+{"tag": "IND_160tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.04928465, "finished": "2026-10-29T00:57:55-0400"}
+{"tag": "NGA_160tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0526309, "finished": "2026-10-29T00:58:08-0400"}
+{"tag": "IND_160tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.060554500000000004, "finished": "2026-10-29T00:58:09-0400"}
+{"tag": "NGA_40tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.018192, "finished": "2026-10-29T00:58:17-0400"}
+{"tag": "KEN_40tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.01800965, "finished": "2026-10-29T00:58:22-0400"}
+{"tag": "IND_160tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.055137149999999996, "finished": "2026-10-29T00:58:25-0400"}
+{"tag": "KEN_40tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.01971075, "finished": "2026-10-29T00:58:30-0400"}
+{"tag": "USA_100tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08114324999999999, "finished": "2026-10-29T00:58:42-0400"}
+{"tag": "IND_100tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.043517, "finished": "2026-10-29T00:58:43-0400"}
+{"tag": "KEN_100tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.05837824999999999, "finished": "2026-10-29T00:58:43-0400"}
+{"tag": "USA_100tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.019802, "n_flagged": 8, "finished": "2026-10-29T00:58:49-0400"}
+{"tag": "KEN_100tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.021006999999999998, "n_flagged": 8, "finished": "2026-10-29T00:58:50-0400"}
+{"tag": "KEN_100tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.03962449999999999, "finished": "2026-10-29T00:59:01-0400"}
+{"tag": "USA_160tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0567245, "finished": "2026-10-29T00:59:03-0400"}
+{"tag": "NGA_160tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.04575714999999999, "finished": "2026-10-29T00:59:10-0400"}
+{"tag": "NGA_100tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0156365, "finished": "2026-10-29T00:59:11-0400"}
+{"tag": "NGA_100tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.04591200000000001, "finished": "2026-10-29T00:59:17-0400"}
+{"tag": "KEN_100tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.051777, "finished": "2026-10-29T00:59:24-0400"}
+{"tag": "USA_160tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0570595, "finished": "2026-10-29T00:59:24-0400"}
+{"tag": "IND_40tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.007526499999999999, "finished": "2026-10-29T00:59:30-0400"}
+{"tag": "KEN_40tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0074471, "finished": "2026-10-29T00:59:31-0400"}
+{"tag": "NGA_160tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0684945, "finished": "2026-10-29T00:59:34-0400"}
+{"tag": "IND_40tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.008021499999999999, "finished": "2026-10-29T00:59:39-0400"}
+{"tag": "USA_100tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.041602, "finished": "2026-10-29T00:59:46-0400"}
+{"tag": "USA_100tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.05636575, "finished": "2026-10-29T00:59:49-0400"}
+{"tag": "USA_100tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.019803249999999998, "n_flagged": 8, "finished": "2026-10-29T00:59:55-0400"}
+{"tag": "IND_100tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.04471075, "finished": "2026-10-29T00:59:59-0400"}
+{"tag": "IND_100tx_b", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08700325, "finished": "2026-10-29T01:00:04-0400"}
+{"tag": "IND_100tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0187338, "finished": "2026-10-29T01:00:06-0400"}
+{"tag": "KEN_40tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0090592, "finished": "2026-10-29T01:00:07-0400"}
+{"tag": "IND_100tx_b", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.024568249999999996, "n_flagged": 8, "finished": "2026-10-29T01:00:11-0400"}
+{"tag": "NGA_40tx_b", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.014308249999999998, "finished": "2026-10-29T01:00:13-0400"}
+{"tag": "USA_40tx_a", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.020692, "finished": "2026-10-29T01:00:14-0400"}
+{"tag": "IND_100tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.037108249999999995, "finished": "2026-10-29T01:00:21-0400"}
+{"tag": "KEN_160tx_a", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0194642, "finished": "2026-10-29T01:00:25-0400"}
+{"tag": "NGA_40tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0114816, "finished": "2026-10-29T01:00:30-0400"}
+{"tag": "NGA_100tx_a", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0383509, "finished": "2026-10-29T01:00:37-0400"}
+{"tag": "KEN_40tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0181959, "finished": "2026-10-29T01:00:39-0400"}
+{"tag": "NGA_100tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.040492, "finished": "2026-10-29T01:00:40-0400"}
+{"tag": "USA_40tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0165345, "finished": "2026-10-29T01:00:47-0400"}
+{"tag": "USA_160tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.05824325, "finished": "2026-10-29T01:00:50-0400"}
+{"tag": "IND_40tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.020895749999999998, "finished": "2026-10-29T01:00:55-0400"}
+{"tag": "KEN_40tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.02340075, "finished": "2026-10-29T01:00:59-0400"}
+{"tag": "USA_40tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0042914, "finished": "2026-10-29T01:01:05-0400"}
+{"tag": "KEN_160tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.08861324999999999, "finished": "2026-10-29T01:01:06-0400"}
+{"tag": "IND_40tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.036319500000000005, "finished": "2026-10-29T01:01:08-0400"}
+{"tag": "IND_40tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.010006499999999998, "n_flagged": 3, "finished": "2026-10-29T01:01:14-0400"}
+{"tag": "KEN_160tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.03119575, "n_flagged": 13, "finished": "2026-10-29T01:01:14-0400"}
+{"tag": "NGA_160tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.058847000000000003, "finished": "2026-10-29T01:01:18-0400"}
+{"tag": "USA_100tx_b", "fmt": "standard", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0144154, "finished": "2026-10-29T01:01:24-0400"}
+{"tag": "USA_40tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0112282, "finished": "2026-10-29T01:01:26-0400"}
+{"tag": "USA_100tx_a", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.055575749999999986, "finished": "2026-10-29T01:01:33-0400"}
+{"tag": "KEN_160tx_b", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.07567199999999999, "finished": "2026-10-29T01:01:39-0400"}
+{"tag": "USA_100tx_a", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.0189765, "n_flagged": 8, "finished": "2026-10-29T01:01:39-0400"}
+{"tag": "KEN_40tx_a", "fmt": "local", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.03411825, "finished": "2026-10-29T01:01:40-0400"}
+{"tag": "KEN_40tx_a", "fmt": "local", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.012515249999999999, "n_flagged": 3, "finished": "2026-10-29T01:01:46-0400"}
+{"tag": "USA_100tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0361895, "finished": "2026-10-29T01:01:49-0400"}
+{"tag": "USA_100tx_a", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.032907, "finished": "2026-10-29T01:01:57-0400"}
+{"tag": "IND_100tx_a", "fmt": "local", "arm": "REV2", "model": "claude-sonnet-5-5", "cost": 0.0455345, "finished": "2026-10-29T01:01:58-0400"}
+{"tag": "KEN_40tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.012425249999999999, "finished": "2026-10-29T01:02:03-0400"}
+{"tag": "NGA_160tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.04788089999999999, "finished": "2026-10-29T01:02:08-0400"}
+{"tag": "KEN_100tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.04688325, "finished": "2026-10-29T01:02:09-0400"}
+{"tag": "USA_40tx_a", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.021534499999999998, "finished": "2026-10-29T01:02:18-0400"}
+{"tag": "NGA_100tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.023077149999999998, "finished": "2026-10-29T01:02:18-0400"}
+{"tag": "IND_100tx_a", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0178548, "finished": "2026-10-29T01:02:19-0400"}
+{"tag": "IND_40tx_a", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.011312899999999999, "finished": "2026-10-29T01:02:29-0400"}
+{"tag": "IND_160tx_b", "fmt": "local", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.06939575, "finished": "2026-10-29T01:02:45-0400"}
+{"tag": "KEN_40tx_b", "fmt": "local", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.0314925, "finished": "2026-10-29T18:42:27-0400"}
+{"tag": "USA_100tx_b", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.052005, "finished": "2026-10-29T18:42:32-0400"}
+{"tag": "KEN_160tx_b", "fmt": "standard", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.0449345, "finished": "2026-10-29T18:42:41-0400"}
+{"tag": "USA_100tx_a", "fmt": "standard", "arm": "REV3", "model": "claude-sonnet-5-5", "cost": 0.034417, "finished": "2026-10-29T18:42:44-0400"}
+{"tag": "IND_40tx_a", "fmt": "standard", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.0200345, "finished": "2026-10-29T18:42:51-0400"}
+{"tag": "KEN_160tx_b", "fmt": "local", "arm": "TGT", "model": "claude-sonnet-5-5", "cost": 0.08092950000000002, "finished": "2026-10-29T18:42:53-0400"}
+{"tag": "NGA_40tx_b", "fmt": "local", "arm": "REVH", "model": "claude-haiku-5-5", "cost": 0.018970900000000002, "finished": "2026-10-29T18:43:01-0400"}
+{"tag": "NGA_160tx_b", "fmt": "standard", "arm": "REV1", "model": "claude-sonnet-5-5", "cost": 0.0545895, "finished": "2026-10-29T18:43:03-0400"}
+{"tag": "IND_100tx_b", "fmt": "standard", "arm": "REPRO", "model": "claude-sonnet-5-5", "cost": 0.058380749999999995, "finished": "2026-10-29T18:43:12-0400"}
+{"tag": "IND_100tx_b", "fmt": "standard", "arm": "RESOLVE", "model": "claude-sonnet-5-5", "cost": 0.020822, "n_flagged": 8, "finished": "2026-10-29T18:43:27-0400"}

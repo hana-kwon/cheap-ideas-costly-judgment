@@ -1,0 +1,108 @@
+[D001] GTBank alert: Acct:***4626 Amt:NGN3,960.00 DR Desc:TRF/transport money Date:01-OCT-25
+[D002] notebook 1/10: sales N36,627 cash
+[D003] OPay: You received N7,580.00 from Bisi Adeyemi 01/10/2025 -- note: sales
+[D004] notebook 2/10: sales N27,609 cash
+[D005] OPay: You sent N136,992.00 to Mama Nkechi Provisions 02/10/2025 -- note: goods from market
+[D006] receipt (handwritten): Mama Nkechi Provisions - goods from market - 2/10/25 - total N136,992 paid OPay
+[D007] OPay: You sent N131,304.00 to Mama Nkechi Provisions 02/10/2025 -- note: goods from market
+[D008] notebook 3/10: goods from market N90,000 cash
+[D009] OPay: You sent N30,876.00 to Mama Nkechi Provisions 03/10/2025 -- note: goods from market
+[D010] receipt (handwritten): Mama Nkechi Provisions - goods from market - 3/10/25 - total N30,876 paid OPay
+[D011] GTBank alert: Acct:***5752 Amt:NGN11,144.00 CR Desc:TRF/sales Date:03-OCT-25
+[D012] OPay: You sent N37,452.00 to Alaba Wholesale Ltd 03/10/2025 -- note: goods from market
+[D013] receipt (handwritten): Alaba Wholesale Ltd - goods from market - 3/10/25 - total N37,452 paid OPay
+[D014] GTBank alert: Acct:***2488 Amt:NGN3,576.00 DR Desc:TRF/recharge card Date:05-OCT-25
+[D015] OPay: You sent N5,736.00 to Chidi Okafor 05/10/2025 -- note: transport money
+[D016] GTBank alert: Acct:***7745 Amt:NGN13,731.00 CR Desc:TRF/sales Date:05-OCT-25
+[D017] notebook 5/10: sales N38,186 cash
+[D018] notebook 6/10: sales N37,456 cash
+[D019] GTBank alert: Acct:***3510 Amt:NGN35,928.00 CR Desc:TRF/sales Date:06-OCT-25
+[D020] notebook 6/10: goods from market N233,520 cash
+[D021] OPay: You received N28,514.00 from Bisi Adeyemi 07/10/2025 -- note: sales
+[D022] OPay: You sent N37,188.00 to Musa Bello 07/10/2025 -- note: money for house
+[D023] OPay: You sent N5,976.00 to Chidi Okafor 07/10/2025 -- note: transport money
+[D024] OPay: You sent N172,032.00 to Ojota Distributors 07/10/2025 -- note: goods from market
+[D025] OPay: You received N34,024.00 from Musa Bello 07/10/2025 -- note: sales
+[D026] OPay: You received N38,083.00 from Bisi Adeyemi 08/10/2025 -- note: sales
+[D027] notebook 8/10: goods from market N206,412 cash
+[D028] OPay: You received N29,891.00 from Bisi Adeyemi 08/10/2025 -- note: sales
+[D029] notebook 8/10: sales N38,179 cash
+[D030] OPay: You received N23,317.00 from Musa Bello 09/10/2025 -- note: sales
+[D031] notebook 9/10: sales N16,853 cash
+[D032] notebook 9/10: sales N41,700 cash
+[D033] GTBank alert: Acct:***4411 Amt:NGN38,533.00 CR Desc:TRF/sales Date:10-OCT-25
+[D034] OPay: You received N10,522.00 from Musa Bello 10/10/2025 -- note: sales
+[D035] OPay: You received N35,027.00 from Bisi Adeyemi 11/10/2025 -- note: sales
+[D036] OPay: You received N6,708.00 from Musa Bello 11/10/2025 -- note: sales
+[D037] notebook 12/10: sales N21,682 cash
+[D038] GTBank alert: Acct:***8515 Amt:NGN150,528.00 DR Desc:TRF/goods from market Date:12-OCT-25
+[D039] GTBank alert: Acct:***5906 Amt:NGN41,401.00 CR Desc:TRF/sales Date:12-OCT-25
+[D040] OPay: You received N3,182.00 from Chidi Okafor 13/10/2025 -- note: sales
+[D041] OPay: You sent N50,412.00 to Bisi Adeyemi 13/10/2025 -- note: money for house
+[D042] OPay: You sent N528.00 to Musa Bello 14/10/2025 -- note: charges
+[D043] notebook 14/10: recharge card N1,920 cash
+[D044] OPay: You received N34,978.00 from Bisi Adeyemi 14/10/2025 -- note: sales
+[D045] OPay: You received N23,719.00 from Musa Bello 14/10/2025 -- note: sales
+[D046] OPay: You received N11,071.00 from Musa Bello 14/10/2025 -- note: sales
+[D047] notebook 15/10: shop rent N168,528 cash
+[D048] GTBank alert: Acct:***6837 Amt:NGN4,221.00 CR Desc:TRF/sales Date:15-OCT-25
+[D049] notebook 15/10: sales N32,498 cash
+[D050] notebook 16/10: goods from market N75,876 cash
+[D051] OPay: You sent N28,908.00 to Mama Nkechi Provisions 16/10/2025 -- note: goods from market
+[D052] GTBank alert: Acct:***8683 Amt:NGN29,291.00 CR Desc:TRF/sales Date:16-OCT-25
+[D053] OPay: You sent N252.00 to Musa Bello 16/10/2025 -- note: charges
+[D054] OPay: You received N34,502.00 from Chidi Okafor 16/10/2025 -- note: sales
+[D055] notebook 16/10: shop rent N206,064 cash
+[D056] OPay: You received N10,954.00 from Bisi Adeyemi 17/10/2025 -- note: sales
+[D057] OPay: You received N21,122.00 from Bisi Adeyemi 17/10/2025 -- note: sales
+[D058] OPay: You sent N216,480.00 to Mama Nkechi Provisions 17/10/2025 -- note: goods from market
+[D059] receipt (handwritten): Mama Nkechi Provisions - goods from market - 17/10/25 - total N216,480 paid OPay
+[D060] notebook 17/10: sales N7,555 cash
+[D061] OPay: You sent N408.00 to Chidi Okafor 17/10/2025 -- note: charges
+[D062] notebook 17/10: sales N10,330 cash
+[D063] notebook 19/10: goods from market N90,984 cash
+[D064] GTBank alert: Acct:***5532 Amt:NGN118,572.00 DR Desc:TRF/goods from market Date:19-OCT-25
+[D065] notebook 19/10: goods from market N241,716 cash
+[D066] OPay: You received N3,657.00 from Chidi Okafor 19/10/2025 -- note: sales
+[D067] OPay: You received N11,841.00 from Bisi Adeyemi 19/10/2025 -- note: sales
+[D068] notebook 19/10: sales N5,468 cash
+[D069] GTBank alert: Acct:***5464 Amt:NGN26,014.00 CR Desc:TRF/sales Date:20-OCT-25
+[D070] OPay: You received N3,316.00 from Musa Bello 20/10/2025 -- note: sales
+[D071] OPay: You sent N103,176.00 to Ojota Distributors 20/10/2025 -- note: goods from market
+[D072] receipt (handwritten): Ojota Distributors - goods from market - 20/10/25 - total N103,176 paid OPay
+[D073] OPay: You sent N78,276.00 to Musa Bello 21/10/2025 -- note: salary for boy
+[D074] notebook 21/10: money for house N46,848 cash
+[D075] OPay: You received N25,766.00 from Chidi Okafor 22/10/2025 -- note: sales
+[D076] OPay: You received N9,078.00 from Musa Bello 22/10/2025 -- note: sales
+[D077] notebook 22/10: goods from market N74,436 cash
+[D078] notebook 22/10: transport money N5,088 cash
+[D079] OPay: You received N23,898.00 from Chidi Okafor 22/10/2025 -- note: sales
+[D080] notebook 22/10: money for house N45,612 cash
+[D081] OPay: You sent N159,228.00 to Mama Nkechi Provisions 23/10/2025 -- note: goods from market
+[D082] notebook 23/10: sales N43,926 cash
+[D083] notebook 23/10: goods from market N131,196 cash
+[D084] OPay: You received N10,801.00 from Chidi Okafor 23/10/2025 -- note: sales
+[D085] notebook 24/10: sales N4,428 cash
+[D086] OPay: You sent N103,920.00 to Alaba Wholesale Ltd 25/10/2025 -- note: goods from market
+[D087] OPay: You received N30,654.00 from Bisi Adeyemi 26/10/2025 -- note: sales
+[D088] notebook 26/10: goods from market N30,024 cash
+[D089] notebook 26/10: sales N40,865 cash
+[D090] notebook 27/10: sales N15,507 cash
+[D091] OPay: You received N25,747.00 from Bisi Adeyemi 27/10/2025 -- note: sales
+[D092] OPay: You sent N648.00 to Bisi Adeyemi 27/10/2025 -- note: charges
+[D093] OPay: You received N31,884.00 from Musa Bello 28/10/2025 -- note: sales
+[D094] notebook 29/10: NEPA light bill N36,552 cash
+[D095] OPay: You sent N67,212.00 to Bisi Adeyemi 29/10/2025 -- note: money for house
+[D096] GTBank alert: Acct:***3600 Amt:NGN91,920.00 DR Desc:TRF/goods from market Date:30-OCT-25
+[D097] receipt (handwritten): Mama Nkechi Provisions - goods from market - 30/10/25 - total N91,920 paid GTBank
+[D098] notebook 30/10: sales N43,268 cash
+[D099] GTBank alert: Acct:***1238 Amt:NGN6,636.00 DR Desc:TRF/transport money Date:30-OCT-25
+[D100] OPay: You received N16,626.00 from Bisi Adeyemi 30/10/2025 -- note: sales
+[D101] GTBank alert: Acct:***8121 Amt:NGN5,736.00 DR Desc:TRF/transport money Date:30-OCT-25
+[D102] OPay: You sent N2,940.00 to Musa Bello 31/10/2025 -- note: transport money
+[D103] OPay: You sent N43,980.00 to Ojota Distributors 31/10/2025 -- note: goods from market
+[D104] receipt (handwritten): Ojota Distributors - goods from market - 31/10/25 - total N43,980 paid OPay
+[D105] GTBank alert: Acct:***5821 Amt:NGN1,584.00 DR Desc:TRF/recharge card Date:31-OCT-25
+[D106] notebook 31/10: sales N28,976 cash
+[D107] OPay: You sent N293,052.00 to Ojota Distributors 31/10/2025 -- note: goods from market
+[D108] receipt (handwritten): Ojota Distributors - goods from market - 31/10/25 - total N293,052 paid OPay

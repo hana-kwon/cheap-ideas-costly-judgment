@@ -1,0 +1,1 @@
+{"decision": "approve", "reason": "The controls are all pre-period (the post-period collab_index_2023 is excluded), and the 2020 outcome is controlled for. The 1% outcome trim is a minor flaw, but on the full sample of 2000 firms the estimate is 0.75 (SE 0.23, p=0.001), so the positive conclusion holds. Adding the other 2020 covariates leaves it unchanged."}

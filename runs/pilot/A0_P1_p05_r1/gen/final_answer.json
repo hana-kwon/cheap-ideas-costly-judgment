@@ -1,0 +1,1 @@
+{"conclusion":"no effect","estimate":-0.275,"std_error":0.239,"p_value":0.249,"n_specifications_estimated":10,"preferred_specification":"OLS of 2023 patents per 100 engineers on remote_share with all pre-period controls (size, age, 2020 patents, firm characteristics, region, segment), HC1 SE; excludes post-treatment collab index"}

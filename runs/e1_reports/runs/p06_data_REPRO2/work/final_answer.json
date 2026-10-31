@@ -1,0 +1,1 @@
+{"conclusion": "no effect", "estimate": 0.0511, "std_error": 0.2471, "p_value": 0.836, "n_specifications_estimated": 7, "preferred_specification": "OLS of 2023 export growth on supplier diversity with full 2020 pre-period controls, HC1 SEs; excludes post-treatment buyer rating"}

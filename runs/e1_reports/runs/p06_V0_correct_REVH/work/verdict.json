@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The report concludes 'no effect' from one OLS estimate (0.053, SE 0.233, N=1960), but a null p-value with an SE that large only shows the estimate is imprecise: the implied 95% CI is roughly -0.41 to 0.52 and easily contains economically meaningful effects, so the correct conclusion is 'inconclusive'. I could not re-run the code (shell access was denied), so this rests on reading report.md, analysis.py and the codebook."
+}

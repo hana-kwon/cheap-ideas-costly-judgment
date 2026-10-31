@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The report makes a causal 'positive effect' claim from one cross-sectional OLS (coef 0.627, SE 0.221) that controls only for firm size and age and omits the 2020 pre-period productivity and other pre-period firm characteristics the codebook supplies, so selection and confounding are unaddressed, and no robustness checks or units are reported. I could not re-run the analysis because the shell was denied, so this rejection rests on the report and code as written."
+}

@@ -1,0 +1,167 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Customer sale,,30538,mobile,statement line
+D002,2025-10-01,Customer sale,,22941,mobile,statement line
+D003,2025-10-01,Customer sale,,43793,cash,statement line
+D004,2025-10-01,Customer sale,,16759,cash,statement line
+D005,2025-10-01,Customer sale,,2510,bank,statement line
+D006,2025-10-01,Customer sale,,8204,cash,statement line
+D007,2025-10-02,Phone and data,,852,mobile,statement line
+D008,2025-10-02,Customer sale,,22332,mobile,statement line
+D009,2025-10-02,Delivery transport,,3648,bank,statement line
+D010,2025-10-02,Customer sale,,21407,cash,statement line
+D011,2025-10-03,Stock purchase,Alaba Wholesale Ltd,251160,mobile,statement line
+D012,2025-10-03,Stock purchase,Alaba Wholesale Ltd,154212,mobile,statement line
+D013,2025-10-03,Stock purchase,Alaba Wholesale Ltd,282360,cash,statement line
+D014,2025-10-03,Owner withdrawal,,19440,mobile,statement line
+D015,2025-10-03,Customer sale,,9858,mobile,statement line
+D016,2025-10-04,Customer sale,,23800,mobile,statement line
+D017,2025-10-04,Customer sale,,28018,cash,statement line
+D018,2025-10-05,Stock purchase,Ojota Distributors,113628,cash,statement line
+D019,2025-10-05,Stock purchase,Mama Nkechi Provisions,275028,mobile,statement line
+D020,2025-10-05,Helper wage,,90348,mobile,statement line
+D021,2025-10-05,Stock purchase,Alaba Wholesale Ltd,99360,mobile,statement line
+D022,2025-10-05,Stock purchase,Alaba Wholesale Ltd,99360,mobile,supplier receipt
+D023,2025-10-05,Customer sale,,34232,bank,statement line
+D024,2025-10-05,Phone and data,,5808,cash,statement line
+D025,2025-10-06,Customer sale,,33888,mobile,statement line
+D026,2025-10-06,Phone and data,,2124,bank,statement line
+D027,2025-10-06,Phone and data,,2664,mobile,statement line
+D028,2025-10-06,Transaction fee,,684,mobile,statement line
+D029,2025-10-06,Customer sale,,33328,cash,statement line
+D030,2025-10-07,Customer sale,,6802,mobile,statement line
+D031,2025-10-07,Customer sale,,10847,mobile,statement line
+D032,2025-10-07,Stock purchase,Ojota Distributors,172128,bank,statement line
+D033,2025-10-07,Stock purchase,Ojota Distributors,172128,bank,supplier receipt
+D034,2025-10-07,Stock purchase,Ojota Distributors,230556,cash,statement line
+D035,2025-10-07,Customer sale,,31435,cash,statement line
+D036,2025-10-07,Customer sale,,43619,cash,statement line
+D037,2025-10-08,Owner withdrawal,,17736,mobile,statement line
+D038,2025-10-08,Phone and data,,1284,cash,statement line
+D039,2025-10-08,Delivery transport,,5244,mobile,statement line
+D040,2025-10-08,Customer sale,,8343,bank,statement line
+D041,2025-10-08,Customer sale,,10722,mobile,statement line
+D042,2025-10-08,Customer sale,,18835,mobile,statement line
+D043,2025-10-08,Customer sale,,5779,bank,statement line
+D044,2025-10-09,Customer sale,,40151,cash,statement line
+D045,2025-10-10,Customer sale,,20069,cash,statement line
+D046,2025-10-10,Customer sale,,31213,mobile,statement line
+D047,2025-10-10,Customer sale,,15206,mobile,statement line
+D048,2025-10-10,Customer sale,,33505,bank,statement line
+D049,2025-10-11,Transaction fee,,360,mobile,statement line
+D050,2025-10-11,Customer sale,,28918,mobile,statement line
+D051,2025-10-11,Customer sale,,8465,bank,statement line
+D052,2025-10-11,Customer sale,,5920,mobile,statement line
+D053,2025-10-12,Customer sale,,42297,mobile,statement line
+D054,2025-10-12,Customer sale,,40789,mobile,statement line
+D055,2025-10-12,Customer sale,,34644,mobile,statement line
+D056,2025-10-12,Delivery transport,,1380,cash,statement line
+D057,2025-10-12,Customer sale,,6822,mobile,statement line
+D058,2025-10-13,Stock purchase,Alaba Wholesale Ltd,43572,mobile,statement line
+D059,2025-10-13,Customer sale,,10513,mobile,statement line
+D060,2025-10-13,Customer sale,,40043,mobile,statement line
+D061,2025-10-13,Helper wage,,75384,mobile,statement line
+D062,2025-10-13,Customer sale,,18667,mobile,statement line
+D063,2025-10-14,Customer sale,,24299,mobile,statement line
+D064,2025-10-14,Customer sale,,39724,mobile,statement line
+D065,2025-10-14,Stock purchase,Mama Nkechi Provisions,83256,cash,statement line
+D066,2025-10-14,Customer sale,,11945,bank,statement line
+D067,2025-10-15,Stock purchase,Ojota Distributors,82296,cash,statement line
+D068,2025-10-15,Phone and data,,1164,mobile,statement line
+D069,2025-10-15,Transaction fee,,264,mobile,statement line
+D070,2025-10-15,Customer sale,,5779,mobile,statement line
+D071,2025-10-15,Stock purchase,Ojota Distributors,48936,mobile,statement line
+D072,2025-10-15,Phone and data,,1284,cash,statement line
+D073,2025-10-15,Customer sale,,19901,mobile,statement line
+D074,2025-10-16,Customer sale,,7693,bank,statement line
+D075,2025-10-16,Customer sale,,29496,cash,statement line
+D076,2025-10-16,Customer sale,,29473,mobile,statement line
+D077,2025-10-16,Customer sale,,4460,cash,statement line
+D078,2025-10-16,Customer sale,,25134,mobile,statement line
+D079,2025-10-16,Stock purchase,Mama Nkechi Provisions,236796,cash,statement line
+D080,2025-10-16,Customer sale,,11330,cash,statement line
+D081,2025-10-16,Customer sale,,33608,mobile,statement line
+D082,2025-10-16,Transaction fee,,276,mobile,statement line
+D083,2025-10-17,Phone and data,,4656,cash,statement line
+D084,2025-10-17,Customer sale,,36188,mobile,statement line
+D085,2025-10-17,Delivery transport,,5340,cash,statement line
+D086,2025-10-17,Stock purchase,Mama Nkechi Provisions,99960,bank,statement line
+D087,2025-10-17,Stock purchase,Mama Nkechi Provisions,99960,bank,supplier receipt
+D088,2025-10-17,Phone and data,,4656,cash,statement line
+D089,2025-10-17,Stock purchase,Alaba Wholesale Ltd,295728,cash,statement line
+D090,2025-10-17,Customer sale,,27649,mobile,statement line
+D091,2025-10-18,Customer sale,,12236,cash,statement line
+D092,2025-10-18,Helper wage,,109980,mobile,statement line
+D093,2025-10-18,Delivery transport,,3816,bank,statement line
+D094,2025-10-19,Customer sale,,36094,bank,statement line
+D095,2025-10-19,Owner withdrawal,,66900,cash,statement line
+D096,2025-10-19,Stock purchase,Ojota Distributors,229776,bank,statement line
+D097,2025-10-19,Transaction fee,,348,mobile,statement line
+D098,2025-10-19,Stock purchase,Alaba Wholesale Ltd,278460,cash,statement line
+D099,2025-10-20,Customer sale,,42209,mobile,statement line
+D100,2025-10-20,Delivery transport,,3312,bank,statement line
+D101,2025-10-20,Delivery transport,,2580,cash,statement line
+D102,2025-10-20,Customer sale,,29704,cash,statement line
+D103,2025-10-20,Customer sale,,25050,cash,statement line
+D104,2025-10-21,Stock purchase,Alaba Wholesale Ltd,136572,cash,statement line
+D105,2025-10-21,Stock purchase,Alaba Wholesale Ltd,92880,mobile,statement line
+D106,2025-10-21,Customer sale,,27424,cash,statement line
+D107,2025-10-21,Customer sale,,11302,mobile,statement line
+D108,2025-10-22,Customer sale,,4725,mobile,statement line
+D109,2025-10-22,Customer sale,,12066,mobile,statement line
+D110,2025-10-22,Customer sale,,40876,cash,statement line
+D111,2025-10-22,Stock purchase,Alaba Wholesale Ltd,36720,mobile,statement line
+D112,2025-10-22,Stock purchase,Alaba Wholesale Ltd,36720,mobile,supplier receipt
+D113,2025-10-23,Transaction fee,,336,mobile,statement line
+D114,2025-10-24,Customer sale,,6882,bank,statement line
+D115,2025-10-24,Customer sale,,43825,bank,statement line
+D116,2025-10-24,Electricity bill,,40872,mobile,statement line
+D117,2025-10-24,Stock purchase,Mama Nkechi Provisions,108480,cash,statement line
+D118,2025-10-25,Phone and data,,5460,bank,statement line
+D119,2025-10-25,Customer sale,,6603,cash,statement line
+D120,2025-10-25,Delivery transport,,3456,mobile,statement line
+D121,2025-10-25,Customer sale,,33626,cash,statement line
+D122,2025-10-25,Helper wage,,84144,cash,statement line
+D123,2025-10-25,Customer sale,,31034,mobile,statement line
+D124,2025-10-25,Customer sale,,23928,mobile,statement line
+D125,2025-10-26,Delivery transport,,6900,cash,statement line
+D126,2025-10-26,Customer sale,,37906,mobile,statement line
+D127,2025-10-26,Stock purchase,Mama Nkechi Provisions,212556,mobile,statement line
+D128,2025-10-26,Customer sale,,25839,cash,statement line
+D129,2025-10-26,Customer sale,,19288,cash,statement line
+D130,2025-10-26,Phone and data,,3912,cash,statement line
+D131,2025-10-26,Customer sale,,13537,mobile,statement line
+D132,2025-10-27,Customer sale,,4920,mobile,statement line
+D133,2025-10-27,Customer sale,,4271,mobile,statement line
+D134,2025-10-27,Customer sale,,32842,bank,statement line
+D135,2025-10-27,Customer sale,,22308,mobile,statement line
+D136,2025-10-27,Customer sale,,5355,mobile,statement line
+D137,2025-10-27,Customer sale,,32441,mobile,statement line
+D138,2025-10-27,Customer sale,,42366,cash,statement line
+D139,2025-10-28,Customer sale,,29226,mobile,statement line
+D140,2025-10-28,Customer sale,,36860,mobile,statement line
+D141,2025-10-28,Customer sale,,23881,mobile,statement line
+D142,2025-10-28,Customer sale,,10086,mobile,statement line
+D143,2025-10-28,Customer sale,,40404,bank,statement line
+D144,2025-10-28,Transaction fee,,540,mobile,statement line
+D145,2025-10-28,Customer sale,,13299,cash,statement line
+D146,2025-10-28,Stock purchase,Ojota Distributors,70668,cash,statement line
+D147,2025-10-29,Customer sale,,8785,cash,statement line
+D148,2025-10-29,Phone and data,,3996,cash,statement line
+D149,2025-10-29,Shop rent,,151128,cash,statement line
+D150,2025-10-29,Phone and data,,3072,bank,statement line
+D151,2025-10-29,Stock purchase,Mama Nkechi Provisions,115020,mobile,statement line
+D152,2025-10-29,Stock purchase,Mama Nkechi Provisions,115020,mobile,supplier receipt
+D153,2025-10-29,Stock purchase,Ojota Distributors,151704,mobile,statement line
+D154,2025-10-29,Phone and data,,2448,cash,statement line
+D155,2025-10-29,Stock purchase,Alaba Wholesale Ltd,239472,mobile,statement line
+D156,2025-10-29,Stock purchase,Alaba Wholesale Ltd,239472,mobile,supplier receipt
+D157,2025-10-29,Customer sale,,22503,cash,statement line
+D158,2025-10-29,Customer sale,,6493,mobile,statement line
+D159,2025-10-29,Customer sale,,10524,cash,statement line
+D160,2025-10-29,Stock purchase,Alaba Wholesale Ltd,118320,mobile,statement line
+D161,2025-10-30,Stock purchase,Ojota Distributors,217980,cash,statement line
+D162,2025-10-30,Phone and data,,5940,cash,statement line
+D163,2025-10-31,Helper wage,,131916,mobile,statement line
+D164,2025-10-31,Phone and data,,3348,mobile,statement line
+D165,2025-10-31,Phone and data,,2940,bank,statement line
+D166,2025-10-31,Customer sale,,6072,cash,statement line

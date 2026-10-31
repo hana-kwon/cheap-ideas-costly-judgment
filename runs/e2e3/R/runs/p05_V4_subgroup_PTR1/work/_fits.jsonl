@@ -1,0 +1,6 @@
+{"ts": 1793318577.8250859, "pid": 3745, "kind": "sm_regression", "endog": "y", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "p0"], "nobs": 2000}
+{"ts": 1793318577.839021, "pid": 3745, "kind": "sm_regression", "endog": "y", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "p0"], "nobs": 675}
+{"ts": 1793318577.86387, "pid": 3745, "kind": "sm_regression", "endog": "y", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "p0"], "nobs": 654}
+{"ts": 1793318577.8784242, "pid": 3745, "kind": "sm_regression", "endog": "y", "exog": ["Intercept", "remote_share", "log_engineers_2020", "firm_age_2020", "p0"], "nobs": 671}
+{"ts": 1793318577.939137, "pid": 3745, "kind": "sm_regression", "endog": "y", "exog": ["Intercept", "C(region)[T.north]", "C(region)[T.south]", "remote_share", "log_engineers_2020", "firm_age_2020", "p0", "p0:C(region)[T.north]", "p0:C(region)[T.south]"], "nobs": 2000}
+{"ts": 1793318578.025057, "pid": 3745, "kind": "sm_regression", "endog": "y", "exog": ["Intercept", "remote_share", "remote_share:C(region)[T.north]", "remote_share:C(region)[T.south]", "log_engineers_2020", "firm_age_2020", "p0"], "nobs": 2000}

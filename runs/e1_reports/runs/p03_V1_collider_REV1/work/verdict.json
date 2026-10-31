@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The negative estimate comes from controlling for buyer_rating_2023, a post-treatment variable that supplier diversity itself raises (coefficient 0.66). Controlling for it is a bad control. With only pre-period controls the effect is positive (about +0.69, SE 0.24; unadjusted +2.55), so the 'negative effect' conclusion is not supported."}

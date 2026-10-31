@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"Controls are all 2020 pre-period variables (the post-period buyer_rating_2023 is excluded) and the 2020 outcome is controlled for. The 1% outcome trim is not driving the result: on the full sample of 2000 firms the estimate is 0.69 (p=0.004), against 0.61 (p=0.008) in the report, and adding all other pre-period covariates leaves it unchanged."}

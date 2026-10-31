@@ -1,0 +1,12 @@
+row,doc_ids,date,account,pay,amount
+EDIT,4,D004,2025-10-02,SALES,CASH,27609
+EDIT,7,D008,2025-10-03,PURCHASES,CASH,90000
+EDIT,9,D011,2025-10-03,SALES,BANK,11144
+EDIT,39,D042,2025-10-14,BANKFEE,MOBILE,528
+EDIT,86,D091,2025-10-27,SALES,MOBILE,25747
+EDIT,89,D094,2025-10-29,UTILITIES,CASH,36552
+EDIT,90,D095,2025-10-29,DRAWINGS,MOBILE,67212
+
+The CSV's column order follows the header you specified, so each EDIT row lists the row number, then the doc ID, date, account, pay and amount.
+
+ANSWERS: author=The AI system; responsible=Me; approver=Me

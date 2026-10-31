@@ -1,0 +1,15 @@
+{"ts": 1792950050.416864, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "C(region)[T.north]", "C(region)[T.south]", "C(sector)[T.services]", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020", "listed", "export_share_2020", "foreign_owned", "family_owned", "rd_intensity_2020", "union_share_2020", "credit_score_2020"], "nobs": 2000}
+{"ts": 1792950050.472886, "pid": 25630, "kind": "sm_regression", "endog": "training_hours", "exog": ["Intercept", "listed"], "nobs": 2000}
+{"ts": 1792950050.476415, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "listed", "training_hours"], "nobs": 2000}
+{"ts": 1792950050.481994, "pid": 25630, "kind": "sm_regression", "endog": "training_hours", "exog": ["Intercept", "export_share_2020"], "nobs": 2000}
+{"ts": 1792950050.4902349, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "export_share_2020", "training_hours"], "nobs": 2000}
+{"ts": 1792950050.503293, "pid": 25630, "kind": "sm_regression", "endog": "training_hours", "exog": ["Intercept", "foreign_owned"], "nobs": 2000}
+{"ts": 1792950050.516879, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "foreign_owned", "training_hours"], "nobs": 2000}
+{"ts": 1792950050.5219998, "pid": 25630, "kind": "sm_regression", "endog": "training_hours", "exog": ["Intercept", "family_owned"], "nobs": 2000}
+{"ts": 1792950050.5279071, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "family_owned", "training_hours"], "nobs": 2000}
+{"ts": 1792950050.537279, "pid": 25630, "kind": "sm_regression", "endog": "training_hours", "exog": ["Intercept", "rd_intensity_2020"], "nobs": 2000}
+{"ts": 1792950050.539327, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "rd_intensity_2020", "training_hours"], "nobs": 2000}
+{"ts": 1792950050.555712, "pid": 25630, "kind": "sm_regression", "endog": "training_hours", "exog": ["Intercept", "union_share_2020"], "nobs": 2000}
+{"ts": 1792950050.565202, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "union_share_2020", "training_hours"], "nobs": 2000}
+{"ts": 1792950050.566855, "pid": 25630, "kind": "sm_regression", "endog": "training_hours", "exog": ["Intercept", "credit_score_2020"], "nobs": 2000}
+{"ts": 1792950050.572624, "pid": 25630, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "credit_score_2020", "training_hours"], "nobs": 2000}

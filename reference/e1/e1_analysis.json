@@ -1,0 +1,263 @@
+{
+ "confirmatory": {
+  "H1L_REV1_minus_REPRO_pass": {
+   "n": 48,
+   "mean": 0.0448,
+   "ci95": [
+    0.0246,
+    0.0681
+   ],
+   "p": 0.0001,
+   "p_holm": 0.0006
+  },
+  "H2L_dependence_REV123_miss": {
+   "rho": 0.847,
+   "n_eff": 1.114,
+   "ratio_all_vs_indep": 382.293,
+   "p_all_miss": 0.0365,
+   "p_indep": 0.0001,
+   "rho_boot_ci95": [
+    0.7431,
+    0.9273
+   ],
+   "p_one_sided": 0.0002,
+   "n_boot_valid": 2000,
+   "p_holm": 0.001
+  },
+  "H3L_REV1_minus_TGT_pass": {
+   "n": 48,
+   "mean": 0.0122,
+   "ci95": [
+    -0.002,
+    0.028
+   ],
+   "p": 0.15029,
+   "p_holm": 0.3006
+  },
+  "H1R_REV1_minus_REPRO_false_approval_wrong_concl": {
+   "n": 12,
+   "mean": 0.0,
+   "ci95": [
+    0.0,
+    0.0
+   ],
+   "p": 1.0,
+   "p_holm": 1.0
+  },
+  "H2R_dependence_REV123_approve_flawed": {
+   "rho": 0.9383,
+   "n_eff": 1.043,
+   "ratio_all_vs_indep": 10.286,
+   "p_all_miss": 0.2917,
+   "p_indep": 0.02836,
+   "rho_boot_ci95": [
+    0.8302,
+    1.0
+   ],
+   "p_one_sided": 0.0002,
+   "n_boot_valid": 2000,
+   "p_holm": 0.001
+  },
+  "H3R_REV1_minus_TGT_false_approval_flawed": {
+   "n": 24,
+   "mean": 0.25,
+   "ci95": [
+    0.0833,
+    0.4167
+   ],
+   "p": 0.0315,
+   "p_holm": 0.0945
+  }
+ },
+ "exploratory_L": {
+  "means_seeded": {
+   "REV1": {
+    "pass_": 0.0521,
+    "detect": 0.9479
+   },
+   "REV2": {
+    "pass_": 0.0469,
+    "detect": 0.9531
+   },
+   "REV3": {
+    "pass_": 0.0391,
+    "detect": 0.9609
+   },
+   "REVH": {
+    "pass_": 0.0443,
+    "detect": 0.9583
+   },
+   "TGT": {
+    "pass_": 0.0339,
+    "detect": 0.9661
+   },
+   "REPRO": {
+    "pass_": 0.0026,
+    "detect": 1.0
+   }
+  },
+  "false_alarm_correct_rows": {
+   "REV1": 0.0,
+   "REV2": 0.0,
+   "REV3": 0.0,
+   "REVH": 0.00136,
+   "TGT": 0.0,
+   "REPRO": 0.0
+  },
+  "harm_correct_rows": {
+   "REV1": 0.0,
+   "REV2": 0.0,
+   "REV3": 0.0,
+   "REVH": 0.00136,
+   "TGT": 0.0,
+   "REPRO": 0.0
+  },
+  "panel_detect_any_majority_all": {
+   "any": 0.9635,
+   "majority": 0.9557,
+   "all": 0.9427
+  },
+  "mixed_dependence_REV1_REV2_REVH": {
+   "rho": 0.4678,
+   "n_eff": 1.55,
+   "ratio_all_vs_indep": 102.4,
+   "p_all_miss": 0.0104,
+   "p_indep": 0.0001,
+   "rho_boot_ci95": [
+    0.3299,
+    0.6105
+   ],
+   "p_one_sided": 0.0002,
+   "n_boot_valid": 2000
+  },
+  "by_kind_pass": {
+   "pass_REV1": {
+    "account": 0.0139,
+    "amount": 0.0,
+    "channel": 0.1458,
+    "date": 0.1146
+   },
+   "pass_TGT": {
+    "account": 0.0139,
+    "amount": 0.0,
+    "channel": 0.0208,
+    "date": 0.1042
+   },
+   "pass_REPRO": {
+    "account": 0.0069,
+    "amount": 0.0,
+    "channel": 0.0,
+    "date": 0.0
+   }
+  },
+  "by_fmt_pass": {
+   "pass_REV1": {
+    "local": 0.0677,
+    "standard": 0.0365
+   },
+   "pass_TGT": {
+    "local": 0.0417,
+    "standard": 0.026
+   },
+   "pass_REPRO": {
+    "local": 0.0052,
+    "standard": 0.0
+   }
+  }
+ },
+ "exploratory_R": {
+  "false_approval_flawed": {
+   "REV1": 0.2917,
+   "REV2": 0.3333,
+   "REV3": 0.2917,
+   "REVH": 0.0417,
+   "TGT": 0.0417,
+   "REPRO": 0.5,
+   "CHK": 0.0
+  },
+  "false_approval_wrong_conclusion": {
+   "REV1": 0.0,
+   "REV2": 0.0,
+   "REV3": 0.0,
+   "REVH": 0.0,
+   "TGT": 0.0,
+   "REPRO": 0.0,
+   "CHK": 0.0
+  },
+  "false_approval_flawed_right_conclusion": {
+   "REV1": 0.5833,
+   "REV2": 0.6667,
+   "REV3": 0.5833,
+   "REVH": 0.0833,
+   "TGT": 0.0833,
+   "REPRO": 1.0,
+   "CHK": 0.0
+  },
+  "false_rejection_correct": {
+   "REV1": 0.0,
+   "REV2": 0.0,
+   "REV3": 0.0,
+   "REVH": 1.0,
+   "TGT": 0.3333,
+   "REPRO": 0.0,
+   "CHK": 0.0
+  },
+  "panel_approve_flawed_any_majority_all": {
+   "any": 0.3333,
+   "majority": 0.2917,
+   "all": 0.2917
+  },
+  "by_flaw_false_approval": {
+   "app_REV1": {
+    "collider": 0.0,
+    "no_controls": 0.0,
+    "omitted_prior": 1.0,
+    "subgroup_only": 0.167
+   },
+   "app_REV2": {
+    "collider": 0.0,
+    "no_controls": 0.0,
+    "omitted_prior": 1.0,
+    "subgroup_only": 0.333
+   },
+   "app_REV3": {
+    "collider": 0.0,
+    "no_controls": 0.0,
+    "omitted_prior": 1.0,
+    "subgroup_only": 0.167
+   },
+   "app_REVH": {
+    "collider": 0.0,
+    "no_controls": 0.0,
+    "omitted_prior": 0.167,
+    "subgroup_only": 0.0
+   },
+   "app_TGT": {
+    "collider": 0.0,
+    "no_controls": 0.0,
+    "omitted_prior": 0.167,
+    "subgroup_only": 0.0
+   },
+   "app_REPRO": {
+    "collider": 0.0,
+    "no_controls": 0.667,
+    "omitted_prior": 1.0,
+    "subgroup_only": 0.333
+   },
+   "app_CHK": {
+    "collider": 0.0,
+    "no_controls": 0.0,
+    "omitted_prior": 0.0,
+    "subgroup_only": 0.0
+   }
+  },
+  "missing_decisions": {
+   "REV1": 0,
+   "REV2": 0,
+   "REV3": 0,
+   "REVH": 0,
+   "TGT": 0,
+   "CHK": 0
+  }
+ }
+}

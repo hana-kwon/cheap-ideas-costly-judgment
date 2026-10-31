@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The report controls for buyer_rating_2023, which is measured after the treatment and is itself affected by supplier diversity (a mediator or collider). That control flips the estimate from about +0.69 (SE 0.24, with pre-period controls only) to -1.96, so the 'negative effect' conclusion is an artifact of a bad control."}

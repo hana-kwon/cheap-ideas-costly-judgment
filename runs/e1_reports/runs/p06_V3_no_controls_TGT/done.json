@@ -1,0 +1,1 @@
+{"id": "p06_V3_no_controls_TGT", "kind": "review", "dataset": "p06", "variant": "V3_no_controls", "arm": "TGT", "model": "claude-sonnet-5-5", "outcome": "reject", "cost": 0.0645478, "seconds": 26.7, "finished": "2026-10-29T01:01:17-0400"}

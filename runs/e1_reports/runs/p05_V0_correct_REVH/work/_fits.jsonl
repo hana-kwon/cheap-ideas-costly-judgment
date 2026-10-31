@@ -1,0 +1,3 @@
+{"ts": 1793249737.476248, "pid": 67387, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 1960}
+{"ts": 1793249737.4803772, "pid": 67387, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4", "x5", "x6", "x7", "x8", "x9", "x10", "x11"], "nobs": 2000}
+{"ts": 1793249737.484993, "pid": 67387, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 2000}

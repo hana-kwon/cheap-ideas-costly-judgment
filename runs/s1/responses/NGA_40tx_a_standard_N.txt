@@ -1,0 +1,15 @@
+Checking each draft row against the documents turned up three errors:
+
+- Row 19 (D019, 2025-10-15, 18145, cash) is a "Customer sale" but was booked as DRAWINGS. It should be SALES.
+- Row 21 (D021) has date 2025-10-16, but the document is dated 2025-10-15.
+- Row 36 (D037) has amount 6148, but the document says 6184.
+
+Row 33 (flagged) matches D033, and row 4 (flagged) matches D004. Row 34 correctly merges D034 and D035, which describe the same transaction.
+
+```csv
+action,row,doc_ids,date,account,pay,amount
+EDIT,19,D019,2025-10-15,SALES,CASH,18145
+EDIT,21,D021,2025-10-15,BANKFEE,MOBILE,564
+EDIT,36,D037,2025-10-28,SALES,CASH,6184
+```
+ANSWERS: author=The AI system; responsible=The shop owner; approver=The shop owner

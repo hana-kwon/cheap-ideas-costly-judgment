@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The causal conclusion of a positive effect rests on one unadjusted cross-sectional OLS with no controls, even though the data include pre-period (2020) firm characteristics such as prior patent rate, size and age that plausibly confound remote_share and 2023 patents, and the report gives no robustness checks. I could not re-run the analysis because shell execution was denied, so the sensitivity of the estimate to these controls is unverified, but the evidence is insufficient to release the conclusion as stated."
+}

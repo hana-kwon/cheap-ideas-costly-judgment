@@ -1,0 +1,5 @@
+{"ts": 1793313805.177409, "pid": 76047, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 633}
+{"ts": 1793313805.178953, "pid": 76047, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 647}
+{"ts": 1793313805.180657, "pid": 76047, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 1960}
+{"ts": 1793313805.1845388, "pid": 76047, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 2000}
+{"ts": 1793313805.191124, "pid": 76047, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4", "x5"], "nobs": 2000}

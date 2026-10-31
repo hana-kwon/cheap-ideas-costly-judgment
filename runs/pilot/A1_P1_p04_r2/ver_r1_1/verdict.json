@@ -1,0 +1,1 @@
+{"decision": "approve", "reason": "I re-ran the preferred model and got the reported +0.841 (SE 0.241). It adjusts for all pre-period covariates, including lagged productivity, and correctly leaves out the post-treatment mgmt_rating_2023. The report lists all 7 specifications and hedges the causal reading appropriately."}

@@ -1,0 +1,1 @@
+{"conclusion":"no effect","estimate":0.051,"std_error":0.247,"p_value":0.836,"n_specifications_estimated":7,"preferred_specification":"OLS with HC1 SE, full pre-treatment controls (2020 covariates, region, listed, product group); excludes post-treatment buyer_rating_2023"}

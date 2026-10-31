@@ -1,0 +1,14 @@
+Checking row by row against the documents, I found three errors:
+
+- Row 4 (D004): a $122 Venmo receipt with the note "sales" was booked as DRAWINGS, so the account should be SALES.
+- Row 10 (D011): the notebook entry is dated 10/11, but the draft says 2025-10-12, so the date should be 2025-10-11.
+- Row 17 (D018): the notebook says $91, but the draft has 19, so the amount should be 91.
+
+All other rows match their source documents.
+
+```csv
+row,action,doc_ids,date,account,pay,amount
+4,EDIT,D004,2025-10-04,SALES,MOBILE,122
+10,EDIT,D011,2025-10-11,RENT,CASH,600
+17,EDIT,D018,2025-10-14,DRAWINGS,CASH,91
+```

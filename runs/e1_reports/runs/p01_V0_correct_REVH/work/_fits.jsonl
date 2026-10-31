@@ -1,0 +1,5 @@
+{"ts": 1793249359.402462, "pid": 49822, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020"], "nobs": 1960}
+{"ts": 1793249359.408363, "pid": 49822, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours", "log_employees_2020", "firm_age_2020"], "nobs": 1960}
+{"ts": 1793249359.4104419, "pid": 49822, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020", "export_share_2020", "foreign_owned", "family_owned", "rd_intensity_2020", "union_share_2020", "credit_score_2020", "listed"], "nobs": 1960}
+{"ts": 1793249359.525444, "pid": 49822, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020", "mgmt_rating_2023"], "nobs": 1960}
+{"ts": 1793249359.531762, "pid": 49822, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["const", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020"], "nobs": 2000}

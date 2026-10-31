@@ -1,0 +1,17 @@
+{
+ "source_name": "pilot_261025",
+ "files_copied": 939,
+ "files_changed": 133,
+ "files_excluded": 132,
+ "non_utf8_files": 0,
+ "replacements_by_rule": {
+  "<run_root>": 941,
+  "<ledger_run_root>": 0,
+  "<home>": 39,
+  "<user>": 0
+ },
+ "excluded_names": [
+  "data.csv"
+ ],
+ "excluded_dirs": []
+}

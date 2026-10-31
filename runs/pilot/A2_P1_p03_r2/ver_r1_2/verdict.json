@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reran the analysis and got the same numbers: +0.69 (SE 0.24, p=0.004) with pre-period controls, and a quadratic term adds nothing. Leaving out the post-treatment buyer_rating_2023 is justified, and the report states all 5 specifications and its causal caveat openly."}

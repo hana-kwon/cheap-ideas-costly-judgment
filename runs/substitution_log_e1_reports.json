@@ -1,0 +1,17 @@
+{
+ "source_name": "e1R_261029",
+ "files_copied": 1443,
+ "files_changed": 172,
+ "files_excluded": 0,
+ "non_utf8_files": 0,
+ "replacements_by_rule": {
+  "<run_root>": 1084,
+  "<ledger_run_root>": 0,
+  "<home>": 97,
+  "<user>": 84
+ },
+ "excluded_names": [],
+ "excluded_dirs": [
+  "failed_cap_261029"
+ ]
+}

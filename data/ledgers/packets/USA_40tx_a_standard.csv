@@ -1,0 +1,43 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-02,Customer sale,,231,cash,statement line
+D002,2025-10-02,Customer sale,,230,bank,statement line
+D003,2025-10-03,Customer sale,,127,bank,statement line
+D004,2025-10-03,Stock purchase,Costco Business Center,713,mobile,statement line
+D005,2025-10-03,Customer sale,,51,mobile,statement line
+D006,2025-10-03,Helper wage,,190,mobile,statement line
+D007,2025-10-04,Customer sale,,163,cash,statement line
+D008,2025-10-04,Stock purchase,Costco Business Center,238,mobile,statement line
+D009,2025-10-06,Delivery transport,,12,mobile,statement line
+D010,2025-10-07,Delivery transport,,7,mobile,statement line
+D011,2025-10-08,Customer sale,,69,cash,statement line
+D012,2025-10-10,Customer sale,,166,cash,statement line
+D013,2025-10-10,Stock purchase,Costco Business Center,632,mobile,statement line
+D014,2025-10-10,Stock purchase,Costco Business Center,632,mobile,supplier receipt
+D015,2025-10-11,Stock purchase,Sysco Supply,369,mobile,statement line
+D016,2025-10-11,Customer sale,,56,cash,statement line
+D017,2025-10-12,Shop rent,,528,mobile,statement line
+D018,2025-10-13,Stock purchase,Costco Business Center,215,mobile,statement line
+D019,2025-10-13,Stock purchase,Costco Business Center,215,mobile,supplier receipt
+D020,2025-10-14,Customer sale,,125,bank,statement line
+D021,2025-10-15,Customer sale,,176,bank,statement line
+D022,2025-10-17,Phone and data,,12,cash,statement line
+D023,2025-10-17,Delivery transport,,17,mobile,statement line
+D024,2025-10-18,Customer sale,,249,mobile,statement line
+D025,2025-10-18,Customer sale,,156,mobile,statement line
+D026,2025-10-20,Customer sale,,40,bank,statement line
+D027,2025-10-20,Delivery transport,,4,cash,statement line
+D028,2025-10-21,Transaction fee,,1,mobile,statement line
+D029,2025-10-22,Customer sale,,72,mobile,statement line
+D030,2025-10-22,Owner withdrawal,,98,mobile,statement line
+D031,2025-10-22,Owner withdrawal,,114,mobile,statement line
+D032,2025-10-23,Customer sale,,113,mobile,statement line
+D033,2025-10-24,Customer sale,,136,cash,statement line
+D034,2025-10-24,Delivery transport,,4,mobile,statement line
+D035,2025-10-25,Phone and data,,12,cash,statement line
+D036,2025-10-25,Customer sale,,188,mobile,statement line
+D037,2025-10-26,Customer sale,,153,cash,statement line
+D038,2025-10-26,Customer sale,,130,mobile,statement line
+D039,2025-10-26,Delivery transport,,4,mobile,statement line
+D040,2025-10-29,Customer sale,,134,bank,statement line
+D041,2025-10-31,Transaction fee,,1,mobile,statement line
+D042,2025-10-31,Owner withdrawal,,111,bank,statement line

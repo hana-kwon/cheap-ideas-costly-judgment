@@ -1,0 +1,105 @@
+doc_id,date,description,counterparty,amount,payment_channel,document_type
+D001,2025-10-01,Customer sale,,20981,cash,statement line
+D002,2025-10-01,Customer sale,,16784,cash,statement line
+D003,2025-10-01,Customer sale,,31510,mobile,statement line
+D004,2025-10-02,Customer sale,,30757,cash,statement line
+D005,2025-10-03,Helper wage,,80856,mobile,statement line
+D006,2025-10-03,Customer sale,,21573,mobile,statement line
+D007,2025-10-03,Phone and data,,5112,mobile,statement line
+D008,2025-10-04,Customer sale,,1535,cash,statement line
+D009,2025-10-04,Phone and data,,804,mobile,statement line
+D010,2025-10-04,Customer sale,,27646,mobile,statement line
+D011,2025-10-05,Owner withdrawal,,30636,bank,statement line
+D012,2025-10-05,Customer sale,,44172,cash,statement line
+D013,2025-10-05,Stock purchase,Mama Nkechi Provisions,282828,mobile,statement line
+D014,2025-10-05,Stock purchase,Mama Nkechi Provisions,282828,mobile,supplier receipt
+D015,2025-10-05,Transaction fee,,372,mobile,statement line
+D016,2025-10-06,Customer sale,,9513,mobile,statement line
+D017,2025-10-06,Owner withdrawal,,53952,bank,statement line
+D018,2025-10-06,Helper wage,,84072,cash,statement line
+D019,2025-10-06,Customer sale,,36989,mobile,statement line
+D020,2025-10-07,Stock purchase,Mama Nkechi Provisions,87096,cash,statement line
+D021,2025-10-07,Customer sale,,26206,mobile,statement line
+D022,2025-10-07,Customer sale,,39586,cash,statement line
+D023,2025-10-08,Customer sale,,9158,mobile,statement line
+D024,2025-10-08,Owner withdrawal,,54408,mobile,statement line
+D025,2025-10-09,Phone and data,,3048,cash,statement line
+D026,2025-10-10,Customer sale,,38485,mobile,statement line
+D027,2025-10-10,Delivery transport,,2676,cash,statement line
+D028,2025-10-10,Customer sale,,24686,mobile,statement line
+D029,2025-10-11,Helper wage,,96972,mobile,statement line
+D030,2025-10-11,Customer sale,,13474,cash,statement line
+D031,2025-10-11,Helper wage,,100092,mobile,statement line
+D032,2025-10-12,Customer sale,,21567,mobile,statement line
+D033,2025-10-12,Stock purchase,Mama Nkechi Provisions,270708,cash,statement line
+D034,2025-10-12,Customer sale,,29562,cash,statement line
+D035,2025-10-12,Customer sale,,23129,cash,statement line
+D036,2025-10-12,Customer sale,,6055,cash,statement line
+D037,2025-10-13,Customer sale,,26678,mobile,statement line
+D038,2025-10-13,Stock purchase,Ojota Distributors,57864,bank,statement line
+D039,2025-10-13,Customer sale,,27277,mobile,statement line
+D040,2025-10-14,Stock purchase,Ojota Distributors,123108,bank,statement line
+D041,2025-10-14,Stock purchase,Ojota Distributors,123108,bank,supplier receipt
+D042,2025-10-15,Customer sale,,2401,mobile,statement line
+D043,2025-10-15,Phone and data,,5628,bank,statement line
+D044,2025-10-16,Customer sale,,3185,mobile,statement line
+D045,2025-10-16,Customer sale,,13237,cash,statement line
+D046,2025-10-17,Delivery transport,,1500,bank,statement line
+D047,2025-10-17,Stock purchase,Ojota Distributors,28992,cash,statement line
+D048,2025-10-18,Stock purchase,Ojota Distributors,115656,mobile,statement line
+D049,2025-10-18,Stock purchase,Mama Nkechi Provisions,59460,bank,statement line
+D050,2025-10-18,Phone and data,,5280,bank,statement line
+D051,2025-10-18,Customer sale,,28987,cash,statement line
+D052,2025-10-19,Customer sale,,44106,cash,statement line
+D053,2025-10-19,Customer sale,,23893,cash,statement line
+D054,2025-10-19,Customer sale,,3387,mobile,statement line
+D055,2025-10-19,Customer sale,,26958,mobile,statement line
+D056,2025-10-19,Customer sale,,38315,cash,statement line
+D057,2025-10-20,Stock purchase,Alaba Wholesale Ltd,103992,mobile,statement line
+D058,2025-10-20,Stock purchase,Alaba Wholesale Ltd,103992,mobile,supplier receipt
+D059,2025-10-20,Customer sale,,12311,mobile,statement line
+D060,2025-10-20,Customer sale,,11991,bank,statement line
+D061,2025-10-20,Delivery transport,,7020,mobile,statement line
+D062,2025-10-20,Stock purchase,Alaba Wholesale Ltd,252852,cash,statement line
+D063,2025-10-20,Customer sale,,19111,cash,statement line
+D064,2025-10-20,Customer sale,,43130,mobile,statement line
+D065,2025-10-21,Stock purchase,Mama Nkechi Provisions,95064,cash,statement line
+D066,2025-10-21,Transaction fee,,492,mobile,statement line
+D067,2025-10-21,Customer sale,,7248,mobile,statement line
+D068,2025-10-21,Customer sale,,26896,cash,statement line
+D069,2025-10-21,Customer sale,,19936,cash,statement line
+D070,2025-10-22,Phone and data,,4800,mobile,statement line
+D071,2025-10-22,Customer sale,,43720,mobile,statement line
+D072,2025-10-22,Customer sale,,7559,mobile,statement line
+D073,2025-10-22,Customer sale,,40483,cash,statement line
+D074,2025-10-22,Customer sale,,31676,mobile,statement line
+D075,2025-10-23,Stock purchase,Alaba Wholesale Ltd,164376,cash,statement line
+D076,2025-10-23,Customer sale,,44079,cash,statement line
+D077,2025-10-23,Customer sale,,32739,cash,statement line
+D078,2025-10-23,Phone and data,,5424,cash,statement line
+D079,2025-10-24,Stock purchase,Alaba Wholesale Ltd,98940,mobile,statement line
+D080,2025-10-24,Stock purchase,Alaba Wholesale Ltd,98940,mobile,supplier receipt
+D081,2025-10-24,Owner withdrawal,,15732,cash,statement line
+D082,2025-10-24,Stock purchase,Alaba Wholesale Ltd,91200,cash,statement line
+D083,2025-10-24,Electricity bill,,35460,cash,statement line
+D084,2025-10-25,Customer sale,,10459,mobile,statement line
+D085,2025-10-25,Helper wage,,119664,cash,statement line
+D086,2025-10-25,Transaction fee,,420,mobile,statement line
+D087,2025-10-26,Customer sale,,32698,mobile,statement line
+D088,2025-10-26,Customer sale,,32720,bank,statement line
+D089,2025-10-27,Customer sale,,13035,mobile,statement line
+D090,2025-10-27,Transaction fee,,528,mobile,statement line
+D091,2025-10-27,Customer sale,,23854,cash,statement line
+D092,2025-10-28,Customer sale,,32473,cash,statement line
+D093,2025-10-29,Customer sale,,27025,cash,statement line
+D094,2025-10-29,Customer sale,,2158,bank,statement line
+D095,2025-10-29,Customer sale,,31772,mobile,statement line
+D096,2025-10-29,Customer sale,,22381,mobile,statement line
+D097,2025-10-29,Customer sale,,31455,mobile,statement line
+D098,2025-10-31,Helper wage,,133296,bank,statement line
+D099,2025-10-31,Phone and data,,4152,mobile,statement line
+D100,2025-10-31,Customer sale,,25930,bank,statement line
+D101,2025-10-31,Customer sale,,35529,mobile,statement line
+D102,2025-10-31,Helper wage,,79848,mobile,statement line
+D103,2025-10-31,Customer sale,,35583,bank,statement line
+D104,2025-10-31,Transaction fee,,420,mobile,statement line

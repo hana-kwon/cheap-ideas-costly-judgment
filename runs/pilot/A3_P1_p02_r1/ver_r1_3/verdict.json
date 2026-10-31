@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the preferred regression and got the reported +0.75 (SE 0.23, p=0.001). It holds up across segments and with a quadratic term. Leaving out the post-treatment collaboration index is the right call, all specifications are disclosed, and the report states the residual confounding caveat."}

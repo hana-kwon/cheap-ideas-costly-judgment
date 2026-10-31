@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The negative estimate (-1.96) comes from controlling for buyer_rating_2023, a 2023 post-treatment variable that is affected by both supplier diversity and export growth, so it acts as a collider. Without it, the effect is positive (about +0.69 with pre-period controls, SE 0.24), so the sign flips and the conclusion is not supported."}

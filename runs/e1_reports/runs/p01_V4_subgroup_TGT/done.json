@@ -1,0 +1,1 @@
+{"id": "p01_V4_subgroup_TGT", "kind": "review", "dataset": "p01", "variant": "V4_subgroup", "arm": "TGT", "model": "claude-sonnet-5-5", "outcome": "reject", "cost": 0.04679315, "seconds": 17.0, "finished": "2026-10-29T00:43:28-0400"}

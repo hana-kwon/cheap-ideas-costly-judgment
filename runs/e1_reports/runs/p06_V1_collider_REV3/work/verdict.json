@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The negative effect comes from controlling for buyer_rating_2023, a 2023 post-treatment variable (a collider/mediator, correlated with both supplier_diversity and the outcome). Without it, or with the pre-period controls only, the supplier_diversity coefficient is about +0.05 (SE 0.25), which is null, so the conclusion is not supported."}

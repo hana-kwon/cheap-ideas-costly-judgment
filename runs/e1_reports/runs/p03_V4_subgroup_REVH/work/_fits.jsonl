@@ -1,0 +1,6 @@
+{"ts": 1793248823.3406038, "pid": 23333, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 634}
+{"ts": 1793248823.342218, "pid": 23333, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1"], "nobs": 1960}
+{"ts": 1793248823.343978, "pid": 23333, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 1960}
+{"ts": 1793248823.3467278, "pid": 23333, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 634}
+{"ts": 1793248823.3509839, "pid": 23333, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 664}
+{"ts": 1793248823.3619268, "pid": 23333, "kind": "sm_regression", "endog": "y", "exog": ["const", "x1", "x2", "x3", "x4"], "nobs": 660}

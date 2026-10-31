@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"The design controls for pre-period confounders (size, tenure, lagged export growth) and correctly excludes the post-treatment buyer_rating_2023. The positive estimate stays at about 0.69 (p<0.005) when I add the other 2020 covariates and the categorical controls, or drop the 1% trim, so the conclusion holds."}

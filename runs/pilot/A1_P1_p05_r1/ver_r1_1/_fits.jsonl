@@ -1,0 +1,13 @@
+{"ts": 1792948589.97744, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "log_engineers_2020"], "nobs": 2000}
+{"ts": 1792948589.9815302, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "firm_age_2020"], "nobs": 2000}
+{"ts": 1792948589.984104, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "patents_per_100_eng_2020"], "nobs": 2000}
+{"ts": 1792948589.986527, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "vc_backed"], "nobs": 2000}
+{"ts": 1792948589.989134, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "founder_ceo"], "nobs": 2000}
+{"ts": 1792948589.991391, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "cloud_spend_2020"], "nobs": 2000}
+{"ts": 1792948589.993728, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "hq_in_hub_city"], "nobs": 2000}
+{"ts": 1792948589.996127, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "share_phd_2020"], "nobs": 2000}
+{"ts": 1792948589.998477, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "gross_margin_2020"], "nobs": 2000}
+{"ts": 1792948590.002702, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "C(region)[T.north]", "C(region)[T.south]", "remote_share"], "nobs": 2000}
+{"ts": 1792948590.005418, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "remote_share", "listed"], "nobs": 2000}
+{"ts": 1792948590.009797, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "C(segment)[T.software]", "remote_share"], "nobs": 2000}
+{"ts": 1792948590.021149, "pid": 78789, "kind": "sm_regression", "endog": "patents_per_100_eng_2023", "exog": ["Intercept", "C(region)[T.north]", "C(region)[T.south]", "C(segment)[T.software]", "remote_share", "log_engineers_2020", "firm_age_2020", "patents_per_100_eng_2020", "vc_backed", "founder_ceo", "cloud_spend_2020", "hq_in_hub_city", "share_phd_2020", "gross_margin_2020", "listed"], "nobs": 2000}

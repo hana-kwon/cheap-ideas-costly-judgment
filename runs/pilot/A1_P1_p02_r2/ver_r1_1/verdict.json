@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reproduced the preferred estimate (0.750, HC1 SE 0.231). It holds up when I trim outliers (0.67) and add a quadratic term. The report correctly leaves out the post-treatment collab index, lists all seven specifications, and says plainly that the estimate is observational and the effect is small."}

@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The 'no effect' conclusion rests on a single post hoc choice (central-region subsample with three controls, one specification), and it is not robust: the same regression gives +1.3 to +1.6 without controls (p<0.001), -0.31 on the full sample with the report's controls (p=0.17), -1.0 in the south region (p=0.006), and -2.7 on the full sample with all pre-period controls (p<0.001). A non-significant estimate with SE 0.38 in one subsample does not establish 'no effect', and the report does not disclose the specification sensitivity."
+}

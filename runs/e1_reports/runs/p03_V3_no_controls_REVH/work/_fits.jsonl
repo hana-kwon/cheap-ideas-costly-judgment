@@ -1,0 +1,14 @@
+{"ts": 1793249867.602459, "pid": 74023, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity"], "nobs": 1960}
+{"ts": 1793249867.6037602, "pid": 74023, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity"], "nobs": 2000}
+{"ts": 1793249867.605561, "pid": 74023, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity"], "nobs": 1960}
+{"ts": 1793249867.606884, "pid": 74023, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["const", "supplier_diversity", "log_sales_2020", "years_exporting_2020", "export_growth_2020", "inventory_days_2020", "foreign_owned", "share_imported_inputs_2020", "port_distance_km", "certified_iso", "debt_ratio_2020", "listed"], "nobs": 1960}
+{"ts": 1793249867.6122508, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "log_sales_2020"], "nobs": 1960}
+{"ts": 1793249867.613499, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "years_exporting_2020"], "nobs": 1960}
+{"ts": 1793249867.617216, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "export_growth_2020"], "nobs": 1960}
+{"ts": 1793249867.619615, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "inventory_days_2020"], "nobs": 1960}
+{"ts": 1793249867.623295, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "foreign_owned"], "nobs": 1960}
+{"ts": 1793249867.627237, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "share_imported_inputs_2020"], "nobs": 1960}
+{"ts": 1793249867.630166, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "port_distance_km"], "nobs": 1960}
+{"ts": 1793249867.63134, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "certified_iso"], "nobs": 1960}
+{"ts": 1793249867.6367621, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "debt_ratio_2020"], "nobs": 1960}
+{"ts": 1793249867.6431592, "pid": 74023, "kind": "sm_regression", "endog": "supplier_diversity", "exog": ["const", "listed"], "nobs": 1960}

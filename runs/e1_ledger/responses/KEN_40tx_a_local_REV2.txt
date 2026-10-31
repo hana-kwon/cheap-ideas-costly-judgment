@@ -1,0 +1,12 @@
+Checking the draft against the documents turned up three errors:
+
+- Row 14: D014 is "stima KPLC", an electricity bill, so the account should be UTILITIES, not AIRTIME.
+- Row 16: D016 is dated 13/10, but the draft has 2025-10-14.
+- Row 38: D038 shows 928, but the draft has 298.
+
+Rows 6 and 30 are flagged but check out. D006 is a cash sale, and "pesa ya nyumbani" (money for home) is correctly DRAWINGS.
+
+row,action,doc_ids,date,account,pay,amount
+14,EDIT,D014,2025-10-11,UTILITIES,CASH,2630
+16,EDIT,D016,2025-10-13,TRANSPORT,CASH,216
+38,EDIT,D038,2025-10-27,SALES,MOBILE,928

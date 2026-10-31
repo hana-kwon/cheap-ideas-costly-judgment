@@ -1,0 +1,8 @@
+{
+ "conclusion": "no effect",
+ "estimate": 0.1217,
+ "std_error": 0.3829,
+ "p_value": 0.75068,
+ "n_specifications_estimated": 1,
+ "preferred_specification": "controls=confounders; sample=region_central; outcome=level; trim=1%"
+}

@@ -1,0 +1,13 @@
+Checking the draft against the documents turned up three wrong rows and one wrong date:
+
+- Row 10 (D010) is a customer sale of 2256 by bank, but the draft books it as DRAWINGS.
+- Row 16 (D016) has the amount transposed: the document says 216, the draft says 261.
+- Row 39 (D039) is dated 2025-10-29, but the document says 2025-10-28.
+- Row 33 (D033) is a stock purchase from MAMA MBOGA STORES for 8830 by mobile. It matches the draft, so I left it unchanged.
+
+```
+row,action,doc_ids,date,account,pay,amount
+10,EDIT,D010,2025-10-08,SALES,BANK,2256
+16,EDIT,D016,2025-10-13,TRANSPORT,CASH,216
+39,EDIT,D039,2025-10-28,TRANSPORT,CASH,564
+```

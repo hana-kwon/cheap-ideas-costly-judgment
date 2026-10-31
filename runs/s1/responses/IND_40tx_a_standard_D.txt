@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-08,SALES,MOBILE,2089
+7,EDIT,D007,2025-10-09,TRANSPORT,CASH,212
+9,EDIT,D009,2025-10-12,SALES,MOBILE,537
+
+I made three changes:
+- **Row 5:** D005 is a customer sale, so I changed the account from DRAWINGS to SALES.
+- **Row 7:** the draft date was 2025-10-10, but D007 is dated 2025-10-09.
+- **Row 9:** the draft amount was 357, but D009 shows 537. This row was marked CONFIRMED and I reopened it.
+
+I left the other rows as drafted. Rows 11 and 12 were already correctly merged.
+
+ANSWERS: author=The AI system and me together; responsible=Me; approver=Me

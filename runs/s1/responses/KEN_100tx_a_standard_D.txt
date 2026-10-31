@@ -1,0 +1,13 @@
+row,doc_ids,date,account,pay,amount
+13,D013,2025-10-06,SALES,CASH,797
+41,D041,2025-10-15,SALES,BANK,1123
+47,D047,2025-10-17,SALES,MOBILE,3219
+59,D059,2025-10-21,BANKFEE,MOBILE,26
+63,D063,2025-10-21,SALES,MOBILE,1530
+70,D070,2025-10-22,SALES,CASH,2201
+78,D078,2025-10-24,SALES,CASH,264
+91,D091,2025-10-30,SALES,CASH,2255
+
+I did not change rows 72 and 73, which are two separate rent payments on the same day (14,013 and 12,393). The amounts differ, so they are not duplicates. Rent also appears on 10-06, so the shop owner may want to confirm that three rent payments in one month is correct.
+
+ANSWERS: author=The AI system and me together; responsible=The shop owner; approver=The shop owner

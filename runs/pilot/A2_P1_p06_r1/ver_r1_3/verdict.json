@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reproduced the preferred estimate (0.05, SE 0.25). The null holds with a quadratic term, quintile dummies and subgroup interactions, none of which are significant. The report correctly excludes the post-treatment buyer_rating, and it states that the result depends on selection on observables."}

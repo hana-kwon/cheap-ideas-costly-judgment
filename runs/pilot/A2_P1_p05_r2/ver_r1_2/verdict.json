@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the specifications and got the same numbers. The raw positive association disappears once pre-period size and age are controlled. Dropping any single other control leaves the estimate near -0.27 and not significant. Excluding the post-treatment collaboration index is justified, and the report states the unobserved-confounding caveat."}

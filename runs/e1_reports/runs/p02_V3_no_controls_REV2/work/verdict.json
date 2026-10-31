@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The report uses an unadjusted regression on observational data and ignores pre-period confounders. Remote share correlates with firm size, age and prior patenting. Adding the controls cuts the coefficient from about 2.3 (untrimmed) to 0.75, so the reported 2.07 is substantially confounded and the causal 'positive effect' claim is not supported."}

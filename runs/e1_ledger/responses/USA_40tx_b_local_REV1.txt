@@ -1,0 +1,12 @@
+Checking the draft against the documents turned up three errors:
+
+- Row 4 (D004) is a Venmo receipt of $122 from Tom R. with the note "sales". The draft has it as DRAWINGS, so it needs to be SALES.
+- Row 10 (D011) is dated 10/11 in the notebook, but the draft has 2025-10-12.
+- Row 17 (D018) is $91 in the notebook, but the draft has 19.
+
+Every other row matches its document.
+
+row,action,doc_ids,date,account,pay,amount
+4,EDIT,D004,2025-10-04,SALES,MOBILE,122
+10,EDIT,D011,2025-10-11,RENT,CASH,600
+17,EDIT,D018,2025-10-14,DRAWINGS,CASH,91

@@ -1,0 +1,2 @@
+{"ts": 1793318385.268679, "pid": 72686, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["Intercept", "supplier_diversity"], "nobs": 2000}
+{"ts": 1793318385.2738612, "pid": 72686, "kind": "sm_regression", "endog": "export_growth_2023", "exog": ["Intercept", "supplier_diversity", "log_sales_2020", "years_exporting_2020", "export_growth_2020"], "nobs": 2000}

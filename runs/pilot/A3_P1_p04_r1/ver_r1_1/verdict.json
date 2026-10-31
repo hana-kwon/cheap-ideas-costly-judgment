@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the preferred model and got the reported +0.841 (SE 0.241). It controls only for pre-period covariates and correctly leaves out the post-treatment mgmt_rating_2023. The report lists all 7 specifications and states the residual confounding caveat. The positive effect holds across every specification that uses only pre-treatment controls."}

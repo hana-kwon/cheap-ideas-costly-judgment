@@ -1,0 +1,7 @@
+structure,approve_flawed_right_conclusion,reject_correct
+Review,0.6111,0.0
+Review by smaller model,0.0833,1.0
+Review with checklist,0.0833,0.3333
+"Own analysis, then review",0.4167,0.0
+"Reproduce, compare conclusion",1.0,0.0
+"Fixed rule list, no model",0.0,0.0

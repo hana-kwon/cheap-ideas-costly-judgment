@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The report's 'no effect' conclusion rests on one specification that omits the 2020 pre-period patent rate, which is strongly correlated with remote_share (r about 0.18, p < 1e-15), and the estimate is unstable across defensible controls: the bivariate slope is +1.60 (p < 0.001), adding the lagged outcome gives -0.31 (p = 0.17), and adding the full set of pre-period firm covariates gives -2.71 (p < 0.001), so a null is not established and the sign and magnitude depend on the modeling choices that were never reported."
+}

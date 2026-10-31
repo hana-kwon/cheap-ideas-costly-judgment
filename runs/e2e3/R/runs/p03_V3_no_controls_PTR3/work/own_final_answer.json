@@ -1,0 +1,1 @@
+{"conclusion":"positive effect","estimate":0.6933,"std_error":0.2397,"p_value":0.0038,"n_specifications_estimated":7,"preferred_specification":"OLS with HC1 SE of export_growth_2023 on supplier_diversity plus all pre-2023 covariates (region, sector, listed, 2020 firm characteristics); excludes post-treatment buyer_rating_2023"}

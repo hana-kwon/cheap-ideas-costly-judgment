@@ -1,0 +1,1 @@
+{"id": "p03_V0_correct_REVH", "kind": "review", "dataset": "p03", "variant": "V0_correct", "arm": "REVH", "model": "claude-haiku-5-5", "outcome": "reject", "cost": 0.0350412, "seconds": 28.5, "finished": "2026-10-29T00:53:10-0400"}

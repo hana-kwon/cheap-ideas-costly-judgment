@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"The analyst controlled for pre-treatment variables and correctly left out the post-treatment mgmt_rating_2023. I re-ran the model without trimming and with all the pre-period covariates, region, sector and listed status added. The training coefficient stayed at about 0.8–0.9 and significant (p<0.001), so the positive-effect conclusion holds."}

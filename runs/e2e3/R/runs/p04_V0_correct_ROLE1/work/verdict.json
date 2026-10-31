@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"The design controls for pre-treatment size, age and lagged productivity, and it correctly leaves out the post-treatment mgmt_rating_2023. Adding all the other 2020 covariates, region, sector and listed status barely changes the estimate (0.84 vs 0.90, p<0.001). Trimming the outcome is minor, and the positive-effect conclusion holds."}

@@ -1,0 +1,10 @@
+Checking each document against the draft turns up three errors:
+
+- Row 5 (D005): the amount is 97 but the document says 79.
+- Row 8 (D009): the account is DRAWINGS but it is a customer sale, so it should be SALES.
+- Row 11 (D012): the date is 2025-10-12 but the document says 2025-10-11.
+
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-04,SALES,MOBILE,79
+8,EDIT,D009,2025-10-08,SALES,MOBILE,100
+11,EDIT,D012,2025-10-11,SALES,MOBILE,10

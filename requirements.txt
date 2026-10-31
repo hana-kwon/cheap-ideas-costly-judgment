@@ -1,0 +1,9 @@
+# Versions used for the reference run (Python 3.9.6). The stored-output demo needs only these.
+numpy==1.24.4
+pandas==2.2.3
+scipy==1.13.1
+statsmodels==0.14.5
+patsy==1.0.1
+matplotlib==3.9.4
+# Model calls (optional): the Claude Code CLI 2.0.43 was used for the reference runs and is installed
+# separately (npm). The Anthropic and OpenAI-compatible paths use only the Python standard library.

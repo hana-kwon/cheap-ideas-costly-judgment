@@ -1,0 +1,1 @@
+{"decision":"reject","reason":"The analyst reports an unadjusted bivariate estimate (2.29) that ignores pre-treatment confounders (size, age, prior productivity). Adding those controls cuts the estimate to about 0.80–0.84, so the reported effect is inflated roughly threefold. The analyst also trimmed the outcome ad hoc and ran only one specification."}

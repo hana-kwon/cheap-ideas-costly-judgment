@@ -1,0 +1,1 @@
+{"id": "p04_V2_omit_prior_TGT", "kind": "review", "dataset": "p04", "variant": "V2_omit_prior", "arm": "TGT", "model": "claude-sonnet-5-5", "outcome": "reject", "cost": 0.038453, "seconds": 15.1, "finished": "2026-10-29T01:01:05-0400"}

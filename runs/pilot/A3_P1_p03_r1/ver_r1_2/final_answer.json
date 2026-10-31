@@ -1,0 +1,1 @@
+{"conclusion":"positive effect","estimate":0.6933,"std_error":0.2397,"p_value":0.00382,"n_specifications_estimated":5,"preferred_specification":"OLS with HC1 SE, controlling for all 2020 pre-period covariates (excluding post-treatment buyer_rating_2023)"}

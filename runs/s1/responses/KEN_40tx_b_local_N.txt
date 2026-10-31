@@ -1,0 +1,6 @@
+row,action,doc_ids,date,account,pay,amount
+5,EDIT,D005,2025-10-05,SALES,MOBILE,1866
+22,EDIT,D022,2025-10-20,SALES,MOBILE,281
+28,EDIT,D028,2025-10-24,SALES,CASH,279
+
+ANSWERS: author=The AI system and me together; responsible=Me; approver=The shop owner

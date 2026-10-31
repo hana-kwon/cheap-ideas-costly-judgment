@@ -1,0 +1,5 @@
+row,action,doc_ids,date,account,pay,amount
+3,EDIT,D003,2025-10-06,SALES,CASH,576
+35,EDIT,D036,2025-10-26,TRANSPORT,BANK,310
+
+ANSWERS: author=The AI system and me together; responsible=Me; approver=Me

@@ -1,0 +1,8 @@
+{
+ "conclusion": "positive effect",
+ "estimate": 2.066,
+ "std_error": 0.2314,
+ "p_value": 0.0,
+ "n_specifications_estimated": 1,
+ "preferred_specification": "controls=none; sample=all; outcome=level; trim=1%"
+}

@@ -1,0 +1,1 @@
+{"conclusion": "positive effect", "estimate": 0.7503, "std_error": 0.2315, "p_value": 0.00119, "n_specifications_estimated": 6, "preferred_specification": "OLS of 2023 patents per 100 engineers on remote_share with all pre-period (2020) controls incl. lagged patents, region, segment; HC1 SEs; collab_index_2023 excluded as post-treatment mediator"}

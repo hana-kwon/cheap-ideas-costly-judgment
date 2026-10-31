@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The 'no effect' conclusion rests on one post-hoc north-region subsample (N=634, coef 0.316, p=0.37, 95% CI about -0.38 to 1.01), which is underpowered and does not show a zero effect. On the full 1,960-firm sample with the same controls, the coefficient is 0.608 (SE 0.23, p=0.008), and the central and south estimates are positive and borderline, so the report's conclusion is not supported."
+}

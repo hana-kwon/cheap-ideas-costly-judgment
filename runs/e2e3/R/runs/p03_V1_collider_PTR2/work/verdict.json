@@ -1,0 +1,1 @@
+{"decision": "reject", "reason": "The analyst controls for buyer_rating_2023, which is measured after the treatment and is a mediator or collider. This flips the estimate to -1.96, while the pre-period-controlled estimate is about +0.69 (p=0.004). The analyst also trimmed the outcome and ran only one specification, so the negative-effect conclusion is not supported."}

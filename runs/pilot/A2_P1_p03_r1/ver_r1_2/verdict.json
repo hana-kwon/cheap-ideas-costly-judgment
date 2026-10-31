@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I reproduced the preferred estimate: 0.693, SE 0.240, p=0.004, using pre-period controls only. It holds up when I trim extreme values and shows no clear heterogeneity. The report leaves out the post-treatment buyer_rating_2023 for a sound reason, lists all five specifications, and states the causal caveat and the modest size of the effect."}

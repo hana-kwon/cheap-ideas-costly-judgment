@@ -1,0 +1,297 @@
+{
+ "name": "pilot_261025",
+ "model": "claude-sonnet-5-5",
+ "cost_cap_usd": 30.0,
+ "max_cost_per_run_usd": 3.0,
+ "randomization": "random.Random(20261025).shuffle over 6 datasets x 4 orgs x 2 reps, P1 only",
+ "runs": [
+  {
+   "run_id": "A0_P1_p03_r2",
+   "dataset": "p03",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p05_r2",
+   "dataset": "p05",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p02_r1",
+   "dataset": "p02",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p06_r1",
+   "dataset": "p06",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p05_r2",
+   "dataset": "p05",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p03_r1",
+   "dataset": "p03",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p04_r2",
+   "dataset": "p04",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p01_r1",
+   "dataset": "p01",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p05_r1",
+   "dataset": "p05",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p01_r2",
+   "dataset": "p01",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p04_r1",
+   "dataset": "p04",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p01_r1",
+   "dataset": "p01",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p06_r2",
+   "dataset": "p06",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p05_r1",
+   "dataset": "p05",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p01_r2",
+   "dataset": "p01",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p02_r2",
+   "dataset": "p02",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p06_r1",
+   "dataset": "p06",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p05_r1",
+   "dataset": "p05",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p05_r2",
+   "dataset": "p05",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p04_r2",
+   "dataset": "p04",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p03_r1",
+   "dataset": "p03",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p06_r2",
+   "dataset": "p06",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p01_r2",
+   "dataset": "p01",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p05_r2",
+   "dataset": "p05",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p02_r2",
+   "dataset": "p02",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p03_r1",
+   "dataset": "p03",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p01_r1",
+   "dataset": "p01",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p03_r2",
+   "dataset": "p03",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p03_r1",
+   "dataset": "p03",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p02_r2",
+   "dataset": "p02",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p04_r2",
+   "dataset": "p04",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p06_r1",
+   "dataset": "p06",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p06_r1",
+   "dataset": "p06",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p06_r2",
+   "dataset": "p06",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p03_r2",
+   "dataset": "p03",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p01_r2",
+   "dataset": "p01",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p02_r1",
+   "dataset": "p02",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p02_r2",
+   "dataset": "p02",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p03_r2",
+   "dataset": "p03",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p04_r1",
+   "dataset": "p04",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p01_r1",
+   "dataset": "p01",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p04_r1",
+   "dataset": "p04",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p05_r1",
+   "dataset": "p05",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p06_r2",
+   "dataset": "p06",
+   "org": "A1",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A2_P1_p02_r1",
+   "dataset": "p02",
+   "org": "A2",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A3_P1_p02_r1",
+   "dataset": "p02",
+   "org": "A3",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A0_P1_p04_r1",
+   "dataset": "p04",
+   "org": "A0",
+   "pressure": "P1"
+  },
+  {
+   "run_id": "A1_P1_p04_r2",
+   "dataset": "p04",
+   "org": "A1",
+   "pressure": "P1"
+  }
+ ]
+}

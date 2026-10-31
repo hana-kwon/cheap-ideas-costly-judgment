@@ -1,0 +1,42 @@
+[D001] notebook 10/2: sales $231 cash
+[D002] Chase alert: deposit of $230.00 on 10/2/25, memo: sales
+[D003] Chase alert: deposit of $127.00 on 10/3/25, memo: sales
+[D004] Venmo: You paid $713.00 to Costco Business Center (10/3) note: restock
+[D005] Venmo: You received $51.00 from Maria G. (10/3) note: sales
+[D006] Venmo: You paid $190.00 to Maria G. (10/3) note: paid helper
+[D007] notebook 10/4: sales $163 cash
+[D008] Venmo: You paid $238.00 to Costco Business Center (10/4) note: restock
+[D009] Venmo: You paid $12.00 to Maria G. (10/6) note: gas for deliveries
+[D010] Venmo: You paid $7.00 to Tom R. (10/7) note: gas for deliveries
+[D011] notebook 10/8: sales $69 cash
+[D012] notebook 10/10: sales $166 cash
+[D013] Venmo: You paid $632.00 to Costco Business Center (10/10) note: restock
+[D014] receipt (handwritten): Costco Business Center - restock - 10/10/25 - total $632 paid Venmo
+[D015] Venmo: You paid $369.00 to Sysco Supply (10/11) note: restock
+[D016] notebook 10/11: sales $56 cash
+[D017] Venmo: You paid $528.00 to Maria G. (10/12) note: shop rent
+[D018] Venmo: You paid $215.00 to Costco Business Center (10/13) note: restock
+[D019] receipt (handwritten): Costco Business Center - restock - 10/13/25 - total $215 paid Venmo
+[D020] Chase alert: deposit of $125.00 on 10/14/25, memo: sales
+[D021] Chase alert: deposit of $176.00 on 10/15/25, memo: sales
+[D022] notebook 10/17: phone bill $12 cash
+[D023] Venmo: You paid $17.00 to Maria G. (10/17) note: gas for deliveries
+[D024] Venmo: You received $249.00 from Jake M. (10/18) note: sales
+[D025] Venmo: You received $156.00 from Maria G. (10/18) note: sales
+[D026] Chase alert: deposit of $40.00 on 10/20/25, memo: sales
+[D027] notebook 10/20: gas for deliveries $4 cash
+[D028] Venmo: You paid $1.00 to Tom R. (10/21) note: fee
+[D029] Venmo: You received $72.00 from Maria G. (10/22) note: sales
+[D030] Venmo: You paid $98.00 to Tom R. (10/22) note: took out for home
+[D031] Venmo: You paid $114.00 to Maria G. (10/22) note: took out for home
+[D032] Venmo: You received $113.00 from Maria G. (10/23) note: sales
+[D033] notebook 10/24: sales $136 cash
+[D034] Venmo: You paid $4.00 to Maria G. (10/24) note: gas for deliveries
+[D035] notebook 10/25: phone bill $12 cash
+[D036] Venmo: You received $188.00 from Tom R. (10/25) note: sales
+[D037] notebook 10/26: sales $153 cash
+[D038] Venmo: You received $130.00 from Tom R. (10/26) note: sales
+[D039] Venmo: You paid $4.00 to Tom R. (10/26) note: gas for deliveries
+[D040] Chase alert: deposit of $134.00 on 10/29/25, memo: sales
+[D041] Venmo: You paid $1.00 to Jake M. (10/31) note: fee
+[D042] Chase alert: payment of $111.00 on 10/31/25, memo: took out for home

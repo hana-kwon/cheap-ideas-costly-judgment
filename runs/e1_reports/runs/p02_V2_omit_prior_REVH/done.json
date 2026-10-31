@@ -1,0 +1,1 @@
+{"id": "p02_V2_omit_prior_REVH", "kind": "review", "dataset": "p02", "variant": "V2_omit_prior", "arm": "REVH", "model": "claude-haiku-5-5", "outcome": "approve", "cost": 0.0292177, "seconds": 25.0, "finished": "2026-10-29T00:49:51-0400"}

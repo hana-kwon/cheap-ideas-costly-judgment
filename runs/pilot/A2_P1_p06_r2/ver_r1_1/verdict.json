@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the analysis and got the same numbers: raw 1.78, adjusted 0.051 (p=0.84). The result holds when I add a quadratic term and interactions with product group, region and listing status. Leaving out the post-treatment buyer_rating_2023 is justified, and the report's no-effect conclusion, with its confounding caveat, is supported."}

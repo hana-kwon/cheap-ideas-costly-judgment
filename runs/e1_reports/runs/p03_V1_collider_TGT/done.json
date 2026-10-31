@@ -1,0 +1,1 @@
+{"id": "p03_V1_collider_TGT", "kind": "review", "dataset": "p03", "variant": "V1_collider", "arm": "TGT", "model": "claude-sonnet-5-5", "outcome": "reject", "cost": 0.03585045, "seconds": 16.0, "finished": "2026-10-29T01:02:02-0400"}

@@ -1,0 +1,4 @@
+{"ts": 1793317007.713471, "pid": 89896, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020"], "nobs": 647}
+{"ts": 1793317007.7227252, "pid": 89896, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020"], "nobs": 630}
+{"ts": 1793317007.726145, "pid": 89896, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020"], "nobs": 723}
+{"ts": 1793317007.729378, "pid": 89896, "kind": "sm_regression", "endog": "productivity_2023", "exog": ["Intercept", "training_hours", "log_employees_2020", "firm_age_2020", "productivity_2020"], "nobs": 2000}

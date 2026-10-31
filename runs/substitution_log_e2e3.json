@@ -1,0 +1,17 @@
+{
+ "source_name": "e23_261029",
+ "files_copied": 1921,
+ "files_changed": 180,
+ "files_excluded": 1,
+ "non_utf8_files": 0,
+ "replacements_by_rule": {
+  "<run_root>": 1330,
+  "<ledger_run_root>": 0,
+  "<home>": 16,
+  "<user>": 0
+ },
+ "excluded_names": [
+  "e2e3_analysis.json"
+ ],
+ "excluded_dirs": []
+}

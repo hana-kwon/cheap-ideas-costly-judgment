@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+2,EDIT,D002,2025-10-01,SALES,CASH,1368
+30,EDIT,D033,2025-10-23,PURCHASES,BANK,8077
+40,EDIT,D043,2025-10-31,SALES,CASH,2485
+
+Changes:
+- **Row 2:** D002 is dated 2025-10-01, but the draft had 2025-10-02.
+- **Row 30:** D033 is a stock purchase from Sharma Kirana Wholesale, so it belongs under PURCHASES, not DRAWINGS.
+- **Row 40:** D043 is 2485, but the draft had 2458. This was a CONFIRMED row that I reopened.
+
+I checked every other row against its document and left them as drafted, including the OPEN rows 4 and 27.
+
+ANSWERS: author=The AI system and me together; responsible=Shared; approver=The shop owner

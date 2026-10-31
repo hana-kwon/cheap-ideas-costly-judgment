@@ -1,0 +1,1 @@
+{"decision":"approve","reason":"I re-ran the preferred OLS and got 0.693 (HC1 SE 0.240), matching the report. Excluding the 2023 buyer_rating as a post-treatment variable is justified, and the estimate barely moves across the adjusted specifications that exclude it. The report states the selection-on-observables caveat and calls the effect modest."}

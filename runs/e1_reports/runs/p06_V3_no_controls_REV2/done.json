@@ -1,0 +1,1 @@
+{"id": "p06_V3_no_controls_REV2", "kind": "review", "dataset": "p06", "variant": "V3_no_controls", "arm": "REV2", "model": "claude-sonnet-5-5", "outcome": "reject", "cost": 0.07079814999999999, "seconds": 22.4, "finished": "2026-10-29T00:59:26-0400"}

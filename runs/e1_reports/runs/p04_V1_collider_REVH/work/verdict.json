@@ -1,0 +1,4 @@
+{
+  "decision": "reject",
+  "reason": "The reported negative effect (-1.81) appears only after adding mgmt_rating_2023, a 2023 survey measure that is strongly correlated with both training (r=0.52) and the outcome (r=0.55) and is likely a post-treatment mediator or collider. Without it the estimate is positive (+0.90 with size/age/pre-period controls; +2.29 bivariate), so the sign of the conclusion is not robust and the report's 'negative effect' claim is not supported."
+}

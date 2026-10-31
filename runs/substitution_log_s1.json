@@ -1,0 +1,17 @@
+{
+ "source_name": "s1_real_261028",
+ "files_copied": 291,
+ "files_changed": 0,
+ "files_excluded": 1,
+ "non_utf8_files": 0,
+ "replacements_by_rule": {
+  "<run_root>": 0,
+  "<ledger_run_root>": 0,
+  "<home>": 0,
+  "<user>": 0
+ },
+ "excluded_names": [
+  "analysis.json"
+ ],
+ "excluded_dirs": []
+}

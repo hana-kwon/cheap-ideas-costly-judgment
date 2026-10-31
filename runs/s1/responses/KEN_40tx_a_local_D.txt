@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+14,EDIT,D014,2025-10-11,UTILITIES,CASH,2630
+16,EDIT,D016,2025-10-13,TRANSPORT,CASH,216
+38,EDIT,D038,2025-10-27,SALES,MOBILE,928
+
+I checked every row against its source document, including the confirmed ones, and made three corrections:
+- **Row 14:** the KPLC electricity bill is UTILITIES, not AIRTIME.
+- **Row 16:** the notebook entry is dated 13/10, not 14/10. This was a confirmed row that I reopened.
+- **Row 38:** the M-PESA SMS says Ksh928, not 298.
+
+The other rows match their documents, including the open ones (rows 6 and 30).
+
+ANSWERS: author=The AI system and me together; responsible=Me; approver=The shop owner

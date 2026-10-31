@@ -1,0 +1,13 @@
+row,action,doc_ids,date,account,pay,amount
+11,EDIT,D012,2025-10-05,PURCHASES,MOBILE,524
+15,EDIT,D016,2025-10-05,DRAWINGS,CASH,164
+47,EDIT,D048,2025-10-17,PURCHASES,CASH,540
+61,EDIT,D063,2025-10-20,AIRTIME,CASH,12
+78,EDIT,D080,2025-10-26,SALES,MOBILE,91
+88,EDIT,D090,2025-10-29,WAGES,CASH,308
+97,EDIT,D100,2025-10-31,SALES,CASH,98
+100,EDIT,D103,2025-10-31,SALES,BANK,220
+
+I reopened and corrected six rows the AI had confirmed (11, 78, 88, 97) and OPEN rows (15, 47, 61, 100). Each was checked against its source document: amount transposition (D012, D048), wrong date (D016, D100), wrong payment method (D063), and wrong account (D080, D090, D103).
+
+ANSWERS: author=The AI system and me together; responsible=Shared; approver=The shop owner

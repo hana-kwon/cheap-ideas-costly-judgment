@@ -1,0 +1,1 @@
+{"decision": "approve", "reason": "I reproduced the estimate (+0.69 per SD, p≈0.004) from the OLS with pre-period controls. It is stable across subgroups and a quadratic check. The report correctly excludes the post-treatment buyer_rating, discloses all 5 specifications, and describes the result as modest and observational."}

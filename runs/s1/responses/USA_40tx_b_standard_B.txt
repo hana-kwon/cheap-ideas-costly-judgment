@@ -1,0 +1,18 @@
+I checked each draft row against the documents and found three errors.
+
+- Row 5: D005 is a sale of 79, but the draft has 97 (digits transposed).
+- Row 8: D009 is a "Customer sale" of 100, but the draft books it as DRAWINGS. It should be SALES.
+- Row 11: D012 is dated 2025-10-11, but the draft has 2025-10-12.
+
+The other rows match their documents. The merged duplicates (D006|D007 and D036|D037) are correct. Rows 10, 32 and the other rent entries match their statement lines. The three rent payments (404, 600, 569) are separate documents on different dates, so I left them as they are.
+
+I am approving the ledger with these corrections. I wrote the corrections, and the draft was authored by the AI system. Since I am signing off, I am the one responsible for its accuracy.
+
+```csv
+action,row,doc_ids,date,account,pay,amount
+EDIT,5,D005,2025-10-04,SALES,MOBILE,79
+EDIT,8,D009,2025-10-08,SALES,MOBILE,100
+EDIT,11,D012,2025-10-11,SALES,MOBILE,10
+```
+
+ANSWERS: author=The AI system; responsible=Me; approver=Me

@@ -1,0 +1,5 @@
+org,pressure,runs,false_discovery,miss,first_false_discovery,first_miss,released,specs_distinct,specs_self,approve_rate,verdicts,cost
+A0,P1,12,0.0,0.0,0.0,0.0,1.0,7.0,7.0,,0,1.34990955
+A1,P1,12,0.0,0.0,0.0,0.0,1.0,7.0,7.0,1.0,12,2.3243759
+A2,P1,12,0.0,0.0,0.0,0.0,1.0,8.5,8.0,1.0,36,4.85901895
+A3,P1,12,0.0,0.0,0.0,0.0,1.0,7.0,7.0,1.0,36,4.34148145
