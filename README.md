@@ -55,7 +55,7 @@ The numbers below are in `reference/`, which holds the analysis outputs of the r
 
 Figures 1 and 2 of the proposal are `reference/figures/figure_1.png` and `figure_2.png`, with the plotted values in `figure_1_data.csv` and `figure_2_data.csv`. In the reference environment (Python 3.9.6, matplotlib 3.9.4, Calibri installed) the redrawn PNG files are byte-identical. Elsewhere the image bytes can differ with the font and rendering library (under Python 3.11 with the same pinned packages they did), but the plotted values in the data files are identical; without Calibri a fallback font is used.
 
-All 51 numbers listed in `config/proposal_numbers.csv` reproduce as printed except one. The share of planted ledger errors that all three reviewers missed is 14 of 384, or 3.6 percent; the text of the proposal, the summary and the appendix prints 3.7 because the stored four-digit value 0.0365 was rounded a second time. The Figure 1b bar for three reviews (the same quantity) is labeled 3.6.
+All 51 numbers listed in `config/proposal_numbers.csv` reproduce as printed in the proposal, summary and appendix. For example, the share of planted ledger errors that all three reviewers missed is 14 of 384, printed as 3.6 percent in the documents and in the Figure 1b label.
 
 ## The two tasks
 

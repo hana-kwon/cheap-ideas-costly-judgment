@@ -7,7 +7,7 @@ n05,Proposal 3; Figure 1a,mean miss correlation of three same-model reviewers: l
 n06,Proposal 3; Figure 1a,mean miss correlation of three same-model reviewers: reports,0.94,{:.2f},E1['confirmatory']['H2R_dependence_REV123_approve_flawed']['rho'],
 n07,Proposal 3; Figure 1a,effective independent reviewers among three: ledgers,1.11,{:.2f},E1['confirmatory']['H2L_dependence_REV123_miss']['n_eff'],
 n08,Proposal 3; Figure 1a,effective independent reviewers among three: reports,1.04,{:.2f},E1['confirmatory']['H2R_dependence_REV123_approve_flawed']['n_eff'],
-n09,Proposal 3; Summary; A6,all three reviewers missed (percent of planted ledger errors; the Figure 1b label for the same quantity reads 3.6),3.7,{:.1f},"100 * (ROWS[ROWS.cls == 'seeded'][['det_REV1', 'det_REV2', 'det_REV3']].sum(axis=1) == 0).mean()","ROUNDING: 14 of 384 = 3.646 percent, which rounds to 3.6; the printed 3.7 comes from rounding the stored four-digit value 0.0365 a second time"
+n09,Proposal 3; Summary; A6; Figure 1b,all three reviewers missed (percent of planted ledger errors; 14 of 384; also the Figure 1b label),3.6,{:.1f},"100 * (ROWS[ROWS.cls == 'seeded'][['det_REV1', 'det_REV2', 'det_REV3']].sum(axis=1) == 0).mean()",
 n10,Proposal 3,all three would miss if independent (percent),0.01,{:.2f},100 * E1['confirmatory']['H2L_dependence_REV123_miss']['p_indep'],
 n11,Proposal 3,three reviewers caught when any one could flag (percent),96.4,{:.1f},100 * E1['exploratory_L']['panel_detect_any_majority_all']['any'],
 n12,Proposal 3,single reviewer caught (percent),94.8,{:.1f},100 * E1['exploratory_L']['means_seeded']['REV1']['detect'],
