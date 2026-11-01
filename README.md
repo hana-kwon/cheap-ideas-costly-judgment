@@ -1,6 +1,6 @@
-# Cheap Ideas, Costly Judgment: a test bed for organizing AI evaluation
+# Organizing Evaluation in Science
 
-This repository is the research artifact for the proposal "Cheap Ideas, Costly Judgment: Organizing Evaluation in AI-Enabled Science." It is a working test bed in which every error is planted by code and scored against a key, so evaluation structures can be compared on the same items: one AI review, several AI reviews combined by a voting rule, a review with a checklist, independent reproduction followed by comparison, a fixed rule list, own analysis before review, and panels with different role instructions.
+This repository is the research artifact for the proposal "Organizing Evaluation in Science." It is a working test bed in which every error is planted by code and scored against a key, so evaluation structures can be compared on the same items: one AI review, several AI reviews combined by a voting rule, a review with a checklist, independent reproduction followed by comparison, a fixed rule list, own analysis before review, and panels with different role instructions.
 
 It contains two tasks with known answers, the code that generates them, the prompts of every structure, every model transcript and decision from the reference experiments, the preregistered analysis code, and the plans with their time stamps and hashes. All data are synthetic, so everything can be shared and rerun.
 
@@ -123,6 +123,6 @@ S1, E1 and E2/E3 were each fixed before their first model call by recording the 
 
 ## Citation and license
 
-Please cite the proposal: [Authors] (2026). Cheap Ideas, Costly Judgment: Organizing Evaluation in AI-Enabled Science. Research proposal and test bed.
+Please cite the proposal: [Authors] (2026). Organizing Evaluation in Science. Research proposal and test bed.
 
-License: to be chosen by the authors.
+Code (`run_all.py`, `src/`, `tools/` and `config/`) is released under the MIT License; see `LICENSE`. Data, stored model responses and transcripts, reference outputs, figures, plans and documentation (`data/`, `runs/`, `reference/`, `preregistration/` and the README files) are released under the Creative Commons Attribution 4.0 International License (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/).
